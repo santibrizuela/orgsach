@@ -11,24 +11,21 @@ const Footer = () => {
             <Container>
                 <div className="flex flex-col md:flex-row justify-between pt-16 pb-8">
                     <FooterList>
-                        <h3>Shop Categories</h3>
-                        <Link href="#">Phones</Link>
-                        <Link href="#">Laptops</Link>
-                        <Link href="#">Desktops</Link>
-                        <Link href="#">Watches</Link>
-                        <Link href="#">TVs</Link>
-                        <Link href="#">Accesories</Link>
+                        <h3 className="text-lg font-bold w-fit">Shop Categories</h3>
+                        <Link className="w-fit" href="/catalogo">Planes de pago</Link>
+                        <Link className="w-fit" href="/catalogo">Usados</Link>
+                        <Link className="w-fit" href="/usadospremium">Usados Premium</Link>
                     </FooterList>
                     <FooterList>
-                        <h3>Customer Service</h3>
-                        <Link href="#">Contact Us</Link>
-                        <Link href="#">Shipping Policity</Link>
-                        <Link href="#">Returns & Exchanges</Link>
-                        <Link href="#">FAQs</Link>
+                        <h3 className="text-lg font-bold w-min">Navegación</h3>
+                        <Link className="inline-block max-w-content" href="#">Inicio</Link>
+                        <Link className="w-fit" href="#">Acerca de</Link>
+                        <Link className="w-fit" href="#">Catalogo</Link>
+                        <Link className="w-fit" href="#">Contactanos</Link>
                     </FooterList>
                     <div className="w-full md:w-1/3 mb-6 md:mb-0">
                         <h3 className="text-base font-bold mb-2">About Us</h3>
-                        <p className="mb-2"></p>
+                        <p className="mb-2">En Organización Sach, tenemos planes a tu medida con la flexibilidad para financiar tu 0km. De forma accesible y transparente, con cuotas en pesos y sin interés, en hasta 120 cuotas. </p>
                         <p>&copy; {new Date().getFullYear()} Brizuela Sideravicius.</p>
                     </div>
                     <FooterList>

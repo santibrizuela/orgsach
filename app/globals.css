@@ -3,11 +3,20 @@
 @tailwind utilities;
 
 @layer base {
+    Link{
+        @apply w-fit
+    }
+    .icolink{
+        @apply text-yellow-500
+    }
+    .icolink:hover{
+        @apply text-yellow-300
+    }
     .btn {
-        @apply rounded-full text-white font-medium inline-block p-2 shadow-xl uppercase bg-gradient-to-r from-yellow-400 to-yellow-900;
+        @apply rounded-full text-white font-medium inline-block p-2 shadow-xl uppercase bg-gradient-to-r from-yellow-400 to-yellow-600;
     }
     .btn:hover {
-        @apply text-gray-100 shadow-sm ease-in duration-300;
+        @apply text-gray-100 shadow-sm ease-in duration-300 bg-gradient-to-r from-yellow-600 to-yellow-400;
     }
     .btn-outline{
         @apply border-2 p-2 inline-block uppercase text-yellow-500 border-yellow-600 bg-none;
