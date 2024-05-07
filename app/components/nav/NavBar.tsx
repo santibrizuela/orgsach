@@ -20,7 +20,7 @@ const NavBar = async () => {
                             href='/planesdepago'
                             className='uppercase'
                         >
-                            <button className='btn btn-lg btn-outline flex items-center'>
+                            <button className='btn btn-outline flex items-center'>
                                 Planes
                             </button>
                         
