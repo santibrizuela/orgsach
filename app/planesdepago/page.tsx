@@ -1,6 +1,6 @@
 import { getCurrentUser } from "@/actions/getCurrentUser";
 import Container from "../components/Container";
-import { products } from "@/utils/products";
+import { planesdepago } from "@/utils/planesdepago";
 import ProductCard from "../components/products/ProductCard";
 import TopImage from "@/public/headerImg.png"
 import Image from "next/image";
@@ -20,7 +20,7 @@ const Catalogo = async () => {
             </div>
             <Container>
                 <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6 gap-8 mt-2">
-                    {products.map((product: any) => (
+                    {planesdepago.map((product: any) => (
                         <ProductCard key={product.id} data={product} />
                     ))}
                 </div>
