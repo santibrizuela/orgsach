@@ -3,6 +3,7 @@ import Container from "../Container";
 import FooterList from "./FooterList";
 import { FaGithub } from "react-icons/fa";
 import { AiFillInstagram, AiFillLinkedin, AiOutlineWhatsApp } from "react-icons/ai";
+import { ImLocation } from "react-icons/im";
 
 const Footer = () => {
     return ( 
@@ -33,17 +34,33 @@ const Footer = () => {
                     <FooterList>
                         <h3>Follow Us</h3>
                         <div className="flex gap-2">
-                            <Link href="#">
+                            <Link 
+                                href="#"
+                                target="_blank"
+                                rel="noreferrer"
+                            >
                                 <AiFillInstagram size={24}/>
                             </Link>
-                            <Link href="#">
-                                <FaGithub size={24}/>
-                            </Link>
-                            <Link href="#">
-                                <AiFillLinkedin size={24}/>
-                            </Link>
-                            <Link href="#">
+                            <Link 
+                                href="https://wa.me/5491122502345?text=Hola!%20Necesito%20m%C3%A1s%20informaci%C3%B3n%20sobre%20un%20veh%C3%ADculo%20que%20vi%20en%20la%20web."
+                                target="_blank"
+                                rel="noreferrer"
+                            >
                                 <AiOutlineWhatsApp size={24}/>
+                            </Link>
+                            <Link 
+                                href="https://maps.app.goo.gl/Ck941TCPFEZTcBaP7"
+                                target="_blank"
+                                rel="noreferrer"
+                            >
+                                <ImLocation size={24}/>
+                            </Link>
+                            <Link 
+                                href="#"
+                                target="_blank"
+                                rel="noreferrer"
+                            >
+                                <AiFillLinkedin size={24}/>
                             </Link>
                         </div>
                     </FooterList>
