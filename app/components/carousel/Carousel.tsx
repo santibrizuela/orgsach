@@ -17,7 +17,7 @@ const Carousel = () => {
                         <a href='/' className='font-bold uppercase'><span className="">Organizacion</span><br/> <span className="">Sach</span></a>
                     </h1>
                     <div className='flex items-center justify-between max-w-[330px] m-auto py-4 text-4xl'>
-                        <a target='_blank' rel='noreferrer' href='https://wa.me/5491122502345?text=Hola!%20Necesito%20m%C3%A1s%20informaci%C3%B3n%20sobre%20un%20veh%C3%ADculo%20que%20vi%20en%20la%20web.'>
+                        <a target='_blank' rel='noreferrer' href='https://wa.me/5491122502345?text=Hola!%20Necesito%20m%C3%A1s%20informaci%C3%B3n%20sobre%20un%20veh%C3%ADculo%20publicado%20en%20la%20web.'>
                             <div className='rounded-full icolink shadow-lg shadow-grey-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                                 <AiOutlineWhatsApp/>
                             </div>

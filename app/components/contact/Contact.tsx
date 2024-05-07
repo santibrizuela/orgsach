@@ -17,7 +17,7 @@ const Contact = () => {
               <h2 className='text-yellow-500 font-bold text-[45px] lg:text-[86px] leading-none mb-8'>
                 Contacto
               </h2>
-              <a target='_blank' rel='noreferrer' href='https://wa.me/5491122502345?text=Hola!%20Necesito%20m%C3%A1s%20informaci%C3%B3n%20sobre%20un%20veh%C3%ADculo%20que%20vi%20en%20la%20web.'>
+              <a target='_blank' rel='noreferrer' href='https://wa.me/5491122502345?text=Hola!%20Necesito%20m%C3%A1s%20informaci%C3%B3n%20sobre%20un%20veh%C3%ADculo%20publicado%20en%20la%20web.'>
                 <p className='flex menuNav'>
                   <FaWhatsapp className='my-auto mx-1'/> 11-2250-2345
                 </p>
@@ -43,7 +43,7 @@ const Contact = () => {
               <div 
                 className='flex-1 flex text-[20px] gap-x-6 my-6 max-w-max mx-auto lg:mx-2'
               >
-                <a target='_blank' rel='noreferrer' href='https://wa.me/5491122502345?text=Hola!%20Necesito%20m%C3%A1s%20informaci%C3%B3n%20sobre%20un%20veh%C3%ADculo%20que%20vi%20en%20la%20web.'>
+                <a target='_blank' rel='noreferrer' href='https://wa.me/5491122502345?text=Hola!%20Necesito%20m%C3%A1s%20informaci%C3%B3n%20sobre%20un%20veh%C3%ADculo%20publicado%20en%20la%20web.'>
                     <div className='rounded-full icolink shadow-lg shadow-grey-400 p-6 hover:scale-110 ease-in duration-300'>
                         <FaWhatsapp/>
                     </div>
