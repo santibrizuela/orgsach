@@ -10,7 +10,7 @@ export const products = [
     {
       id: "64a654593e91b8e73a351e9b",
       name: "DUSTER OROCH DYNAMIQUE 1.6",
-      description: "-Nafta<br/>-Manual<br/>-84.583km<br/>-Aire acondicionado<br/>-Cierrre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
+      description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
       price: 21500000,
       brand: "Renault",
       category: "Usado",
@@ -56,7 +56,7 @@ export const products = [
       id: "64a4ebe300900d44bb50628a",
       name: "PRISMA JOY LS 1.4 4P",
       description:
-        "",
+        "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cristales eléctricos (delanteros)<br/>-Alarma<br/>-Bluetooth",
       price: 12600000,
       brand: "Chevrolet",
       category: "Usado",
@@ -90,7 +90,7 @@ export const products = [
       id: "648437b38c44d52b9542e340",
       name: "GOL TREND SD BASE",
       description:
-        'The product is refurbished, fully functional, and in excellent condition. Backed by the 90-day E~Shop Renewed Guarantee.\n- This pre-owned product has been professionally inspected, tested and cleaned by Amazon qualified vendors. It is not certified by Apple.\n- This product is in "Excellent condition". The screen and body show no signs of cosmetic damage visible from 12 inches away.\n- This product will have a battery that exceeds 80% capacity relative to new.\n- Accessories may not be original, but will be compatible and fully functional. Product may come in generic box.\n- Product will come with a SIM removal tool, a charger and a charging cable. Headphone and SIM card are not included.\n- This product is eligible for a replacement or refund within 90-day of receipt if it does not work as expected.\n- Refurbished phones are not guaranteed to be waterproof.',
+        '-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Alarma<br/>-Bluetooth',
       price: 10900000,
       brand: "Volkswagen",
       category: "Usado",
@@ -98,12 +98,6 @@ export const products = [
       kms: 63000,
       inStock: true,
       images: [
-        {
-          color: "Black",
-          colorCode: "#000000",
-          image:
-            "/products/orgsachimages/vwgoltrendsdbase2017/vwgoltrendsdbase20173.png",
-        },
         {
           color: "Black",
           colorCode: "#000000",
@@ -120,7 +114,31 @@ export const products = [
           color: "Black",
           colorCode: "#000000",
           image:
-            "/products/orgsachimages/vwgoltrendsdbase2017/vwgoltrendsdbase201712.png",
+            "/products/orgsachimages/vwgoltrendsdbase2017/vwgoltrendsdbase20173.png",
+        },
+        {
+          color: "Black",
+          colorCode: "#000000",
+          image:
+            "/products/orgsachimages/vwgoltrendsdbase2017/vwgoltrendsdbase20174.png",
+        },
+        {
+          color: "Black",
+          colorCode: "#000000",
+          image:
+            "/products/orgsachimages/vwgoltrendsdbase2017/vwgoltrendsdbase20175.png",
+        },
+        {
+          color: "Black",
+          colorCode: "#000000",
+          image:
+            "/products/orgsachimages/vwgoltrendsdbase2017/vwgoltrendsdbase20176.png",
+        },
+        {
+          color: "Black",
+          colorCode: "#000000",
+          image:
+            "/products/orgsachimages/vwgoltrendsdbase2017/vwgoltrendsdbase20177.png",
         },
       ],
       reviews: [
@@ -129,7 +147,7 @@ export const products = [
     {
       id: "64a654593e91b8e73a351e9c",
       name: "BMW 325i 2010",
-      description: "Short description",
+      description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
       price: 15700,
       brand: "BMW",
       category: "Usado Premium",
@@ -167,7 +185,7 @@ export const products = [
     {
       id: "65a654593e91b8e73a351e9c",
       name: "AUDI A5 2.0 TURBO",
-      description: "Short description",
+      description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
       price: 22300000,
       brand: "Audi",
       category: "Usado Premium",
@@ -205,7 +223,7 @@ export const products = [
     {
       id: "65a654593e91b8e73a351e9p",
       name: "CRUZE PREMIER",
-      description: "Short description",
+      description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
       price: 36000000,
       brand: "Chevrolet",
       category: "Planes de pago",
@@ -255,7 +273,7 @@ export const products = [
     {
       id: "65a654593e91b8f73a351e9c",
       name: "CORSA CLASSIC LTS SPIRIT 1.4N",
-      description: "Short description",
+      description: "-Nafta / Gas<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos",
       price: 22300000,
       brand: "Chevrolet",
       category: "Usado",
@@ -305,7 +323,7 @@ export const products = [
     {
       id: "65a6545q3e91b8e73a351e9c",
       name: "TORO VOLCANO",
-      description: "Short description",
+      description: "-Diesel<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
       price: 21800000,
       brand: "Fiat",
       category: "Usado",
@@ -361,7 +379,7 @@ export const products = [
     {
       id: "65a654593e91b8aa351e9c",
       name: "ECO SPORT SE",
-      description: "Short description",
+      description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
       price: 11900000,
       brand: "Ford",
       category: "Usado",
@@ -411,7 +429,7 @@ export const products = [
     {
       id: "65a654593e91b18e73q51e9c",
       name: "PARTNER CONFORT 1.6",
-      description: "Short description",
+      description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Bluetooth",
       price: 17900000,
       brand: "Peugeot",
       category: "Usado",
@@ -467,7 +485,7 @@ export const products = [
     {
       id: "65a654593e91b1as1e9c",
       name: "WAVE",
-      description: "Short description",
+      description: "-Nafta<br/>-Manual",
       price: 2000000,
       brand: "Honda",
       category: "Usado",
@@ -517,7 +535,7 @@ export const products = [
     {
       id: "65a654593eg73a351e9c",
       name: "TRACKER 1.2 MT",
-      description: "Short description",
+      description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
       price: 22300000,
       brand: "Chevrolet",
       category: "Plan de pago",
@@ -549,7 +567,7 @@ export const products = [
     {
       id: "65a654593e92b8e73a351e9c",
       name: "ONIX 1.2",
-      description: "Short description",
+      description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
       price: 22300000,
       brand: "Chevrolet",
       category: "Plan de pago",
@@ -581,7 +599,7 @@ export const products = [
     {
       id: "65a654593e9a73a351e9c",
       name: "S10 CD 4X2 LS MT",
-      description: "Short description",
+      description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
       price: 22300000,
       brand: "Chevrolet",
       category: "Plan de pago",
