@@ -17,7 +17,7 @@ const NavBar = async () => {
                     <div className="flex items-center justify-between gap-3 md-gap-0 text-yellow-400">
                         <Link href="/" className={`${redressed.className} font-bold text-2xl`}>Sach</Link>
                         <a 
-                            href='#contact'
+                            href='/catalogo'
                             className='uppercase'
                         >
                             <button className='btn btn-lg btn-outline flex items-center'>
@@ -27,7 +27,7 @@ const NavBar = async () => {
                         </a>
                         <div className="flex items-center gap-8 md:gap-12 ">
                             <Link href="/catalogo">Planes de Pago</Link>
-                            <Link href="/usados">Usados Premium</Link>
+                            <Link href="/usadospremium">Usados Premium</Link>
                         </div>
                     </div>
                 </Container>

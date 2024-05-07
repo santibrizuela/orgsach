@@ -7,21 +7,27 @@
         @apply rounded-full text-white font-medium inline-block p-2 shadow-xl uppercase bg-gradient-to-r from-yellow-400 to-yellow-900;
     }
     .btn:hover {
-        @apply bg-gradient-to-l from-yellow-400 to-yellow-900 text-gray-100 shadow-sm ease-in duration-300;
+        @apply text-gray-100 shadow-sm ease-in duration-300;
     }
     .btn-outline{
         @apply border-2 p-2 inline-block uppercase text-yellow-500 border-yellow-600 bg-none;
     }
     .btn-outline:hover{
-        @apply bg-gradient-to-r from-yellow-400 to-yellow-900 border-yellow-600 ease-in duration-300;
+        @apply bg-yellow-400 border-none ease-in duration-300;
     }
     .btn-sm {
-        @apply h-[48px] px-6 text-sm;
+        @apply h-[48px] px-2 text-sm;
     }
     .btn-lg {
         @apply h-[56px] px-10 text-base;
     }
     .btn-link {
         @apply text-base;
+    }
+    .btn-wpp{
+        @apply text-green-600 border-green-500
+    }
+    .btn-wpp:hover{
+        @apply bg-green-600 border-none ease-in duration-300
     }
 }
