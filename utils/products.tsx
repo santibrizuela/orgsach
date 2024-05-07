@@ -209,7 +209,7 @@ export const products = [
       id: "65a654593e91b8e73a351e9c",
       name: "AUDI A5 2.0 TURBO 2012",
       description: "Short description",
-      price: 15700,
+      price: 22300000,
       brand: "Audi",
       category: "Usado Premium",
       inStock: true,

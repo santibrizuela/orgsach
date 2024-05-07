@@ -32,7 +32,7 @@ const Footer = () => {
                         <h3>Follow Us</h3>
                         <div className="flex gap-2">
                             <Link 
-                                href="#"
+                                href="https://www.instagram.com/sach_usados/"
                                 target="_blank"
                                 rel="noreferrer"
                             >

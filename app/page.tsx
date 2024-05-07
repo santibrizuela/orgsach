@@ -3,6 +3,7 @@ import Container from "./components/Container";
 import HomeBanner from "./components/HomeBanner";
 import ProductCard from "./components/products/ProductCard";
 import Carousel from "./components/carousel/Carousel";
+import Contact from "./components/contact/Contact";
 
 export default function Home() {
   return (
@@ -21,6 +22,7 @@ export default function Home() {
               return <ProductCard data={product} />
             })}
           </div>
+          <Contact />
         </Container>
       </div>
     </div>

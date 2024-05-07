@@ -6,23 +6,38 @@
     Link{
         @apply w-fit
     }
+    .text-yellow-400:hover{
+        @apply text-yellow-200 ease-in duration-300
+    }
+    .text-yellow-500:hover{
+        @apply text-yellow-200 ease-in duration-300
+    }
+    .menu-nav{
+        @apply w-fit
+    }
+    .menuNav:hover{
+        @apply text-yellow-200
+    }
+    .navbar-btn:hover .navbar-arrow {
+        @apply pl-2 ease-in duration-300;
+    }
     .icolink{
         @apply text-yellow-500
     }
     .icolink:hover{
-        @apply text-yellow-300
+        @apply text-yellow-300 ease-in duration-300
     }
     .btn {
-        @apply rounded-full text-white font-medium inline-block p-2 shadow-xl uppercase bg-gradient-to-r from-yellow-400 to-yellow-600;
+        @apply rounded-full text-yellow-900 font-medium inline-block p-2 shadow-xl uppercase bg-gradient-to-r from-yellow-300 to-yellow-500;
     }
     .btn:hover {
-        @apply text-gray-100 shadow-sm ease-in duration-300 bg-gradient-to-r from-yellow-600 to-yellow-400;
+        @apply text-yellow-200 shadow-sm ease-in duration-300 bg-gradient-to-r from-yellow-600 to-yellow-400;
     }
     .btn-outline{
         @apply border-2 p-2 inline-block uppercase text-yellow-500 border-yellow-600 bg-none;
     }
     .btn-outline:hover{
-        @apply bg-yellow-400 border-none ease-in duration-300;
+        @apply border-yellow-200 text-yellow-200 bg-none ease-in duration-300;
     }
     .btn-sm {
         @apply h-[48px] px-2 text-sm;

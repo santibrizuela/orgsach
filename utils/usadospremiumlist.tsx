@@ -4,8 +4,8 @@ export const usuariospremiumlist = [
       name: "BMW 325i 2010",
       description: "Short description",
       price: 15700,
-      brand: "Renault",
-      category: "Usado",
+      brand: "BMW",
+      category: "Usado Premium",
       inStock: true,
       images: [
         {
@@ -39,9 +39,9 @@ export const usuariospremiumlist = [
       id: "65a654593e91b8e73a351e9c",
       name: "AUDI A5 2.0 TURBO 2012",
       description: "Short description",
-      price: 15700,
-      brand: "Renault",
-      category: "Usado",
+      price: 22300000,
+      brand: "Audi",
+      category: "Usado Premium",
       inStock: true,
       images: [
         {
