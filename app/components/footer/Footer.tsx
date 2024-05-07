@@ -12,7 +12,7 @@ const Footer = () => {
                 <div className="flex flex-col md:flex-row justify-between pt-16 pb-8">
                     <FooterList>
                         <h3 className="text-lg font-bold w-fit">Shop Categories</h3>
-                        <Link className="w-fit" href="/catalogo">Planes de pago</Link>
+                        <Link className="w-fit" href="/planesdepago">Planes de pago</Link>
                         <Link className="w-fit" href="/catalogo">Usados</Link>
                         <Link className="w-fit" href="/usadospremium">Usados Premium</Link>
                     </FooterList>
@@ -20,8 +20,8 @@ const Footer = () => {
                         <h3 className="text-lg font-bold w-min">Navegación</h3>
                         <Link className="inline-block max-w-content" href="#">Inicio</Link>
                         <Link className="w-fit" href="#">Acerca de</Link>
-                        <Link className="w-fit" href="#">Catalogo</Link>
-                        <Link className="w-fit" href="#">Contactanos</Link>
+                        <Link className="w-fit" href="/catalogo">Catalogo</Link>
+                        <Link className="w-fit" href="#contact">Contactanos</Link>
                     </FooterList>
                     <div className="w-full md:w-1/3 mb-6 md:mb-0">
                         <h3 className="text-base font-bold mb-2">About Us</h3>

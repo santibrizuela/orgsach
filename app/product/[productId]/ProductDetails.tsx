@@ -5,9 +5,13 @@ import ProductImage from "@/app/components/products/ProductImage";
 import SetColor from "@/app/components/products/SetColor";
 import SetQuantity from "@/app/components/products/SetQuantity";
 import { useCart } from "@/hooks/useCart";
+import { formatKms } from "@/utils/formatKms";
+import { formatPrice } from "@/utils/formatPrice";
 import { Rating } from "@mui/material";
+import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useState } from "react";
+import { FaArrowRight } from "react-icons/fa";
 import { MdCheckCircle } from "react-icons/md";
 
 interface ProductDetailsProps{
@@ -127,55 +131,38 @@ const ProductDetails: React.FC<ProductDetailsProps> = ({ product }) => {
                 handleColorSelect={handleColorSelect}
             />
             <div className="flex flex-col gap-1 text-slate-500 text-sm">
-                <h2 className="text-3xl font-medium text-slate-700">{product.name}</h2>
-                <div className="flex items-center gap-2">
-                    <Rating value={productRating} readOnly />
-                    <div>{product.reviews.length} reviews</div>
-                </div>
+                <h2 className="text-3xl font-bold text-yellow-300">{product.name}</h2>
                 <Horizontal/>
-                <div className="text-justify">{product.description}</div>
+                <h3 className="text-2xl font-bold text-slate-700">{formatPrice(product.price)}</h3>
+                <div className={product.inStock ? "text-teal-400" : "text-rose-400"}>{product.inStock ? "In stock" : "Out of stock"}</div>
                 <Horizontal/>
+                <div className="text-justify" dangerouslySetInnerHTML={{ __html: product.description }} ></div>
+                <Horizontal/>
+                <p className="font-bold">{formatKms(product.kms)}</p>
                 <div>
                     <span className="font-semibold">CATEGORY:</span> {product.category}
                 </div>
                 <div>
                     <span className="font-semibold">BRAND:</span> {product.brand}
                 </div>
-                <div className={product.inStock ? "text-teal-400" : "text-rose-400"}>{product.inStock ? "In stock" : "Out of stock"}</div>
                 <Horizontal />
                 {isProductInCart ? (
                     <>
-                        <p className="mb-2 text-slate-500 flex items-center gap-1">
-                            <MdCheckCircle className="text-teal-400" size={20}/>
-                            <span>Product added to cart</span>
-                        </p>
-                        <div className="max-w-[300px]">
-                            <Button 
-                                label="View Cart" 
-                                outline 
-                                onClick={() => {
-                                    router.push("/cart");
-                                }}
-                            />
-                        </div>
+                        
                     </>
                 ) : (
                     <>
-                        <SetColor
-                        cartProduct={cartProduct}
-                        images={product.images}
-                        handleColorSelect={handleColorSelect}/>
-                        <Horizontal />
-                        <SetQuantity 
-                            cartProduct={cartProduct}
-                            handleQtyIncrease={handleQtyIncrease}
-                            handleQtyDecrease={handleQtyDecrease}/>
-                        <Horizontal />
                         <div className="max-w-[300px]">
-                            <Button
-                                label="Add To Cart"
-                                onClick= {() => handleAddProductToCart(cartProduct)}
-                            />
+                            <Link 
+                                href='#contact'
+                                className='uppercase'
+                            >
+                                <button className='btn btn-outline md:btn-lg flex items-center align-middle navbar-btn'>
+                                    <span className="md:text-xl">Contactanos </span>
+                                    <span className="navbar-arrow"><FaArrowRight className="md:text-xl ml-2 self-center" /></span>
+                                </button>
+                            
+                            </Link>
                         </div>
                     </>
                 )}

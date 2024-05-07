@@ -6,6 +6,7 @@ export const usuariospremiumlist = [
       price: 15700,
       brand: "BMW",
       category: "Usado Premium",
+      year: 2019,
       inStock: true,
       images: [
         {
@@ -42,6 +43,7 @@ export const usuariospremiumlist = [
       price: 22300000,
       brand: "Audi",
       category: "Usado Premium",
+      year: 2019,
       inStock: true,
       images: [
         {

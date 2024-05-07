@@ -9,11 +9,20 @@
 export const products = [
     {
       id: "64a654593e91b8e73a351e9b",
-      name: "RENAULT DUSTER OROCH DYNAMIQUE 1.6 2019",
-      description: "Short description",
+      name: "DUSTER OROCH DYNAMIQUE 1.6",
+      description: "-Nafta<br/>-Manual<br/>-84.583km<br/>-Aire acondicionado<br/>-Cierrre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
       price: 21500000,
       brand: "Renault",
       category: "Usado",
+      year: 2019,
+      kms: 84500,
+      caja: "Manual",
+      combustible: "Nafta",
+      aireacondicionado: true,
+      cierrecentralizado: true,
+      cristaleselectricos: true,
+      alarma: true,
+      bluetooth: true,
       inStock: true,
       images: [
         {
@@ -45,12 +54,14 @@ export const products = [
     },
     {
       id: "64a4ebe300900d44bb50628a",
-      name: "CHEVROLET PRISMA JOY LS 1.4 4P 2018",
+      name: "PRISMA JOY LS 1.4 4P",
       description:
         "",
       price: 12600000,
       brand: "Chevrolet",
       category: "Usado",
+      year: 2018,
+      kms: 58000,
       inStock: true,
       images: [
         {
@@ -77,12 +88,14 @@ export const products = [
     },
     {
       id: "648437b38c44d52b9542e340",
-      name: "VW GOL TREND SD BASE 2017",
+      name: "GOL TREND SD BASE",
       description:
         'The product is refurbished, fully functional, and in excellent condition. Backed by the 90-day E~Shop Renewed Guarantee.\n- This pre-owned product has been professionally inspected, tested and cleaned by Amazon qualified vendors. It is not certified by Apple.\n- This product is in "Excellent condition". The screen and body show no signs of cosmetic damage visible from 12 inches away.\n- This product will have a battery that exceeds 80% capacity relative to new.\n- Accessories may not be original, but will be compatible and fully functional. Product may come in generic box.\n- Product will come with a SIM removal tool, a charger and a charging cable. Headphone and SIM card are not included.\n- This product is eligible for a replacement or refund within 90-day of receipt if it does not work as expected.\n- Refurbished phones are not guaranteed to be waterproof.',
       price: 10900000,
-      brand: "Renault",
+      brand: "Volkswagen",
       category: "Usado",
+      year: 2017,
+      kms: 63000,
       inStock: true,
       images: [
         {
@@ -113,8 +126,10 @@ export const products = [
       description:
         "Cross computer control: Game changing capacity to navigate seamlessly on 3 computers, and copy paste text, images, and files from 1 to the other using Logitech flow\nDual connectivity: Use with upto 3 Windows or Mac computers via included Unifying receiver or Bluetooth Smart wireless technology. Gesture button- Yes",
       price: 3500000,
-      brand: "logitech",
-      category: "Accesories",
+      brand: "Chevrolet",
+      category: "Usado",
+      year: 2018,
+      kms: 84500,
       inStock: true,
       images: [
         {
@@ -144,8 +159,10 @@ export const products = [
       description:
         'Bluetooth Call and Message Reminder: The smart watch is equipped with HD speaker, after connecting to your phone via Bluetooth, you can directly use the smartwatches to answer or make calls, read messages, store contacts, view call history. The smartwatch can set up more message notifications in "GloryFit" APP. You will never miss any calls and messages during meetings, workout and riding.',
       price: 1500000,
-      brand: "Nerunsa",
-      category: "Watch",
+      brand: "Chevrolet",
+      category: "Usado",
+      year: 2019,
+      kms: 84500,
       inStock: true,
       images: [
         {
@@ -176,6 +193,8 @@ export const products = [
       price: 15700,
       brand: "BMW",
       category: "Usado Premium",
+      year: 2010,
+      kms: 102400,
       inStock: true,
       images: [
         {
@@ -207,11 +226,13 @@ export const products = [
     },
     {
       id: "65a654593e91b8e73a351e9c",
-      name: "AUDI A5 2.0 TURBO 2012",
+      name: "AUDI A5 2.0 TURBO",
       description: "Short description",
       price: 22300000,
       brand: "Audi",
       category: "Usado Premium",
+      year: 2012,
+      kms: 84500,
       inStock: true,
       images: [
         {
