@@ -1,8 +1,11 @@
 import React from 'react';
 // motion
-import { FaInstagram, FaWhatsapp, FaRegClock } from 'react-icons/fa';
+import { FaInstagram, FaWhatsapp, FaRegClock, FaEnvelope } from 'react-icons/fa';
 import { ImLocation } from 'react-icons/im';
-import { AiOutlineMail } from 'react-icons/ai';
+import { AiOutlineLinkedin, AiOutlineMail } from 'react-icons/ai';
+import { CiLocationOn } from 'react-icons/ci';
+import { IoLocationOutline } from "react-icons/io5";
+
 
 const Contact = () => {
   return (
@@ -11,7 +14,7 @@ const Contact = () => {
         <div className='flex flex-col lg:flex-row'>
           {/* text */}
           <div 
-            className='flex items-center mx-auto text-center lg:text-start'
+            className='max-w-[1240px] flex items-center mx-auto text-center lg:text-start'
           >
             <div>
               <h2 className='text-yellow-500 font-bold text-[45px] lg:text-[86px] leading-none mb-8'>
@@ -22,14 +25,14 @@ const Contact = () => {
                   <FaWhatsapp className='my-auto mx-1'/> 11-2250-2345
          
               </a>
-              <a className='flex menuNav' href='mailto:ventas@ferreteriadivano.com'>
+              <a className='flex menuNav' href='mailto:sachautomotriz@gmail.com'>
                 
-                  <AiOutlineMail className='my-auto mx-1'/> ventas@ferreteriadivano.com
+                  <AiOutlineMail className='my-auto mx-1'/> sachautomotriz@gmail.com
              
               </a>
               <a className='flex menuNav' target='_blank' rel='noreferrer' href='https://maps.app.goo.gl/JatUye5irxAN2pWB7'>
                 
-                  <ImLocation className='my-auto mx-1'/> Av. Francisco Beiró 3420
+                  <IoLocationOutline  className='my-auto mx-1'/> Av. Francisco Beiró 3420
                
               </a>
               <a className='flex menuNav' target='_blank' rel='noreferrer' href='https://maps.app.goo.gl/JatUye5irxAN2pWB7'>
@@ -51,9 +54,14 @@ const Contact = () => {
                         <FaInstagram/>
                     </div>
                 </a>    
-                <a target='_blank' rel='noreferrer' href='https://maps.app.goo.gl/JatUye5irxAN2pWB7'>
+                <a target='_blank' rel='noreferrer' href='mailto:sachautomotriz@gmail.com'>
                     <div className='rounded-full icolink shadow-lg shadow-grey-400 p-6 hover:scale-110 ease-in duration-300'>
-                        <ImLocation/>
+                        <AiOutlineMail/>
+                    </div>
+                </a>    
+                <a target='_blank' rel='noreferrer' href='#'>
+                    <div className='rounded-full icolink shadow-lg shadow-grey-400 p-6 hover:scale-110 ease-in duration-300'>
+                        <AiOutlineLinkedin/>
                     </div>
                 </a>
               </div>

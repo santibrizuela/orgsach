@@ -1,9 +1,10 @@
 import Link from "next/link";
 import Container from "../Container";
 import FooterList from "./FooterList";
-import { FaGithub } from "react-icons/fa";
+import { FaFacebookSquare } from "react-icons/fa";
 import { AiFillInstagram, AiFillLinkedin, AiOutlineWhatsApp } from "react-icons/ai";
-import { ImLocation } from "react-icons/im";
+import { FaSquareWhatsapp } from "react-icons/fa6";
+
 
 const Footer = () => {
     return ( 
@@ -18,8 +19,8 @@ const Footer = () => {
                     </FooterList>
                     <FooterList>
                         <h3 className="text-lg font-bold w-min">Navegación</h3>
-                        <Link className="inline-block max-w-content" href="#">Inicio</Link>
-                        <Link className="w-fit" href="#">Acerca de</Link>
+                        <Link className="inline-block max-w-content" href="/">Inicio</Link>
+                        <Link className="w-fit" href="/about">Acerca de</Link>
                         <Link className="w-fit" href="/catalogo">Catalogo</Link>
                         <Link className="w-fit" href="#contact">Contactanos</Link>
                     </FooterList>
@@ -43,7 +44,7 @@ const Footer = () => {
                                 target="_blank"
                                 rel="noreferrer"
                             >
-                                <AiOutlineWhatsApp size={24}/>
+                                <FaSquareWhatsapp size={24}/>
                             </Link>
                             <Link 
                                 href="#"
@@ -53,11 +54,11 @@ const Footer = () => {
                                 <AiFillLinkedin size={24}/>
                             </Link>
                             <Link 
-                                href="https://maps.app.goo.gl/Ck941TCPFEZTcBaP7"
+                                href="https://www.facebook.com/organizacionsach"
                                 target="_blank"
                                 rel="noreferrer"
                             >
-                                <ImLocation size={24}/>
+                                <FaFacebookSquare size={24}/>
                             </Link>
                         </div>
                     </FooterList>

@@ -7,7 +7,7 @@
         @apply w-fit
     }
     .text-yellow-400:hover{
-        @apply text-yellow-200 ease-in duration-300
+        @apply text-yellow-600 ease-in duration-300
     }
     .text-yellow-500:hover{
         @apply text-yellow-200 ease-in duration-300
