@@ -87,6 +87,76 @@ export const products = [
       ],
     },
     {
+      id: "64a4ebe3qwe4bb50628a",
+      name: "CRONOS",
+      description:
+        "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth<br/>-Sensores de estacionamiento<br/>-Tapizado de cuero<br/>-Pantalla multimedia<br/>-Cámara de retroceso",
+      price: 23500000,
+      brand: "Fiat",
+      category: "Plan de ahorro",
+      year: 2024,
+      kms: 0,
+      inStock: true,
+      images: [
+        {
+          color: "Black",
+          colorCode: "#000000",
+          image:
+            "/products/orgsachimages/fiatcronosprecisionat132024/fiatcronosprecisionat1320241.png",
+        },
+        {
+          color: "Black",
+          colorCode: "#000000",
+          image:
+            "/products/orgsachimages/fiatcronosprecisionat132024/fiatcronosprecisionat1320242.png",
+        },
+        {
+          color: "Black",
+          colorCode: "#000000",
+          image:
+            "/products/orgsachimages/fiatcronosprecisionat132024/fiatcronosprecisionat1320243.png",
+        },
+        {
+          color: "Black",
+          colorCode: "#000000",
+          image:
+            "/products/orgsachimages/fiatcronosprecisionat132024/fiatcronosprecisionat1320244.png",
+        },
+        {
+          color: "Black",
+          colorCode: "#000000",
+          image:
+            "/products/orgsachimages/fiatcronosprecisionat132024/fiatcronosprecisionat1320245.png",
+        },
+        {
+          color: "Black",
+          colorCode: "#000000",
+          image:
+            "/products/orgsachimages/fiatcronosprecisionat132024/fiatcronosprecisionat1320246.png",
+        },
+        {
+          color: "Black",
+          colorCode: "#000000",
+          image:
+            "/products/orgsachimages/fiatcronosprecisionat132024/fiatcronosprecisionat1320247.png",
+        },
+        {
+          color: "Black",
+          colorCode: "#000000",
+          image:
+            "/products/orgsachimages/fiatcronosprecisionat132024/fiatcronosprecisionat1320248.png",
+        },
+        {
+          color: "Black",
+          colorCode: "#000000",
+          image:
+            "/products/orgsachimages/fiatcronosprecisionat132024/fiatcronosprecisionat1320249.png",
+        },
+      ],
+      reviews: [
+      ],
+    },
+    {
       id: "648437b38c44d52b9542e340",
       name: "GOL TREND SD BASE",
       description:
@@ -178,6 +248,42 @@ export const products = [
           colorCode: "#808080",
           image:
             "/products/orgsachimages/bmw325i2010/bmw325i20104.png",
+        },
+        {
+          color: "Gray",
+          colorCode: "#808080",
+          image:
+            "/products/orgsachimages/bmw325i2010/bmw325i20105.png",
+        },
+        {
+          color: "Gray",
+          colorCode: "#808080",
+          image:
+            "/products/orgsachimages/bmw325i2010/bmw325i20106.png",
+        },
+        {
+          color: "Gray",
+          colorCode: "#808080",
+          image:
+            "/products/orgsachimages/bmw325i2010/bmw325i20107.png",
+        },
+        {
+          color: "Gray",
+          colorCode: "#808080",
+          image:
+            "/products/orgsachimages/bmw325i2010/bmw325i20108.png",
+        },
+        {
+          color: "Gray",
+          colorCode: "#808080",
+          image:
+            "/products/orgsachimages/bmw325i2010/bmw325i20109.png",
+        },
+        {
+          color: "Gray",
+          colorCode: "#808080",
+          image:
+            "/products/orgsachimages/bmw325i2010/bmw325i201010.png",
         },
       ],
       reviews: [],
@@ -536,7 +642,7 @@ export const products = [
       id: "65a654593eg73a351e9c",
       name: "TRACKER 1.2 MT",
       description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-      price: 22300000,
+      price: 208433,
       brand: "Chevrolet",
       category: "Plan de pago",
       year: 2024,
@@ -568,7 +674,7 @@ export const products = [
       id: "65a654593e92b8e73a351e9c",
       name: "ONIX 1.2",
       description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-      price: 22300000,
+      price: 221343,
       brand: "Chevrolet",
       category: "Plan de pago",
       year: 2024,
@@ -593,6 +699,12 @@ export const products = [
           image:
             "/products/orgsachimages/onix12/onix123.png",
         },
+        {
+          color: "White",
+          colorCode: "#FFFFFF",
+          image:
+            "/products/orgsachimages/onix12/onix124.png",
+        },
       ],
       reviews: [],
     },
@@ -600,7 +712,7 @@ export const products = [
       id: "65a654593e9a73a351e9c",
       name: "S10 CD 4X2 LS MT",
       description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-      price: 22300000,
+      price: 283168,
       brand: "Chevrolet",
       category: "Plan de pago",
       year: 2024,

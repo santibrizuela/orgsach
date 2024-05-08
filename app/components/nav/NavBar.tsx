@@ -5,6 +5,7 @@ import { getCurrentUser } from "@/actions/getCurrentUser";
 import Button from "@/app/components/Button";
 import { ImLocation } from "react-icons/im";
 import { FaArrowRight  } from 'react-icons/fa';
+import Image from "next/image";
 
 const roboto = Roboto({ subsets: ["latin"], weight: ["400"] });
 
@@ -16,8 +17,15 @@ const NavBar = async () => {
             <div className="py-4 border-b[1px]">
                 <Container>
                     <div className="flex items-center justify-between gap-3 md-gap-0">
-                        <Link href="/" className={`${roboto.className} font-bold text-2xl text-yellow-400`}>Sach</Link>
-                        <a 
+                        <Link href="/" className={`${roboto.className} font-bold text-2xl text-yellow-400 uppercase`}>
+                            <Image
+                                src="/sachLogo.png"
+                                width={100}
+                                height={100}
+                                alt="Banner Image"
+                            />
+                        </Link>
+                        <Link 
                             href='/plandeahorro'
                             className='uppercase'
                         >
@@ -26,10 +34,10 @@ const NavBar = async () => {
                                 <span className="navbar-arrow"><FaArrowRight className="md:text-xl ml-2 self-center" /></span>
                             </button>
                         
-                        </a>
+                        </Link>
                         <div className="flex items-center gap-8 md:gap-12 ">
-                            <Link className="text-yellow-400" href="/multimarca">Multimarca</Link>
-                            <Link className="text-yellow-400" href="/usadospremium">Usados Premium</Link>
+                            <Link className="text-yellow-400 uppercase" href="/multimarca">Multimarca</Link>
+                            <Link className="text-yellow-400 uppercase" href="/usadospremium">Usados Premium</Link>
                         </div>
                     </div>
                 </Container>

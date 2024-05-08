@@ -5,7 +5,7 @@ import {RiRadioButtonFill} from 'react-icons/ri'
 import Link from 'next/link'
 import { AiFillInstagram, AiFillLinkedin, AiOutlineFacebook, AiOutlineLinkedin } from 'react-icons/ai'
 import { FaSquareWhatsapp } from 'react-icons/fa6'
-import { FaFacebookSquare, FaInstagram, FaWhatsapp } from 'react-icons/fa'
+import { FaArrowRight, FaFacebookSquare, FaInstagram, FaWhatsapp } from 'react-icons/fa'
 import FooterList from '../components/footer/FooterList'
 
 const About = () => {
@@ -43,7 +43,10 @@ const About = () => {
                     encontrar el automóvil de tus sueños.
                 </p>
                 <Link href='#contact'>
-                    <button className='btn px-8 py-2 mt-4 text-white'>Contactanos</button>
+                    <button className='btn md:btn-lg flex items-center align-middle navbar-btn'>
+                        <span className="md:text-xl">Contactanos </span>
+                        <span className="navbar-arrow"><FaArrowRight className="md:text-xl ml-2 self-center" /></span>
+                    </button>
                 </Link>
             </div>
 

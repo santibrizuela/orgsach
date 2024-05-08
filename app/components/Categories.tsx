@@ -1,19 +1,8 @@
 import React from 'react'
-// motion
-import { motion } from 'framer-motion';
-// variants
-import { fadeIn } from '../variants';
 // img
-import TopImage from "@/public/headerImg.png"
 import Img1 from '@/public/headerImg.png';
-import Img2 from '../assets/portfolioDivano2.png';
-import Img3 from '../assets/portfolioResisten.png';
 import Img4 from '@/public/categoriesplandeahorro.png';
-import Img5 from '../assets/portfolioDivano.png';
-import Img6 from '../assets/portfolioMadero.png';
 import Img7 from '@/public/categoriesusadospremium.png';
-import Img8 from '../assets/portfolioFood.png';
-import Img9 from '../assets/portfolioSavino.png';
 import Image from 'next/image';
 import Link from 'next/link';
 import { FaArrowRight } from 'react-icons/fa';

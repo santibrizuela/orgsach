@@ -1,9 +1,12 @@
+import { Roboto } from "next/font/google";
 import { AiOutlineInstagram, AiOutlineWhatsApp } from "react-icons/ai";
 import { ImLocation } from 'react-icons/im'
 
+const roboto = Roboto({ subsets: ["latin"], weight: ["400"] });
+
 const Carousel = () => {
     return ( 
-        <div className="h-screen bg-cover bg-center" style={{ backgroundImage: "url('../../../headerImg.png')"}}>
+        <div className="h-screen bg-cover bg-center" style={{ backgroundImage: "url('../../../categoriesplandeahorro.png')"}}>
             <div className='max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center'>
                 <div 
                     className='justify-center text-center'
@@ -11,7 +14,7 @@ const Carousel = () => {
                     <h1 
                         className='text-[40px] font-bold text-yellow-500 leading-[0.8] md:text-[55px] w-min'
                         >
-                        <a href='/' className='font-bold uppercase'><span className="">Organizacion</span><br/> <span className="">Sach</span></a>
+                        <a href='/' className={`${roboto.className} text-yellow-400 uppercase`}><span className="font-bold">Organizacion</span><br/> <span className="font-bold">Sach</span></a>
                     </h1>
                     <div className='flex items-center justify-between max-w-[330px] m-auto py-4 text-4xl'>
                         <a target='_blank' rel='noreferrer' href='https://wa.me/5491122502345?text=Hola!%20Necesito%20m%C3%A1s%20informaci%C3%B3n%20sobre%20un%20veh%C3%ADculo%20publicado%20en%20la%20web.'>
@@ -31,9 +34,9 @@ const Carousel = () => {
                         </a>
                     </div>
                     
-                    <a href='/multimarca'>
+                    <a href='/plandeahorro'>
                         <div className='btn btn-primary m-1'>
-                            <p className='p-2'>Multimarca</p>
+                            <p className='p-2'>Plan de Ahorro</p>
                         </div>
                     </a>
                     <a href='#contact'>

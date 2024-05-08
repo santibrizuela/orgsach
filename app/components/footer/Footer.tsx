@@ -13,21 +13,26 @@ const Footer = () => {
                 <div className="flex flex-col md:flex-row justify-between mt-16 pb-8">
                     <FooterList>
                         <h3 className="text-lg font-bold w-fit">Shop Categories</h3>
-                        <Link className="w-fit" href="/planesdepago">Planes de pago</Link>
-                        <Link className="w-fit" href="/catalogo">Usados</Link>
+                        <Link className="w-fit" href="/plandeahorro">Plan de Ahorro</Link>
+                        <Link className="w-fit" href="/multimarca">Multimarca</Link>
                         <Link className="w-fit" href="/usadospremium">Usados Premium</Link>
                     </FooterList>
                     <FooterList>
                         <h3 className="text-lg font-bold w-min">Navegación</h3>
                         <Link className="inline-block max-w-content" href="/">Inicio</Link>
                         <Link className="w-fit" href="/about">Acerca de</Link>
-                        <Link className="w-fit" href="/catalogo">Catalogo</Link>
-                        <Link className="w-fit" href="#contact">Contactanos</Link>
+                        <Link className="w-fit" href="#contact">Contacto</Link>
                     </FooterList>
                     <div className="w-full md:w-1/3 mb-6 md:mb-0">
                         <h3 className="text-base font-bold mb-2">Acerca De</h3>
                         <p className="mb-2">En Organización Sach, tenemos planes a tu medida con la flexibilidad para financiar tu 0km. De forma accesible y transparente, con cuotas en pesos y sin interés, en hasta 120 cuotas. </p>
-                        <p>&copy; {new Date().getFullYear()} Brizuela Sideravicius.</p>
+                        <a 
+                            href="https://brizuelasideravicius.vercel.app/"
+                            target="_blank"
+                            rel="noreferrer"
+                        >
+                            &copy; {new Date().getFullYear()} Brizuela Sideravicius.
+                        </a>
                     </div>
                     <FooterList>
                         <h3>Seguinos!</h3>
