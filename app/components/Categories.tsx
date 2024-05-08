@@ -44,13 +44,13 @@ const productos = [
 
 const Categories = () => {
   return (
-    <div className='grid md:grid-cols-2 lg:grid-cols-3'>
+    <div className='grid md:grid-cols-2 lg:grid-cols-3 z-20'>
                 {productos.map((service, index) => {
                 // destructure service
                 const { name, description, cardimage, link } = service;
                 return (
                 <div
-                    className='max-2-[1240px] mx-auto p-2 gap-8 pt-2'
+                    className='max-2-[1240px] mx-auto p-2 gap-8 pt-2 z-0'
                     key={index}    
                 >
                     {/* new card */}
@@ -64,7 +64,7 @@ const Categories = () => {
                             <Image 
                             className='group-hover:scale-125 transition-all duration-500' 
                             src={cardimage} 
-                            alt='img' 
+                            alt='Agencia de vehículos' 
                             />
                             {/* title */}
                             <div className='absolute bottom-full left-12 

@@ -1,8 +1,5 @@
-import { fadeIn } from "@/app/variants";
 import { AiOutlineInstagram, AiOutlineWhatsApp } from "react-icons/ai";
 import { ImLocation } from 'react-icons/im'
-// motion
-import { motion } from 'framer-motion';
 
 const Carousel = () => {
     return ( 
