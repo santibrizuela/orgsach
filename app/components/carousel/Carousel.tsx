@@ -34,9 +34,9 @@ const Carousel = () => {
                         </a>
                     </div>
                     
-                    <a href='/catalogo'>
+                    <a href='/ingresos'>
                         <div className='btn btn-primary m-1'>
-                            <p className='p-2'>Catalogo</p>
+                            <p className='p-2'>Ingresos</p>
                         </div>
                     </a>
                     <a href='#contact'>

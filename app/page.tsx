@@ -4,6 +4,7 @@ import HomeBanner from "./components/HomeBanner";
 import ProductCard from "./components/products/ProductCard";
 import Carousel from "./components/carousel/Carousel";
 import Contact from "./components/contact/Contact";
+import Categories from "./components/Categories";
 
 export default function Home() {
   return (
@@ -15,6 +16,9 @@ export default function Home() {
         <Container>
           <div>
             <HomeBanner/>
+          </div>
+          <div>
+            <Categories/>
           </div>
           <h2 className='text-yellow-500 font-bold text-center text-[45px] lg:text-[45px] leading-none mb-8 '>
             ULTIMOS INGRESOS

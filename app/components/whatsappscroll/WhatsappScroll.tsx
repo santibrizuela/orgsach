@@ -38,7 +38,7 @@ const WhatsappScroll = () => {
       }`}
     >
       <a
-        href="https://www.wa.link/quekoy"
+        href="https://wa.me/5491122502345?text=Hola!%20Necesito%20m%C3%A1s%20informaci%C3%B3n%20sobre%20un%20veh%C3%ADculo%20publicado%20en%20la%20web."
         target="_blank"
         rel="noopener noreferrer"
     >
