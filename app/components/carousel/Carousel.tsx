@@ -31,9 +31,9 @@ const Carousel = () => {
                         </a>
                     </div>
                     
-                    <a href='/ingresos'>
+                    <a href='/multimarca'>
                         <div className='btn btn-primary m-1'>
-                            <p className='p-2'>Ingresos</p>
+                            <p className='p-2'>Multimarca</p>
                         </div>
                     </a>
                     <a href='#contact'>

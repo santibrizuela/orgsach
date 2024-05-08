@@ -2,7 +2,7 @@ import { getCurrentUser } from "@/actions/getCurrentUser";
 import Container from "../components/Container";
 import { usuariospremiumlist } from "@/utils/usadospremiumlist";
 import ProductCard from "../components/products/ProductCard";
-import TopImage from "@/public/headerImg.png"
+import TopImage from "@/public/categoriesusadospremium.png"
 import Image from "next/image";
 
 const Usadospremium = async () => {

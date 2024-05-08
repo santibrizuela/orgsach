@@ -8,7 +8,7 @@ import TopImage from "@/public/headerImg.png"
 import Img1 from '@/public/headerImg.png';
 import Img2 from '../assets/portfolioDivano2.png';
 import Img3 from '../assets/portfolioResisten.png';
-import Img4 from '@/public/categoriesplanesdepago.png';
+import Img4 from '@/public/categoriesplandeahorro.png';
 import Img5 from '../assets/portfolioDivano.png';
 import Img6 from '../assets/portfolioMadero.png';
 import Img7 from '@/public/categoriesusadospremium.png';
@@ -21,17 +21,17 @@ import { FaArrowRight } from 'react-icons/fa';
 const productos = [
   
     {
-      name: 'Ingresos',
+      name: 'Mutimarca',
       description:
       'Catálogo de vehículos en stock.',
       cardimage: Img1,
-      link:'ingresos',
+      link:'multimarca',
     },{
-      name: 'Planes de Pago',
+      name: 'Plan de Ahorro',
       description:
-      'Planes de ahorro en hasta 120 Cuotas.',
+      'Plan de ahorro en hasta 120 Cuotas.',
       cardimage: Img4,
-      link:'planesdepago',
+      link:'plandeahorro',
     },
     {
       name: 'Usados Premium',

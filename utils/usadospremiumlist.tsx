@@ -39,7 +39,7 @@ export const usuariospremiumlist = [
   },
   {
     id: "65a654593e91b8e73a351e9c",
-    name: "AUDI A5 2.0 TURBO",
+    name: "A5 2.0 TURBO",
     description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
     price: 22300000,
     brand: "Audi",

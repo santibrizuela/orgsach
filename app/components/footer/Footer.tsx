@@ -9,7 +9,7 @@ const Footer = () => {
     return ( 
         <footer className="bg-slate-700 text-slate-200 text-sm mt-16">
             <Container>
-                <div className="flex flex-col md:flex-row justify-between pt-16 pb-8">
+                <div className="flex flex-col md:flex-row justify-between mt-16 pb-8">
                     <FooterList>
                         <h3 className="text-lg font-bold w-fit">Shop Categories</h3>
                         <Link className="w-fit" href="/planesdepago">Planes de pago</Link>

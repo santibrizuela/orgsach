@@ -18,17 +18,17 @@ const NavBar = async () => {
                     <div className="flex items-center justify-between gap-3 md-gap-0">
                         <Link href="/" className={`${roboto.className} font-bold text-2xl text-yellow-400`}>Sach</Link>
                         <a 
-                            href='/planesdepago'
+                            href='/plandeahorro'
                             className='uppercase'
                         >
                             <button className='btn btn-outline md:btn-lg flex items-center align-middle navbar-btn'>
-                                <span className="md:text-xl">Planes </span>
+                                <span className="md:text-xl">Plan </span>
                                 <span className="navbar-arrow"><FaArrowRight className="md:text-xl ml-2 self-center" /></span>
                             </button>
                         
                         </a>
                         <div className="flex items-center gap-8 md:gap-12 ">
-                            <Link className="text-yellow-400" href="/ingresos">Ingresos</Link>
+                            <Link className="text-yellow-400" href="/multimarca">Multimarca</Link>
                             <Link className="text-yellow-400" href="/usadospremium">Usados Premium</Link>
                         </div>
                     </div>

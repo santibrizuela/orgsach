@@ -6,14 +6,14 @@
 //show up at the error) instead of firebase at the 
 //cofig for it to work out.
 
-export const planesdepago = [
+export const plandeahorro = [
     {
         id: "65a654593e91b8e73a351e9p",
         name: "CRUZE PREMIER",
         description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
         price: 36000000,
         brand: "Chevrolet",
-        category: "Planes de pago",
+        category: "Plan de ahorro",
         year: 2024,
         kms: 0,
         inStock: true,
@@ -63,7 +63,7 @@ export const planesdepago = [
       description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
       price: 22300000,
       brand: "Chevrolet",
-      category: "Plan de pago",
+      category: "Plan de ahorro",
       year: 2024,
       kms: 0,
       inStock: true,
@@ -95,7 +95,7 @@ export const planesdepago = [
       description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
       price: 22300000,
       brand: "Chevrolet",
-      category: "Plan de pago",
+      category: "Plan de ahorro",
       year: 2024,
       kms: 0,
       inStock: true,
@@ -127,7 +127,7 @@ export const planesdepago = [
       description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
       price: 22300000,
       brand: "Chevrolet",
-      category: "Plan de pago",
+      category: "Plan de ahorro",
       year: 2024,
       kms: 0,
       inStock: true,
