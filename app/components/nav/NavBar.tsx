@@ -28,7 +28,7 @@ const NavBar = async () => {
                         
                         </a>
                         <div className="flex items-center gap-8 md:gap-12 ">
-                            <Link className="text-yellow-400" href="/catalogo">Catálogo</Link>
+                            <Link className="text-yellow-400" href="/ingresos">Ingresos</Link>
                             <Link className="text-yellow-400" href="/usadospremium">Usados Premium</Link>
                         </div>
                     </div>

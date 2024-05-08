@@ -24,12 +24,12 @@ const Footer = () => {
                         <Link className="w-fit" href="#contact">Contactanos</Link>
                     </FooterList>
                     <div className="w-full md:w-1/3 mb-6 md:mb-0">
-                        <h3 className="text-base font-bold mb-2">About Us</h3>
+                        <h3 className="text-base font-bold mb-2">Acerca De</h3>
                         <p className="mb-2">En Organización Sach, tenemos planes a tu medida con la flexibilidad para financiar tu 0km. De forma accesible y transparente, con cuotas en pesos y sin interés, en hasta 120 cuotas. </p>
                         <p>&copy; {new Date().getFullYear()} Brizuela Sideravicius.</p>
                     </div>
                     <FooterList>
-                        <h3>Follow Us</h3>
+                        <h3>Seguinos!</h3>
                         <div className="flex gap-2">
                             <Link 
                                 href="https://www.instagram.com/sach_usados/"
@@ -46,18 +46,18 @@ const Footer = () => {
                                 <AiOutlineWhatsApp size={24}/>
                             </Link>
                             <Link 
-                                href="https://maps.app.goo.gl/Ck941TCPFEZTcBaP7"
-                                target="_blank"
-                                rel="noreferrer"
-                            >
-                                <ImLocation size={24}/>
-                            </Link>
-                            <Link 
                                 href="#"
                                 target="_blank"
                                 rel="noreferrer"
                             >
                                 <AiFillLinkedin size={24}/>
+                            </Link>
+                            <Link 
+                                href="https://maps.app.goo.gl/Ck941TCPFEZTcBaP7"
+                                target="_blank"
+                                rel="noreferrer"
+                            >
+                                <ImLocation size={24}/>
                             </Link>
                         </div>
                     </FooterList>

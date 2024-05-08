@@ -23,7 +23,7 @@ export default async function RootLayout({
 
   return (
     <html lang="en">
-      <body className={`${poppins.className}text-slate-700`}>
+      <body className={`${poppins.className}text-slate-700 bg-slate-100`}>
         <Toaster 
         toastOptions={{
           style: {

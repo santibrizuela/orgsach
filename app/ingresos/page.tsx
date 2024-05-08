@@ -5,7 +5,7 @@ import ProductCard from "../components/products/ProductCard";
 import TopImage from "@/public/headerImg.png"
 import Image from "next/image";
 
-const Catalogo = async () => {
+const Ingresos = async () => {
     const currentUser = await getCurrentUser();
     return ( 
         <div>
@@ -14,7 +14,7 @@ const Catalogo = async () => {
                     <div className='absolute top-30 w-full h-[30vh] lg:h-[40vh] z-10'/>
                     <Image className='h-full w-full object-cover' src={TopImage} alt='Catalogo completo'/>
                     <div className='absolute top-[14%] lg:top-[24%] max-w-[1240px] w-full text-white z-20 p-2 text-left'>
-                        <h2 className='py-2 font-bold text-gradient text-[2.6rem] uppercase text-yellow-500'>Catalogo</h2>
+                        <h2 className='p-2 font-bold text-gradient text-[2.6rem] uppercase text-yellow-500'>Ingresos</h2>
                     </div>
                 </div>
             </div>
@@ -29,4 +29,4 @@ const Catalogo = async () => {
      );
 }
  
-export default Catalogo;
+export default Ingresos;

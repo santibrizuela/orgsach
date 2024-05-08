@@ -124,7 +124,7 @@ const ProductDetails: React.FC<ProductDetailsProps> = ({ product }) => {
     //}, [cartProduct]);
     
     return (
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-12 bg-slate-50 p-3">
             <ProductImage 
                 cartProduct={cartProduct}
                 product={product}
