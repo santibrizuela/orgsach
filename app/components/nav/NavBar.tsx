@@ -43,7 +43,7 @@ const NavBar = async () => {
                                 target="_blank"
                                 rel="noreferrer"    
                             >
-                                asesoramiento
+                                contacto
                             </Link>
                         </div>
                     </div>
