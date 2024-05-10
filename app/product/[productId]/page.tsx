@@ -1,5 +1,6 @@
 import ProductDetails from "./ProductDetails";
 import Container from "../../components/Container";
+import ListRating from "./ListRating";
 import { products } from "@/utils/products";
 
 interface IPrams {
