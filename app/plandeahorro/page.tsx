@@ -13,8 +13,8 @@ const Plandeahorro = async () => {
                 <div className='w-screen h-[30vh] lg:h-[40vh] top-0'>
                     <div className='absolute top-30 w-full h-[30vh] lg:h-[40vh] z-10'/>
                     <Image className='h-full w-full object-cover z-1' src={TopImage} alt='Planes de ahorro'/>
-                    <div className='absolute top-[14%] lg:top-[24%] max-w-[1240px] w-full text-white z-20 p-2 text-left'>
-                        <h2 className='p-2 font-bold text-gradient text-[2.6rem] uppercase text-yellow-500'>PLAN DE AHORRO</h2>
+                    <div className='absolute top-[14%] lg:top-[40%] max-w-[1240px] w-full text-white z-20 p-2 text-left'>
+                        <h2 className='p-2 font-bold text-[2.6rem] uppercase text-yellow-500'>PLAN DE AHORRO</h2>
                     </div>
                 </div>
             </div>

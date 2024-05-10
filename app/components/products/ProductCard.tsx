@@ -29,16 +29,14 @@ const ProductCard: React.FC<ProductCardProps> = ({data}) => {
                     fill
                     src={data.images[0].image}
                     alt={data.name}
-                    className='w-full h-full object-contain'/>
+                    className='w-full h-full object-contain hover:scale-125 ease-in duration-300'/>
                 </div>
                 <div className='mt-8 font-bold text-md'>
                     {truncateText(data.name)}
                 </div>
+                    {data.brand} {data.year}
                 <div>
-                    {data.brand}
-                </div>
-                <div>
-                    {data.year}
+                    {data.category}
                 </div>
                 <div className='font-semibold text-xl text-yellow-500'>{formatPrice(data.price)}</div>
                 

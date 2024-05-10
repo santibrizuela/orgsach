@@ -2,6 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+html{
+    scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+body {
+overflow-x: hidden;
+}
+
 @layer base {
     Link{
         @apply w-fit
@@ -18,8 +28,11 @@
     .menuNav:hover{
         @apply text-yellow-200
     }
+    .navbar-btn .navbar-arrow {
+        @apply ease-in duration-300;
+    }
     .navbar-btn:hover .navbar-arrow {
-        @apply pl-2 ease-in duration-300;
+        @apply pl-5 ease-in duration-300;
     }
     .icolink{
         @apply text-yellow-400
@@ -28,13 +41,13 @@
         @apply ease-in duration-500
     }
     .btn {
-        @apply text-yellow-100 rounded-full font-medium inline-block p-2 shadow-xl uppercase bg-gradient-to-r from-yellow-300 to-yellow-500;
+        @apply text-yellow-100 rounded-full font-medium inline-block p-2 shadow-xl uppercase bg-gradient-to-r from-yellow-300 to-yellow-500 ease-in duration-300;
     }
     .btn:hover {
         @apply text-yellow-900 shadow-sm ease-in duration-300 bg-gradient-to-r from-yellow-600 to-yellow-400;
     }
     .btn-outline{
-        @apply border-2 p-2 inline-block uppercase text-yellow-500 border-yellow-600 bg-none;
+        @apply border-2 p-2 inline-block uppercase text-yellow-500 border-yellow-600 bg-none ease-in duration-300;
     }
     .btn-outline:hover{
         @apply border-yellow-200 text-yellow-200 bg-none ease-in duration-300;
@@ -55,6 +68,6 @@
         @apply bg-green-600 border-none ease-in duration-300
     }
     .home-banner-link p:hover{
-        @apply mr-2
+        @apply mr-5 ease-in duration-300
     }
 }

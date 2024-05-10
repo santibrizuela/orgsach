@@ -35,13 +35,12 @@ const NavBar = async () => {
                             </button>
                         
                         </Link>
+                        
                         <div className="flex items-center gap-8 md:gap-12 ">
                             <Link className="text-yellow-400 uppercase" href="/multimarca">Multimarca</Link>
                             <Link 
                                 className="text-yellow-400 uppercase" 
-                                href="https://wa.me/5491122502345?text=Hola!%20Necesito%20m%C3%A1s%20informaci%C3%B3n%20sobre%20un%20veh%C3%ADculo%20publicado%20en%20la%20web."
-                                target="_blank"
-                                rel="noreferrer"    
+                                href="#contact"
                             >
                                 contacto
                             </Link>
