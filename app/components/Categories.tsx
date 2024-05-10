@@ -2,7 +2,7 @@ import React from 'react'
 // img
 import Img1 from '@/public/headerImg.png';
 import Img4 from '@/public/categoriesplandeahorro.png';
-import Img7 from '@/public/categoriesusadospremium.png';
+import Img7 from '@/public/categoriesasesoramiento.png';
 import Image from 'next/image';
 import Link from 'next/link';
 import { FaArrowRight } from 'react-icons/fa';
@@ -23,11 +23,11 @@ const productos = [
       link:'plandeahorro',
     },
     {
-      name: 'Usados Premium',
+      name: 'Asesoramiento',
       description:
-       'Vehículos de Alta Gama.',
+       'Solicitá asesorarte con un vendedor.',
       cardimage: Img7,
-      link:'usadospremium',
+      link:'https://wa.me/5491122502345?text=Hola!%20Necesito%20m%C3%A1s%20informaci%C3%B3n%20sobre%20un%20veh%C3%ADculo%20publicado%20en%20la%20web.',
     },
 ]
 
@@ -58,7 +58,7 @@ const Categories = () => {
                             {/* title */}
                             <div className='absolute bottom-full left-12 
                             group-hover:bottom-16 lg:group-hover:bottom-16 transition-all duration-700 z-50'>
-                            <span className='text-3xl font-bold text-yellow-400'>{name}</span>
+                            <Link href={link}><span className='text-3xl font-bold text-yellow-400'>{name}</span></Link>
                             </div>
                             {/* pretitle */}
                             <div className='absolute bottom-full left-12 

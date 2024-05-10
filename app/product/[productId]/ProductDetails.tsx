@@ -168,16 +168,19 @@ const ProductDetails: React.FC<ProductDetailsProps> = ({ product }) => {
                 <h2 className="text-3xl font-bold text-yellow-300">{product.name}</h2>
                 <Horizontal/>
                 <h3 className="text-2xl font-bold text-slate-700">{formatPrice(product.price)}</h3>
-                <div className={product.inStock ? "text-teal-400" : "text-rose-400"}>{product.inStock ? "In stock" : "Out of stock"}</div>
+                <div className={product.inStock ? "text-teal-400" : "text-rose-400"}>{product.inStock ? "En stock" : "Out of stock"}</div>
                 <Horizontal/>
                 <div className="text-justify" dangerouslySetInnerHTML={{ __html: product.description }} ></div>
                 <Horizontal/>
                 <p className="font-bold">{formatKms(product.kms)}</p>
                 <div>
-                    <span className="font-semibold">CATEGORY:</span> {product.category}
+                    <span className="font-semibold">CATEGORIA:</span> {product.category}
                 </div>
                 <div>
-                    <span className="font-semibold">BRAND:</span> {product.brand}
+                    <span className="font-semibold">MARCA:</span> {product.brand}
+                </div>
+                <div>
+                    <span className="font-semibold">AÑO:</span> {product.year}
                 </div>
                 <Horizontal />
                 {isProductInCart ? (

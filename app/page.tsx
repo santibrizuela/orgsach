@@ -15,10 +15,10 @@ export default function Home() {
       <div className="p-8">
         <Container>
           <div>
-            <HomeBanner/>
+            <Categories/>
           </div>
           <div>
-            <Categories/>
+            <HomeBanner/>
           </div>
           <div className="grid sm:grid-cols-3 lg:grid-cols-4 2xl:grid-cols-6 gap-8">
             {products.map((product: any) => {

@@ -55,6 +55,6 @@
         @apply bg-green-600 border-none ease-in duration-300
     }
     .home-banner-link p:hover{
-        @apply mr-2 ease-in duration-300
+        @apply mr-2
     }
 }
