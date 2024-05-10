@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import TopImage from "@/public/sachLogo.png"
+import TopImage from "@/public/orgSachLogo.png"
 import {RiRadioButtonFill} from 'react-icons/ri'
 import Link from 'next/link'
 import { AiFillInstagram, AiFillLinkedin, AiOutlineFacebook, AiOutlineLinkedin } from 'react-icons/ai'

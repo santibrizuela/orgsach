@@ -5,6 +5,7 @@ import ProductCard from "./components/products/ProductCard";
 import Carousel from "./components/carousel/Carousel";
 import Contact from "./components/contact/Contact";
 import Categories from "./components/Categories";
+import BannerChevrolet from "./components/bannerChevrolet/BannerChevrolet";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <div>
         <Carousel/>
       </div>
+      
       <div className="p-8">
         <Container>
           <div>
@@ -27,6 +29,9 @@ export default function Home() {
             })}
           </div>
         </Container>
+      </div>
+      <div>
+        <BannerChevrolet/>
       </div>
     </div>
     
