@@ -58,12 +58,12 @@ const Categories = () => {
                             {/* title */}
                             <div className='absolute bottom-full left-12 
                             group-hover:bottom-16 lg:group-hover:bottom-16 transition-all duration-700 z-50'>
-                            <Link href={link}><span className='text-3xl font-bold text-yellow-400'>{name}</span></Link>
+                            <Link href={link}><span className='text-3xl font-bold text-yellow-600 hover:text-yellow-400'>{name}</span></Link>
                             </div>
                             {/* pretitle */}
                             <div className='absolute bottom-full left-12 
                             group-hover:bottom-24 transition-all duration-500 z-50'>
-                            <span className='text-white'>{description}</span>             
+                            <span className='text-yellow-50'>{description}</span>             
                             </div>
                             {/* button */}
                             <div className='absolute bottom-full left-12 

@@ -22,7 +22,7 @@ const Carousel = () => {
                     
                     <div className="my-2">
                         <Link href='/plandeahorro'>
-                            <div className='btn btn-primary m-1 text-white'>
+                            <div className='btn btn-primary m-1'>
                                 <p className='p-2'>Plan de Ahorro</p>
                             </div>
                         </Link>

@@ -37,9 +37,9 @@ const NavBar = async () => {
                         </Link>
                         
                         <div className="flex items-center gap-8 md:gap-12 ">
-                            <Link className="text-yellow-400 uppercase" href="/multimarca">Multimarca</Link>
+                            <Link className="text-yellow-600 hover:text-yellow-400 uppercase" href="/multimarca">Multimarca</Link>
                             <Link 
-                                className="text-yellow-400 uppercase" 
+                                className="text-yellow-600 hover:text-yellow-400 uppercase" 
                                 href="#contact"
                             >
                                 contacto

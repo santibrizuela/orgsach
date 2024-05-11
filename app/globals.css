@@ -16,17 +16,14 @@ overflow-x: hidden;
     Link{
         @apply w-fit
     }
-    .text-yellow-400:hover{
-        @apply text-yellow-600 ease-in duration-300
+    .text-yellow-600{
+        @apply  ease-in duration-300
     }
-    .text-yellow-500:hover{
-        @apply text-yellow-200 ease-in duration-300
-    }
-    .menu-nav{
-        @apply w-fit
+    .menuNav{
+        @apply w-fit text-yellow-600 ease-in duration-300
     }
     .menuNav:hover{
-        @apply text-yellow-200
+        @apply text-yellow-400 ease-in duration-300
     }
     .navbar-btn .navbar-arrow {
         @apply ease-in duration-300;
@@ -35,22 +32,22 @@ overflow-x: hidden;
         @apply pl-5 ease-in duration-300;
     }
     .icolink{
-        @apply text-yellow-400
+        @apply text-yellow-600 ease-in duration-300
     }
     .icolink:hover{
-        @apply ease-in duration-500
+        @apply text-yellow-400 ease-in duration-300
     }
     .btn {
-        @apply text-yellow-100 rounded-full font-medium inline-block p-2 shadow-xl uppercase bg-gradient-to-r from-yellow-300 to-yellow-500 ease-in duration-300;
+        @apply text-yellow-50 border-2 border-yellow-600 rounded-full font-medium inline-block p-2 shadow-xl uppercase bg-yellow-600 ease-in duration-300;
     }
     .btn:hover {
-        @apply text-yellow-900 shadow-sm ease-in duration-300 bg-gradient-to-r from-yellow-600 to-yellow-400;
+        @apply text-yellow-100 shadow-sm ease-in duration-300 bg-yellow-400 border-yellow-400;
     }
     .btn-outline{
-        @apply border-2 p-2 inline-block uppercase text-yellow-500 border-yellow-600 bg-none ease-in duration-300;
+        @apply bg-transparent border-2 p-2 inline-block uppercase text-yellow-600 border-yellow-600 bg-none ease-in duration-300;
     }
     .btn-outline:hover{
-        @apply border-yellow-200 text-yellow-200 bg-none ease-in duration-300;
+        @apply bg-transparent border-yellow-200 text-yellow-200 bg-none ease-in duration-300;
     }
     .btn-sm {
         @apply h-[48px] px-2 text-sm;
