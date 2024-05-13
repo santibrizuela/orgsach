@@ -9,7 +9,7 @@ const roboto = Roboto({ subsets: ["latin"], weight: ["400"] });
 
 const Carousel = () => {
     return ( 
-        <div className="h-screen bg-cover bg-center md:bg-fixed" style={{ backgroundImage: "url('../../../categoriesplandeahorro.png')"}}>
+        <div className="bg-cover bg-center md:bg-fixed" style={{ backgroundImage: "url('../../../categoriesplandeahorro.png')"}}>
             <div className='max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center'>
                 <div 
                     className='justify-center text-center'
