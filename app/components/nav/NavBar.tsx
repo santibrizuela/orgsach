@@ -20,7 +20,7 @@ const NavBar = async () => {
                         <Link href="/" className={`${roboto.className} font-bold text-2xl text-yellow-400 uppercase`}>
                             <Image
                                 src="/sachLogo.png"
-                                width={100}
+                                width={150}
                                 height={100}
                                 alt="Banner Image"
                             />

@@ -17,9 +17,9 @@ const HomeBanner = () => {
                         </button>
                     </Link>
                 </div>
-                <div className="w-1/3 relative aspect-video">
+                <div className="w-1/2 lg:w-1/3 relative aspect-video">
                     <Image
-                        src="/orgSachLogo.png"
+                        src="/sachLogo.png"
                         fill
                         alt="Banner Image"
                         className="object-contain"
