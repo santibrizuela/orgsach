@@ -11,7 +11,7 @@ export const products = [
     id: "65a654593eg73a351e9c",
     name: "TRACKER 1.2 MT",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 208433,
+    price: 221343,
     brand: "Chevrolet",
     category: "Plan de ahorro",
     year: 2024,
@@ -40,10 +40,66 @@ export const products = [
     reviews: [],
   },
   {
+    id: "65a654593eg73a462e9c",
+    name: "TRACKER 1.2 AT",
+    description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
+    price: 259144,
+    brand: "Chevrolet",
+    category: "Plan de ahorro",
+    year: 2024,
+    kms: 0,
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettracker12ltat/chevrolettracker12ltat1.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettracker12ltat/chevrolettracker12ltat2.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettracker12ltat/chevrolettracker12ltat3.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettracker12ltat/chevrolettracker12ltat4.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettracker12ltat/chevrolettracker12ltat5.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettracker12ltat/chevrolettracker12ltat6.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettracker12ltat/chevrolettracker12ltat7.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65a654593e92b8e73a351e9c",
     name: "ONIX 1.2",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 221343,
+    price: 208433,
     brand: "Chevrolet",
     category: "Plan de ahorro",
     year: 2024,
@@ -111,7 +167,7 @@ export const products = [
   },
   {
     id: "64a654593e91b8e73a351e9b",
-    name: "DUSTER OROCH DYNAMIQUE 1.6",
+    name: "OROCH DYNAMIQUE 1.6",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
     price: 21500000,
     brand: "Renault",

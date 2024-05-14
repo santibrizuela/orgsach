@@ -1,15 +1,16 @@
 import { Roboto } from "next/font/google";
 import Image from "next/image";
 import Link from "next/link";
-import { AiOutlineInstagram, AiOutlineWhatsApp } from "react-icons/ai";
+import { AiOutlineFacebook, AiOutlineInstagram, AiOutlineWhatsApp } from "react-icons/ai";
 import { ImLocation } from 'react-icons/im'
 import BannerBrand from '@/public/sachLogo.png';
+import { FaFacebookSquare } from "react-icons/fa";
 
 const roboto = Roboto({ subsets: ["latin"], weight: ["400"] });
 
 const Carousel = () => {
     return ( 
-        <div className="bg-cover bg-center md:bg-fixed" style={{ backgroundImage: "url('../../../categoriesplandeahorro.png')"}}>
+        <div className="h-96 bg-cover bg-center md:bg-fixed" style={{ backgroundImage: "url('../../../categoriesplandeahorro.png')"}}>
             <div className='max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center'>
                 <div 
                     className='justify-center text-center'
@@ -45,9 +46,9 @@ const Carousel = () => {
                                 <AiOutlineInstagram/>
                             </div>
                         </a>    
-                        <a target='_blank' rel='noreferrer' href='https://maps.app.goo.gl/Ck941TCPFEZTcBaP7'>
+                        <a target='_blank' rel='noreferrer' href='https://www.facebook.com/organizacionsach'>
                             <div className='rounded-full icolink shadow-lg shadow-grey-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
-                                <ImLocation/>
+                                <AiOutlineFacebook/>
                             </div>
                         </a>
                     </div>

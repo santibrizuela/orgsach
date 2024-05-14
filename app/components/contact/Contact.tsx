@@ -2,7 +2,7 @@ import React from 'react';
 // motion
 import { FaInstagram, FaWhatsapp, FaRegClock, FaEnvelope } from 'react-icons/fa';
 import { ImLocation } from 'react-icons/im';
-import { AiOutlineLinkedin, AiOutlineMail } from 'react-icons/ai';
+import { AiOutlineFacebook, AiOutlineLinkedin, AiOutlineMail } from 'react-icons/ai';
 import { CiLocationOn } from 'react-icons/ci';
 import { IoLocationOutline } from "react-icons/io5";
 
@@ -59,9 +59,9 @@ const Contact = () => {
                         <AiOutlineMail/>
                     </div>
                 </a>    
-                <a target='_blank' rel='noreferrer' href='#'>
+                <a target='_blank' rel='noreferrer' href='https://www.facebook.com/organizacionsach'>
                     <div className='rounded-full icolink shadow-lg shadow-grey-400 p-6 hover:scale-110 ease-in duration-300'>
-                        <AiOutlineLinkedin/>
+                        <AiOutlineFacebook/>
                     </div>
                 </a>
               </div>
