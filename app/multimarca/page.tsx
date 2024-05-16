@@ -4,6 +4,7 @@ import { usados } from "@/utils/usados";
 import ProductCard from "../components/products/ProductCard";
 import TopImage from "@/public/headerImg.png"
 import Image from "next/image";
+import SachLogo from "@/public/sachLogo.png"
 
 const Multimarca = async () => {
     const currentUser = await getCurrentUser();
@@ -13,7 +14,8 @@ const Multimarca = async () => {
                 <div className='w-screen h-[30vh] lg:h-[40vh] top-0'>
                     <div className='absolute top-30 w-full h-[30vh] lg:h-[40vh] z-10'/>
                     <Image className='h-full w-full object-cover' src={TopImage} alt='Catalogo completo'/>
-                    <div className='absolute top-[20%] md:top-[30%] lg:top-[40%] max-w-[1240px] w-full text-white z-20 p-2 text-left'>
+                    <div className='absolute top-[20%] max-w-[1240px] w-full text-white z-20 p-2 text-left'>
+                        <Image className=" w-32 md:w-40 lg:w-80" src={SachLogo} alt="Organizacón Sach"/>
                         <h2 className='p-2 font-bold text-gradient text-[2.6rem] uppercase text-yellow-500'>Multimarca</h2>
                     </div>
                 </div>
