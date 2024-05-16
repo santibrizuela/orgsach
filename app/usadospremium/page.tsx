@@ -4,6 +4,7 @@ import { usuariospremiumlist } from "@/utils/usadospremiumlist";
 import ProductCard from "../components/products/ProductCard";
 import TopImage from "@/public/categoriesusadospremium.png"
 import Image from "next/image";
+import SachLogo from "@/public/sachLogo.png"
 
 const Usadospremium = async () => {
     const currentUser = await getCurrentUser();
@@ -13,7 +14,8 @@ const Usadospremium = async () => {
                 <div className='w-screen h-[30vh] lg:h-[40vh] top-0'>
                     <div className='absolute top-30 w-full h-[30vh] lg:h-[40vh] z-10'/>
                     <Image className='h-full w-full object-cover z-1' src={TopImage} alt='Usados Premium'/>
-                    <div className='absolute top-[14%] lg:top-[24%] max-w-[1240px] w-full text-white z-20 p-2 text-left'>
+                    <div className='absolute top-[20%] max-w-[1240px] w-full text-white z-20 p-2 text-left'>
+                        <Image className=" w-32 md:w-40 lg:w-80" src={SachLogo} alt="Organizacón Sach"/>
                         <h2 className='p-2 font-bold text-gradient text-[2.6rem] uppercase w-min text-yellow-500'>USADOS PREMIUM</h2>
                     </div>
                 </div>
