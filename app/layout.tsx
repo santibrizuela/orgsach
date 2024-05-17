@@ -7,6 +7,7 @@ import CartProvider from "@/providers/CartProvider";
 import { Toaster } from "react-hot-toast";
 import Contact from "./components/contact/Contact";
 import WhatsappScroll from "./components/whatsappscroll/WhatsappScroll";
+import VehicleForm from "./components/VehicleForm";
 
 const poppins = Poppins({ subsets: ["latin"], weight:['400', '700'] });
 

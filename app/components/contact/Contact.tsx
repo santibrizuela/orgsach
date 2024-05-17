@@ -11,10 +11,23 @@ const Contact = () => {
   return (
     <section className='py-24 lg:py-32 lg:section' id='contact'>
       <div className='container mx-auto'>
-        <div className='flex flex-col lg:flex-row'>
+        <div className='flex flex-col md:flex-row'>
+          
+          {/* form */}
+          <div className='flex hover:scale-100 ease-in duration-300 md:h-[60vh] md:w-[60vw] mx-auto md:px-2'>
+
+            
+            
+            <iframe 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d821.0462961091475!2d-58.50180233042073!3d-34.59947849830973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb72f954dd41b%3A0x47148b971370c8f1!2sSach%20Automotriz!5e0!3m2!1ses-419!2sar!4v1715100775497!5m2!1ses-419!2sar" 
+              className='relative flex-shrink-0 w-full rounded-xl'
+              loading="lazy" 
+            ></iframe>
+            
+          </div>
           {/* text */}
           <div 
-            className='max-w-[1240px] flex items-center mx-auto text-center lg:text-start'
+            className='max-w-[1240px] flex items-center mx-auto text-center lg:text-start md:px-2'
           >
             <div>
               <h2 className='text-yellow-500 font-bold text-[45px] lg:text-[86px] leading-none mb-8'>
@@ -66,18 +79,6 @@ const Contact = () => {
                 </a>
               </div>
             </div>
-          </div>
-          {/* form */}
-          <div className='flex hover:scale-100 ease-in duration-300 md:h-[60vh] md:w-[60vw] mx-auto md:px-2'>
-
-            
-            
-            <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d821.0462961091475!2d-58.50180233042073!3d-34.59947849830973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb72f954dd41b%3A0x47148b971370c8f1!2sSach%20Automotriz!5e0!3m2!1ses-419!2sar!4v1715100775497!5m2!1ses-419!2sar" 
-              className='relative flex-shrink-0 w-full rounded-xl'
-              loading="lazy" 
-            ></iframe>
-            
           </div>
           
         </div>

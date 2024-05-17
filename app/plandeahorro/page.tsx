@@ -5,6 +5,7 @@ import ProductCard from "../components/products/ProductCard";
 import TopImage from "@/public/categoriesplandeahorro.png"
 import Image from "next/image";
 import SachLogo from "@/public/sachLogo.png"
+import VehicleForm from "../components/VehicleForm";
 
 const Plandeahorro = async () => {
     const currentUser = await getCurrentUser();
@@ -14,7 +15,7 @@ const Plandeahorro = async () => {
                 <div className='w-screen h-[30vh] lg:h-[40vh] top-0'>
                     <div className='absolute top-30 w-full h-[30vh] lg:h-[40vh] z-10'/>
                     <Image className='h-full w-full object-cover z-1' src={TopImage} alt='Planes de ahorro'/>
-                    <div className='absolute top-[20%] max-w-[1240px] w-full text-white z-20 p-2 text-left'>
+                    <div className='absolute top-[15%] max-w-[1240px] w-full text-white z-20 p-2 text-left'>
                         <Image className=" w-32 md:w-40 lg:w-80" src={SachLogo} alt="Organizacón Sach"/>
                         <h2 className='p-2 font-bold text-[2.6rem] uppercase text-yellow-500'>PLAN DE AHORRO</h2>
                     </div>
@@ -27,6 +28,8 @@ const Plandeahorro = async () => {
                     ))}
                 </div>
             </Container>
+            
+            <VehicleForm/>
         </div>
      );
 }
