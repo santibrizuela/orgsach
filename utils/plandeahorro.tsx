@@ -1,15 +1,7 @@
-
-
-//I am changing the image links from firebase to 
-//amazon, firebase has issues with these direct links. 
-//Please remember to add the amazon link(that will 
-//show up at the error) instead of firebase at the 
-//cofig for it to work out.
-
 export const plandeahorro = [
   {
     id: "65a654593eg73a351e9c",
-    name: "TRACKER 1.2 MT",
+    name: "TRACKER 1.2 MTAT",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
     price: 208433,
     brand: "Chevrolet",
@@ -41,7 +33,7 @@ export const plandeahorro = [
   },
   {
     id: "65a654593eg73a462e9c",
-    name: "TRACKER 1.2 AT",
+    name: "TRACKER 1.2 LTAT",
     description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
     price: 259144,
     brand: "Chevrolet",
