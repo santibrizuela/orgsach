@@ -1,5 +1,7 @@
 'use client'
-import { useState, ChangeEvent, FormEvent } from 'react';
+import { useState, ChangeEvent, FormEvent, useEffect } from 'react';
+import emailjs from 'emailjs-com';
+import { useRouter } from 'next/navigation';
 
 interface FormData {
   nombre: string;
@@ -18,6 +20,8 @@ const VehicleForm: React.FC = () => {
     vehiculo: '',
   });
 
+  const router = useRouter();
+
   const handleChange = (e: ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
     const { name, value } = e.target;
     setFormData({
@@ -28,20 +32,36 @@ const VehicleForm: React.FC = () => {
 
   const handleSubmit = async (e: FormEvent) => {
     e.preventDefault();
-    
-    const response = await fetch('/api/sendForm', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify(formData),
-    });
 
-    if (response.ok) {
-      alert('Formulario enviado con éxito.');
-    } else {
-      alert('Error al enviar el formulario.');
+    const message = `¡Hola! Quiero un plan Chevrolet. \nNombre: ${formData.nombre}\nApellido: ${formData.apellido}\nDNI: ${formData.dni}\nTeléfono: ${formData.telefono}\nVehículo: ${formData.vehiculo}`;
+    const phoneNumber = '91137606705'; // Reemplaza con tu número de WhatsApp en formato internacional, sin el '+'.
+    const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
+
+    const emailParams: Record<string, string> = {
+      nombre: formData.nombre,
+      apellido: formData.apellido,
+      dni: formData.dni,
+      telefono: formData.telefono,
+      vehiculo: formData.vehiculo,
+    };
+
+    try {
+      await emailjs.send('service_653h3e1', 'template_0aoa3g9', emailParams, 'fQf_Pyn1kiMZsgd14');
+      alert('Formulario enviado con éxito por correo.');
+      
+      // Redirigir a la página de confirmación
+      router.push('/vehicleformconfirmation');
+      
+    } catch (error: unknown) {
+      if (error instanceof Error) {
+        alert('Error al enviar el formulario por correo: ' + error.message);
+      } else {
+        alert('Error desconocido al enviar el formulario por correo.');
+      }
     }
+
+    // Open WhatsApp
+    window.open(whatsappUrl, '_blank');
   };
 
   return (
