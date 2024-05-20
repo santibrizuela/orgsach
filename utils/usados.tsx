@@ -127,7 +127,7 @@ export const usados = [
     brand: "PEUGEOT",
     category: "Usado",
     year: 2012,
-    kms: 84500,
+    kms: 159300,
     caja: "Manual",
     combustible: "Nafta",
     inStock: true,
