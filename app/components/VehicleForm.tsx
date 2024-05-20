@@ -73,7 +73,7 @@ const VehicleForm: React.FC = () => {
       <h2 className='text-center text-yellow-500 font-bold text-[25px] lg:text-[40px]'>SUSCRIBITE AL PLAN DE AHORRO</h2>
       <h3 className='text-center font-semibold'>
         Envianos un Whatsapp completando el formulario con tus datos y el vehículo que estás buscando.<br/>
-        Se te asignará un vendedor para que se con
+        Se te asignará un vendedor para que te contacte.
       </h3>
       <form className="max-w-[900px] mx-auto p-4 grid grid-cols-1 md:grid-cols-2 gap-4" onSubmit={handleSubmit}>
         <div className="mb-4 w-full mx-2">
