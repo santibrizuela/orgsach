@@ -30,13 +30,13 @@ const NavBar = async () => {
                             className='uppercase'
                         >
                             <button className='btn btn-outline md:btn-lg flex items-center align-middle navbar-btn'>
-                                <span className="md:text-xl">Plan </span>
+                                <span className="md:text-xl">Plan de Ahorro</span>
                                 <span className="navbar-arrow"><FaArrowRight className="md:text-xl ml-2 self-center" /></span>
                             </button>
                         
                         </Link>
                         
-                        <div className="flex items-center gap-8 md:gap-12 ">
+                        <div className="items-center gap-8 md:gap-12 hidden md:flex">
                             <Link className="text-yellow-600 hover:text-yellow-400 uppercase" href="/multimarca">Multimarca</Link>
                             <Link 
                                 className="text-yellow-600 hover:text-yellow-400 uppercase" 

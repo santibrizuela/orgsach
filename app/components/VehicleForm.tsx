@@ -155,7 +155,7 @@ const VehicleForm: React.FC = () => {
               className="form-checkbox"
               required
             />
-            <span className="ml-2 text-gray-700">Autorizo a ORGANIZACION SACH a almacenar mis datos y recibir información sobre los Planes de Ahorro.</span>
+            <span className="ml-2 text-gray-700">Autorizo a ORGANIZACION SACH a almacenar mis datos y enviarme información sobre los Planes de Ahorro.</span>
           </label>
         </div>
         <div className="md:col-span-2 flex justify-center">
