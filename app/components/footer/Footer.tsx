@@ -13,7 +13,7 @@ const Footer = () => {
                 <div className="flex flex-col md:flex-row justify-between mt-16 pb-8">
                     <FooterList>
                         <h3 className="text-lg font-bold w-fit">Shop Categories</h3>
-                        <Link className="w-fit" href="/plandeahorro">Plan de Ahorro</Link>
+                        <Link className="w-fit" href="/planesdeahorro">Plan de Ahorro</Link>
                         <Link className="w-fit" href="/multimarca">Multimarca</Link>
                         <Link className="w-fit" href="/usadospremium">Usados Premium</Link>
                     </FooterList>
@@ -50,13 +50,6 @@ const Footer = () => {
                                 rel="noreferrer"
                             >
                                 <FaSquareWhatsapp size={24}/>
-                            </Link>
-                            <Link 
-                                href="#"
-                                target="_blank"
-                                rel="noreferrer"
-                            >
-                                <AiFillLinkedin size={24}/>
                             </Link>
                             <Link 
                                 href="https://www.facebook.com/organizacionsach"

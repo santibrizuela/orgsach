@@ -10,7 +10,7 @@ const HomeBanner = () => {
                 <div className="mb-8 md:mb-0 text-center ease-in duration-300">
                     <h1 className="text-4xl md:text-6xl font-bold text-yellow-50 mb-4">Plan de Ahorro</h1>
                     <p className="text-lg md:text-xl text-yellow-50 mb-2">Comprá tu 0km en</p>
-                    <Link className="flex justify-center home-banner-link ease-in duration-300" href="/plandeahorro#plandeahorroform">
+                    <Link className="flex justify-center home-banner-link ease-in duration-300" href="/planesdeahorro#planesdeahorroform">
                         <button className='btn btn-outline md:btn-lg flex items-center align-middle navbar-btn home-banner-link'>
                             <span className="md:text-xl">120 Cuotas </span>
                             <span className="navbar-arrow"><FaArrowRight className="md:text-xl ml-2 self-center" /></span>

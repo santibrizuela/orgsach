@@ -26,11 +26,11 @@ const NavBar = async () => {
                             />
                         </Link>
                         <Link 
-                            href='/plandeahorro'
+                            href='/planesdeahorro'
                             className='uppercase'
                         >
                             <button className='btn btn-outline md:btn-lg flex items-center align-middle navbar-btn'>
-                                <span className="md:text-xl">Plan de Ahorro</span>
+                                <span className="md:text-xl">Planes de Ahorro</span>
                                 <span className="navbar-arrow"><FaArrowRight className="md:text-xl ml-2 self-center" /></span>
                             </button>
                         

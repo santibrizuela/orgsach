@@ -1,13 +1,13 @@
 import { getCurrentUser } from "@/actions/getCurrentUser";
 import Container from "../components/Container";
-import { plandeahorro } from "@/utils/plandeahorro";
+import { planesdeahorro } from "@/utils/planesdeahorro";
 import ProductCard from "../components/products/ProductCard";
-import TopImage from "@/public/categoriesplandeahorro.png"
+import TopImage from "@/public/categoriesplanesdeahorro.png"
 import Image from "next/image";
 import SachLogo from "@/public/sachLogo.png"
 import VehicleForm from "../components/VehicleForm";
 
-const Plandeahorro = async () => {
+const Planesdeahorro = async () => {
     const currentUser = await getCurrentUser();
     return ( 
         <div>
@@ -17,13 +17,13 @@ const Plandeahorro = async () => {
                     <Image className='h-full w-full object-cover z-1' src={TopImage} alt='Planes de ahorro'/>
                     <div className='absolute top-[15%] max-w-[1240px] w-full text-white z-20 p-2 text-left'>
                         <Image className=" w-32 md:w-40 lg:w-80" src={SachLogo} alt="Organizacón Sach"/>
-                        <h2 className='p-2 font-bold text-[2.6rem] uppercase text-yellow-500'>PLAN DE AHORRO</h2>
+                        <h2 className='p-2 font-bold text-[2.6rem] uppercase text-yellow-500'>PLANES DE AHORRO</h2>
                     </div>
                 </div>
             </div>
             <Container>
                 <div className="grid sm:grid-cols-3 lg:grid-cols-4 2xl:grid-cols-6 gap-8 mt-2">
-                    {plandeahorro.map((product: any) => (
+                    {planesdeahorro.map((product: any) => (
                         <ProductCard key={product.id} data={product} />
                     ))}
                 </div>
@@ -34,4 +34,4 @@ const Plandeahorro = async () => {
      );
 }
  
-export default Plandeahorro;
+export default Planesdeahorro;

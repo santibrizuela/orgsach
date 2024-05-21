@@ -1,7 +1,7 @@
 import React from 'react'
 // img
 import Img1 from '@/public/headerImg.png';
-import Img4 from '@/public/categoriesplandeahorro.png';
+import Img4 from '@/public/categoriesplanesdeahorro.png';
 import Img7 from '@/public/categoriesasesoramiento.png';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -20,7 +20,7 @@ const productos = [
       description:
       'Plan de ahorro en hasta 120 Cuotas.',
       cardimage: Img4,
-      link:'plandeahorro',
+      link:'planesdeahorro',
     },
     {
       name: 'Asesorate',

@@ -1,4 +1,4 @@
-export const plandeahorro = [
+export const planesdeahorro = [
   {
     id: "65a654593eg73a351e9c",
     name: "TRACKER 1.2 MTAT",

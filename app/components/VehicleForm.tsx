@@ -35,8 +35,8 @@ const VehicleForm: React.FC = () => {
   const handleSubmit = async (e: FormEvent) => {
     e.preventDefault();
 
-    const message = `¡Hola! Quiero un plan Chevrolet. \nNombre: ${formData.nombre}\nApellido: ${formData.apellido}\nDNI: ${formData.dni}\nTeléfono: ${formData.telefono}\nVehículo: ${formData.vehiculo}`;
-    const phoneNumber = '91137606705'; // Reemplaza con tu número de WhatsApp en formato internacional, sin el '+'.
+    const message = `¡Hola! Quiero un Plan de Ahorro. \nNombre: ${formData.nombre}\nApellido: ${formData.apellido}\nDNI: ${formData.dni}\nTeléfono: ${formData.telefono}\nVehículo: ${formData.vehiculo}`;
+    const phoneNumber = '5491122502345'; // Reemplaza con tu número de WhatsApp en formato internacional, sin el '+'.
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
 
     // Abre la ventana de WhatsApp inmediatamente
@@ -69,8 +69,8 @@ const VehicleForm: React.FC = () => {
   };
 
   return (
-    <div className='bg-slate-50 mt-16 pt-20' id='plandeahorroform'>
-      <h2 className='text-center text-yellow-500 font-bold text-[25px] lg:text-[40px]'>SUSCRIBITE AL PLAN DE AHORRO</h2>
+    <div className='bg-slate-50 mt-16 pt-20 mb-2' id='planesdeahorroform'>
+      <h2 className='text-center text-yellow-500 font-bold text-[25px] lg:text-[40px]'>SUSCRIBITE A TU PLAN DE AHORRO</h2>
       <h3 className='text-center font-semibold'>
         Envianos un Whatsapp completando el formulario con tus datos y el vehículo que estás buscando.<br/>
         Se te asignará un vendedor para que te contacte.
