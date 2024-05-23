@@ -49,7 +49,7 @@ const Contact = () => {
                
               </a>
               <a className='flex menuNav' target='_blank' rel='noreferrer' href='https://maps.app.goo.gl/JatUye5irxAN2pWB7'>
-                  <FaRegClock className='my-2 mx-1'/> <div className='text-justify'>Lun a Vie: 8hs a 12hs - 14:30 a 18hs <br/> Sábados: 8hs a 12:30hs</div>
+                  <FaRegClock className='my-2 mx-1'/> <div className='text-justify'>Lun a Vie: 8:30hs a 18hs <br/> Sábados : 10hs a 17hs</div>
               </a>
 
               
