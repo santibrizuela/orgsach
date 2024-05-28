@@ -8,6 +8,146 @@
 
 export const products = [
   {
+    id: "65a6545911e91b9e73a351e9d",
+    name: "A3 SPORT BACK",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 9400,
+    brand: "AUDI",
+    category: "Usado",
+    year: 2008,
+    kms: 124300,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/audia3sportback16/audia3sportback161.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/audia3sportback16/audia3sportback162.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/audia3sportback16/audia3sportback163.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/audia3sportback16/audia3sportback164.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/audia3sportback16/audia3sportback165.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/audia3sportback16/audia3sportback166.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/audia3sportback16/audia3sportback167.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/audia3sportback16/audia3sportback168.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/audia3sportback16/audia3sportback169.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/audia3sportback16/audia3sportback1610.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a654593e91b9e73a351e9d",
+    name: "FIESTA SE",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
+    price: 11900000,
+    brand: "FORD",
+    category: "Usado",
+    year: 2016,
+    kms: 150000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestase162016/fordfiestase1620161.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestase162016/fordfiestase1620162.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestase162016/fordfiestase1620163.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestase162016/fordfiestase1620164.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestase162016/fordfiestase1620165.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestase162016/fordfiestase1620166.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestase162016/fordfiestase1620167.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestase162016/fordfiestase1620168.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65a654593e91b8e73a351e9p",
     name: "CRUZE PREMIER",
     description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
