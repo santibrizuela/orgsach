@@ -318,51 +318,6 @@ export const usados = [
     ],
   },
   {
-    id: "64a654593e91b8e73a351e9b",
-    name: "OROCH DYNAMIQUE 1.6",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 21500000,
-    brand: "Renault",
-    category: "Usado",
-    year: 2019,
-    kms: 84500,
-    caja: "Manual",
-    combustible: "Nafta",
-    aireacondicionado: true,
-    cierrecentralizado: true,
-    cristaleselectricos: true,
-    alarma: true,
-    bluetooth: true,
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/renaultdusterorochdynamique162019/renaultdusterorochdynamique1620191.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/renaultdusterorochdynamique162019/renaultdusterorochdynamique1620192.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/renaultdusterorochdynamique162019/renaultdusterorochdynamique1620193.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/renaultdusterorochdynamique162019/renaultdusterorochdynamique1620194.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
     id: "64a654593e91b8e73a351e9c",
     name: "325i",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
