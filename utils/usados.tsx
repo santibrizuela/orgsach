@@ -1,5 +1,139 @@
 export const usados = [
   {
+    id: "65a6545911e91b9jfla351e9d",
+    name: "DS3 PURETECH",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 21300000,
+    brand: "CITROEN",
+    category: "Usado",
+    year: 2019,
+    kms: 85010,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroends3puretech2019/citroends3puretech20191.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroends3puretech2019/citroends3puretech20192.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroends3puretech2019/citroends3puretech20193.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroends3puretech2019/citroends3puretech20194.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroends3puretech2019/citroends3puretech20195.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroends3puretech2019/citroends3puretech20196.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroends3puretech2019/citroends3puretech20197.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroends3puretech2019/citroends3puretech20198.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a6545911ak4b9e73a351e9d",
+    name: "SMX 200",
+    description: "-Nafta<br/>-Manual",
+    price: 1900000,
+    brand: "GILERA",
+    category: "Usado",
+    year: 2020,
+    kms: 8994,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/gilerasmx200/gilerasmx2001.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/gilerasmx200/gilerasmx2002.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/gilerasmx200/gilerasmx2003.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/gilerasmx200/gilerasmx2004.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/gilerasmx200/gilerasmx2005.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/gilerasmx200/gilerasmx2006.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/gilerasmx200/gilerasmx2007.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/gilerasmx200/gilerasmx2008.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/gilerasmx200/gilerasmx2009.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65a6545911e91b9e73a351e9d",
     name: "A3 SPORT BACK",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
