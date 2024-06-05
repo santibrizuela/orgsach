@@ -8,15 +8,97 @@
 
 export const products = [
   {
+    id: "65a6243511e91b9jfla351e9d",
+    name: "CRONOS ATTRACTIVE",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 16900000,
+    brand: "FIAT",
+    category: "Usado",
+    year: 2022,
+    kms: 83167,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20221.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20222.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20223.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20224.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20225.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20226.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20227.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20228.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20229.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p202210.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p202211.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65a6545911e91b9jfla351e9d",
     name: "DS3 PURETECH",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
     price: 21300000,
     brand: "CITROEN",
     category: "Usado",
     year: 2019,
     kms: 85010,
-    caja: "Manual",
+    caja: "Automático",
     combustible: "Nafta",
     inStock: true,
     images: [
@@ -78,7 +160,7 @@ export const products = [
     price: 1900000,
     brand: "GILERA",
     category: "Usado",
-    year: 2020,
+    year: 2023,
     kms: 8994,
     caja: "Manual",
     combustible: "Nafta",
