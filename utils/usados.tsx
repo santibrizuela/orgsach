@@ -1,5 +1,139 @@
 export const usados = [
   {
+    id: "65a8uti711e91b9jfla351e9d",
+    name: "ONIX JOY",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 18500000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2021,
+    kms: 38400,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20211.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20212.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20213.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20214.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20215.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20216.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20217.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a629i711e91b9jfla351e9d",
+    name: "ML 350",
+    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 18500,
+    brand: "MERCEDES BENZ",
+    category: "Usado",
+    year: 2006,
+    kms: 138732,
+    caja: "Automática",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml3020061.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml3020062.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml3020063.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml3020064.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml3020065.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml3020066.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml3020067.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml3020068.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml3020069.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml30200610.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65a6243511e91b9jfla351e9d",
     name: "CRONOS ATTRACTIVE",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
@@ -216,82 +350,6 @@ export const usados = [
     reviews: [],
   },
   {
-    id: "65a6545911e91b9e73a351e9d",
-    name: "A3 SPORT BACK",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 9400,
-    brand: "AUDI",
-    category: "Usado",
-    year: 2008,
-    kms: 124300,
-    caja: "Manual",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/audia3sportback16/audia3sportback161.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/audia3sportback16/audia3sportback162.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/audia3sportback16/audia3sportback163.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/audia3sportback16/audia3sportback164.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/audia3sportback16/audia3sportback165.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/audia3sportback16/audia3sportback166.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/audia3sportback16/audia3sportback167.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/audia3sportback16/audia3sportback168.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/audia3sportback16/audia3sportback169.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/audia3sportback16/audia3sportback1610.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
     id: "65a654593e91b9e73a351e9d",
     name: "FIESTA SE",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
@@ -464,76 +522,6 @@ export const usados = [
     reviews: [],
   },
   {
-    id: "64a4ebe3qwe4bb50628a",
-    name: "CRONOS",
-    description:
-      "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth<br/>-Sensores de estacionamiento<br/>-Tapizado de cuero<br/>-Pantalla multimedia<br/>-Cámara de retroceso",
-    price: 23500000,
-    brand: "Fiat",
-    category: "0km",
-    year: 2024,
-    kms: 0,
-    inStock: true,
-    images: [
-      {
-        color: "Black",
-        colorCode: "#000000",
-        image:
-          "/products/orgsachimages/fiatcronosprecisionat132024/fiatcronosprecisionat1320241.png",
-      },
-      {
-        color: "Black",
-        colorCode: "#000000",
-        image:
-          "/products/orgsachimages/fiatcronosprecisionat132024/fiatcronosprecisionat1320242.png",
-      },
-      {
-        color: "Black",
-        colorCode: "#000000",
-        image:
-          "/products/orgsachimages/fiatcronosprecisionat132024/fiatcronosprecisionat1320243.png",
-      },
-      {
-        color: "Black",
-        colorCode: "#000000",
-        image:
-          "/products/orgsachimages/fiatcronosprecisionat132024/fiatcronosprecisionat1320244.png",
-      },
-      {
-        color: "Black",
-        colorCode: "#000000",
-        image:
-          "/products/orgsachimages/fiatcronosprecisionat132024/fiatcronosprecisionat1320245.png",
-      },
-      {
-        color: "Black",
-        colorCode: "#000000",
-        image:
-          "/products/orgsachimages/fiatcronosprecisionat132024/fiatcronosprecisionat1320246.png",
-      },
-      {
-        color: "Black",
-        colorCode: "#000000",
-        image:
-          "/products/orgsachimages/fiatcronosprecisionat132024/fiatcronosprecisionat1320247.png",
-      },
-      {
-        color: "Black",
-        colorCode: "#000000",
-        image:
-          "/products/orgsachimages/fiatcronosprecisionat132024/fiatcronosprecisionat1320248.png",
-      },
-      {
-        color: "Black",
-        colorCode: "#000000",
-        image:
-          "/products/orgsachimages/fiatcronosprecisionat132024/fiatcronosprecisionat1320249.png",
-      },
-    ],
-    reviews: [
-    ],
-  },
-  {
     id: "64a654593e91b8e73a351e9c",
     name: "325i",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
@@ -603,44 +591,6 @@ export const usados = [
         colorCode: "#808080",
         image:
           "/products/orgsachimages/bmw325i2010/bmw325i201010.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65a654593e91b8e73a351e9c",
-    name: "A5 2.0 TURBO",
-    description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 22300000,
-    brand: "Audi",
-    category: "Usado Premium",
-    year: 2012,
-    kms: 84500,
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/audia520turbo2012/audia520turbo20121.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/audia520turbo2012/audia520turbo20122.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/audia520turbo2012/audia520turbo20123.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/audia520turbo2012/audia520turbo20124.png",
       },
     ],
     reviews: [],
