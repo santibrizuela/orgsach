@@ -1,13 +1,13 @@
 export const usados = [
   {
-    id: "65a8uti711e91b9jfla351e9d",
-    name: "ONIX JOY",
+    id: "65a8uti766e91b9jfla351e9d",
+    name: "C3 EXCLUSIVE",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 18500000,
-    brand: "CHEVROLET",
+    price: 5500000,
+    brand: "CITROEN",
     category: "Usado",
-    year: 2021,
-    kms: 38400,
+    year: 2007,
+    kms: 190000,
     caja: "Manual",
     combustible: "Nafta",
     inStock: true,
@@ -16,43 +16,107 @@ export const usados = [
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20211.png",
+          "/products/orgsachimages/citroenc3exclusive14hdi2007/citroenc3exclusive14hdi20071.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20212.png",
+          "/products/orgsachimages/citroenc3exclusive14hdi2007/citroenc3exclusive14hdi20072.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20213.png",
+          "/products/orgsachimages/citroenc3exclusive14hdi2007/citroenc3exclusive14hdi20073.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20214.png",
+          "/products/orgsachimages/citroenc3exclusive14hdi2007/citroenc3exclusive14hdi20074.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20215.png",
+          "/products/orgsachimages/citroenc3exclusive14hdi2007/citroenc3exclusive14hdi20075.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20216.png",
+          "/products/orgsachimages/citroenc3exclusive14hdi2007/citroenc3exclusive14hdi20076.jpeg",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a8uti711e91b9qlos351e9d",
+    name: "1500 LARAMIE",
+    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 46000,
+    brand: "RAM",
+    category: "Usado",
+    year: 2020,
+    kms: 67219,
+    caja: "Automática",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20201.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20217.png",
+          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20202.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20201.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20203.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20204.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20205.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20206.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20207.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20208.png",
       },
     ],
     reviews: [],
@@ -357,7 +421,7 @@ export const usados = [
     brand: "FORD",
     category: "Usado",
     year: 2016,
-    kms: 150000,
+    kms: 94000,
     caja: "Manual",
     combustible: "Nafta",
     inStock: true,
@@ -467,56 +531,6 @@ export const usados = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/peugeotls308feline202012/peugeotls308feline2020127.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65a654593e91b8e73a351e9p",
-    name: "CRUZE PREMIER",
-    description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 36000000,
-    brand: "Chevrolet",
-    category: "0km",
-    year: 2024,
-    kms: 0,
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20241.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20242.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20243.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20244.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20245.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20246.png",
       },
     ],
     reviews: [],
@@ -700,64 +714,6 @@ export const usados = [
       },
     ],
     reviews: [],
-  },
-  {
-    id: "648437b38c44d52b9542e340",
-    name: "GOL TREND SD BASE",
-    description:
-      '-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Alarma<br/>-Bluetooth',
-    price: 10900000,
-    brand: "Volkswagen",
-    category: "Usado",
-    year: 2017,
-    kms: 63000,
-    inStock: true,
-    images: [
-      {
-        color: "Black",
-        colorCode: "#000000",
-        image:
-          "/products/orgsachimages/vwgoltrendsdbase2017/vwgoltrendsdbase20171.png",
-      },
-      {
-        color: "Black",
-        colorCode: "#000000",
-        image:
-          "/products/orgsachimages/vwgoltrendsdbase2017/vwgoltrendsdbase20172.png",
-      },
-      {
-        color: "Black",
-        colorCode: "#000000",
-        image:
-          "/products/orgsachimages/vwgoltrendsdbase2017/vwgoltrendsdbase20173.png",
-      },
-      {
-        color: "Black",
-        colorCode: "#000000",
-        image:
-          "/products/orgsachimages/vwgoltrendsdbase2017/vwgoltrendsdbase20174.png",
-      },
-      {
-        color: "Black",
-        colorCode: "#000000",
-        image:
-          "/products/orgsachimages/vwgoltrendsdbase2017/vwgoltrendsdbase20175.png",
-      },
-      {
-        color: "Black",
-        colorCode: "#000000",
-        image:
-          "/products/orgsachimages/vwgoltrendsdbase2017/vwgoltrendsdbase20176.png",
-      },
-      {
-        color: "Black",
-        colorCode: "#000000",
-        image:
-          "/products/orgsachimages/vwgoltrendsdbase2017/vwgoltrendsdbase20177.png",
-      },
-    ],
-    reviews: [
-    ],
   },
   {
     id: "65a654593e91b8f73a351e9c",

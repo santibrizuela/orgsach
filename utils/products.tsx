@@ -8,9 +8,61 @@
 
 export const products = [
   {
-    id: "65a8uti711e91b9jfla351e9d",
-    name: "ONIX JOY",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cristales eléctricos",
+    id: "65a8uti766e91b9jfla351e9d",
+    name: "C3 EXCLUSIVE",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 5500000,
+    brand: "CITROEN",
+    category: "Usado",
+    year: 2021,
+    kms: 190000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroenc3exclusive14hdi2007/citroenc3exclusive14hdi20071.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroenc3exclusive14hdi2007/citroenc3exclusive14hdi20072.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroenc3exclusive14hdi2007/citroenc3exclusive14hdi20073.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroenc3exclusive14hdi2007/citroenc3exclusive14hdi20074.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroenc3exclusive14hdi2007/citroenc3exclusive14hdi20075.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroenc3exclusive14hdi2007/citroenc3exclusive14hdi20076.jpeg",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a8uti711e91b9qlos351e9d",
+    name: "RAM",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
     price: 18500000,
     brand: "CHEVROLET",
     category: "Usado",
@@ -24,43 +76,55 @@ export const products = [
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20211.png",
+          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20201.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20212.png",
+          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20202.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20213.png",
+          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20201.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20214.png",
+          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20203.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20215.png",
+          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20204.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20216.png",
+          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20205.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletonixjoymt2021/chevroletonixjoymt20217.png",
+          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20206.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20207.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20208.png",
       },
     ],
     reviews: [],
@@ -149,7 +213,7 @@ export const products = [
     brand: "FIAT",
     category: "Usado",
     year: 2022,
-    kms: 83167,
+    kms: 57000,
     caja: "Manual",
     combustible: "Nafta",
     inStock: true,

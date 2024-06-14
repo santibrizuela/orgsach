@@ -129,9 +129,9 @@ export const planesdeahorro = [
     id: "65a654593e9a73a351e9c",
     name: "S10 CD 4X2 LS MT",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 283168,
+    price: 47600000,
     brand: "Chevrolet",
-    category: "Plan de ahorro",
+    category: "0km",
     year: 2024,
     kms: 0,
     inStock: true,
@@ -153,6 +153,56 @@ export const planesdeahorro = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/s10cd4x2lsmt/s10cd4x2lsmt3.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a654593e91b8e73a351e9p",
+    name: "CRUZE PREMIER",
+    description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
+    price: 32600000,
+    brand: "Chevrolet",
+    category: "0km",
+    year: 2024,
+    kms: 0,
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20241.png",
+      },
+      {
+        color: "Gray",
+        colorCode: "#808080",
+        image:
+          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20242.png",
+      },
+      {
+        color: "Gray",
+        colorCode: "#808080",
+        image:
+          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20243.png",
+      },
+      {
+        color: "Gray",
+        colorCode: "#808080",
+        image:
+          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20244.png",
+      },
+      {
+        color: "Gray",
+        colorCode: "#808080",
+        image:
+          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20245.png",
+      },
+      {
+        color: "Gray",
+        colorCode: "#808080",
+        image:
+          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20246.png",
       },
     ],
     reviews: [],
