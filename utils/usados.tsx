@@ -1,5 +1,63 @@
 export const usados = [
   {
+    id: "65a8uti766a4f113jfla351e9d",
+    name: "SPIN ACTIVE",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 13900000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2015,
+    kms: 102000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20151.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20152.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20153.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20154.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20155.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20156.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20157.jpeg",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65a8uti766e91b9jfla351e9d",
     name: "C3 EXCLUSIVE",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
@@ -205,7 +263,7 @@ export const usados = [
     brand: "FIAT",
     category: "Usado",
     year: 2022,
-    kms: 83167,
+    kms: 61242,
     caja: "Manual",
     combustible: "Nafta",
     inStock: true,
