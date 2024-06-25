@@ -1,71 +1,51 @@
 export const usados = [
   {
-    id: "65a8uti766a4f113jfla351e9d",
-    name: "SPIN ACTIVE",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 13900000,
-    brand: "CHEVROLET",
-    category: "Usado",
-    year: 2015,
-    kms: 102000,
-    caja: "Manual",
-    combustible: "Nafta",
+    id: "65a654593e91b8e73a351e9c",
+    name: "A5 2.0 TURBO",
+    description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
+    price: 24800000,
+    brand: "AUDI",
+    category: "Usado Premium",
+    year: 2012,
+    kms: 84500,
     inStock: true,
     images: [
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20151.png",
+          "/products/orgsachimages/audia520turbo2012/audia520turbo20121.png",
       },
       {
-        color: "White",
-        colorCode: "#FFFFFF",
+        color: "Gray",
+        colorCode: "#808080",
         image:
-          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20152.png",
+          "/products/orgsachimages/audia520turbo2012/audia520turbo20122.png",
       },
       {
-        color: "White",
-        colorCode: "#FFFFFF",
+        color: "Gray",
+        colorCode: "#808080",
         image:
-          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20153.png",
+          "/products/orgsachimages/audia520turbo2012/audia520turbo20123.png",
       },
       {
-        color: "White",
-        colorCode: "#FFFFFF",
+        color: "Gray",
+        colorCode: "#808080",
         image:
-          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20154.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20155.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20156.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20157.jpeg",
+          "/products/orgsachimages/audia520turbo2012/audia520turbo20124.png",
       },
     ],
     reviews: [],
   },
   {
-    id: "65a8uti766e91b9jfla351e9d",
-    name: "C3 EXCLUSIVE",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 5500000,
-    brand: "CITROEN",
+    id: "65a8jki766a4f113jfla351e9d",
+    name: "MOVE UP",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado",
+    price: 12900000,
+    brand: "VOLKSWAGEN",
     category: "Usado",
-    year: 2007,
-    kms: 190000,
+    year: 2016,
+    kms: 56400,
     caja: "Manual",
     combustible: "Nafta",
     inStock: true,
@@ -74,37 +54,107 @@ export const usados = [
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/citroenc3exclusive14hdi2007/citroenc3exclusive14hdi20071.png",
+          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20161.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/citroenc3exclusive14hdi2007/citroenc3exclusive14hdi20072.png",
+          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20162.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/citroenc3exclusive14hdi2007/citroenc3exclusive14hdi20073.png",
+          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20163.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/citroenc3exclusive14hdi2007/citroenc3exclusive14hdi20074.png",
+          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20164.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/citroenc3exclusive14hdi2007/citroenc3exclusive14hdi20075.png",
+          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20165.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/citroenc3exclusive14hdi2007/citroenc3exclusive14hdi20076.jpeg",
+          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20166.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20167.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20168.jpeg",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a8uti597y4f113jeuw351e9d",
+    name: "SIENA FIRE",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado",
+    price: 8900000,
+    brand: "FIAT",
+    category: "Usado",
+    year: 2014,
+    kms: 112325,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatsienafire148v2014/fiatsienafire148v20141.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatsienafire148v2014/fiatsienafire148v20142.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatsienafire148v2014/fiatsienafire148v20143.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatsienafire148v2014/fiatsienafire148v20144.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatsienafire148v2014/fiatsienafire148v20145.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatsienafire148v2014/fiatsienafire148v20146.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatsienafire148v2014/fiatsienafire148v20147.png",
       },
     ],
     reviews: [],
@@ -175,164 +225,6 @@ export const usados = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20208.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65a629i711e91b9jfla351e9d",
-    name: "ML 350",
-    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 18500,
-    brand: "MERCEDES BENZ",
-    category: "Usado",
-    year: 2006,
-    kms: 138732,
-    caja: "Automática",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml3020061.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml3020062.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml3020063.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml3020064.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml3020065.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml3020066.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml3020067.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml3020068.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml3020069.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/mercedesbenzml302006/mercedesbenzml30200610.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65a6243511e91b9jfla351e9d",
-    name: "CRONOS ATTRACTIVE",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 16900000,
-    brand: "FIAT",
-    category: "Usado",
-    year: 2022,
-    kms: 61242,
-    caja: "Manual",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20221.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20222.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20223.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20224.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20225.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20226.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20227.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20228.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20229.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p202210.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p202211.png",
       },
     ],
     reviews: [],
@@ -594,80 +486,6 @@ export const usados = [
     reviews: [],
   },
   {
-    id: "64a654593e91b8e73a351e9c",
-    name: "325i",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 19000,
-    brand: "BMW",
-    category: "Usado Premium",
-    year: 2010,
-    kms: 102400,
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/bmw325i2010/bmw325i20101.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/bmw325i2010/bmw325i20102.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/bmw325i2010/bmw325i20103.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/bmw325i2010/bmw325i20104.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/bmw325i2010/bmw325i20105.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/bmw325i2010/bmw325i20106.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/bmw325i2010/bmw325i20107.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/bmw325i2010/bmw325i20108.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/bmw325i2010/bmw325i20109.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/bmw325i2010/bmw325i201010.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
     id: "65a654593e91b8aa351e9c",
     name: "ECO SPORT SE",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
@@ -769,56 +587,6 @@ export const usados = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/peugeotpartnerconfort162022/peugeotpartnerconfort1620227.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65a654593e91b8f73a351e9c",
-    name: "CORSA CLASSIC LTS SPIRIT 1.4N",
-    description: "-Nafta / Gas<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos",
-    price: 7500000,
-    brand: "Chevrolet",
-    category: "Usado",
-    year: 2012,
-    kms: 138000,
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcorsaclassic4ptasltspirit14n2012/chevroletcorsaclassic4ptasltspirit14n20121.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcorsaclassic4ptasltspirit14n2012/chevroletcorsaclassic4ptasltspirit14n20122.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcorsaclassic4ptasltspirit14n2012/chevroletcorsaclassic4ptasltspirit14n20123.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcorsaclassic4ptasltspirit14n2012/chevroletcorsaclassic4ptasltspirit14n20124.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcorsaclassic4ptasltspirit14n2012/chevroletcorsaclassic4ptasltspirit14n20125.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcorsaclassic4ptasltspirit14n2012/chevroletcorsaclassic4ptasltspirit14n20126.png",
       },
     ],
     reviews: [],

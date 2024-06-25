@@ -8,6 +8,166 @@
 
 export const products = [
   {
+    id: "65a654593e91b8e73a351e9c",
+    name: "A5 2.0 TURBO",
+    description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
+    price: 24800000,
+    brand: "AUDI",
+    category: "Usado Premium",
+    year: 2012,
+    kms: 84500,
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/audia520turbo2012/audia520turbo20121.png",
+      },
+      {
+        color: "Gray",
+        colorCode: "#808080",
+        image:
+          "/products/orgsachimages/audia520turbo2012/audia520turbo20122.png",
+      },
+      {
+        color: "Gray",
+        colorCode: "#808080",
+        image:
+          "/products/orgsachimages/audia520turbo2012/audia520turbo20123.png",
+      },
+      {
+        color: "Gray",
+        colorCode: "#808080",
+        image:
+          "/products/orgsachimages/audia520turbo2012/audia520turbo20124.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a8jki766a4f113jfla351e9d",
+    name: "MOVE UP",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado",
+    price: 12900000,
+    brand: "VOLKSWAGEN",
+    category: "Usado",
+    year: 2016,
+    kms: 56400,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20161.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20162.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20163.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20164.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20165.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20166.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20167.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20168.jpeg",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a8uti597y4f113jeuw351e9d",
+    name: "SIENA FIRE",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado",
+    price: 8900000,
+    brand: "FIAT",
+    category: "Usado",
+    year: 2014,
+    kms: 112325,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatsienafire148v2014/fiatsienafire148v20141.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatsienafire148v2014/fiatsienafire148v20142.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatsienafire148v2014/fiatsienafire148v20143.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatsienafire148v2014/fiatsienafire148v20144.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatsienafire148v2014/fiatsienafire148v20145.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatsienafire148v2014/fiatsienafire148v20146.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatsienafire148v2014/fiatsienafire148v20147.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65a8uti766a4f113jfla351e9d",
     name: "SPIN ACTIVE",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
