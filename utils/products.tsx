@@ -431,7 +431,7 @@ export const products = [
     brand: "FIAT",
     category: "Usado",
     year: 2022,
-    kms: 61242,
+    kms: 61300,
     caja: "Manual",
     combustible: "Nafta",
     inStock: true,

@@ -1,5 +1,145 @@
 export const usados = [
   {
+    id: "65a6243511e91b9jfla351e9d",
+    name: "CRONOS ATTRACTIVE",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 16900000,
+    brand: "FIAT",
+    category: "Usado",
+    year: 2022,
+    kms: 61300,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20221.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20222.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20223.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20224.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20225.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20226.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20227.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20228.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p20229.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p202210.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatcronosattractive13mt4p2022/fiatcronosattractive13mt4p202211.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a8uti766a4f113jfla351e9d",
+    name: "SPIN ACTIVE",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 13900000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2015,
+    kms: 102000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20151.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20152.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20153.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20154.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20155.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20156.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20157.jpeg",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65a654593e91b8e73a351e9c",
     name: "A5 2.0 TURBO",
     description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
@@ -359,70 +499,6 @@ export const usados = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/gilerasmx200/gilerasmx2009.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65a654593e91b9e73a351e9d",
-    name: "FIESTA SE",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 11900000,
-    brand: "FORD",
-    category: "Usado",
-    year: 2016,
-    kms: 94000,
-    caja: "Manual",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordfiestase162016/fordfiestase1620161.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordfiestase162016/fordfiestase1620162.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordfiestase162016/fordfiestase1620163.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordfiestase162016/fordfiestase1620164.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordfiestase162016/fordfiestase1620165.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordfiestase162016/fordfiestase1620166.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordfiestase162016/fordfiestase1620167.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordfiestase162016/fordfiestase1620168.png",
       },
     ],
     reviews: [],
