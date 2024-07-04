@@ -1,5 +1,127 @@
 export const usados = [
   {
+    id: "65a8uti766qqme13jfla351e9d",
+    name: "FIESTA TITANIUM ",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 11000000,
+    brand: "FORD",
+    category: "Usado",
+    year: 2013,
+    kms: 112000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestatitanium1_62013sedan4p/fordfiestatitanium1_62013sedan4p1.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestatitanium1_62013sedan4p/fordfiestatitanium1_62013sedan4p2.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestatitanium1_62013sedan4p/fordfiestatitanium1_62013sedan4p3.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestatitanium1_62013sedan4p/fordfiestatitanium1_62013sedan4p4.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestatitanium1_62013sedan4p/fordfiestatitanium1_62013sedan4p5.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestatitanium1_62013sedan4p/fordfiestatitanium1_62013sedan4p6.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestatitanium1_62013sedan4p/fordfiestatitanium1_62013sedan4p7.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a8uti7av69f113jfla351e9d",
+    name: "AMAROK V6",
+    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 29000,
+    brand: "VOLKSWAGEN",
+    category: "Usado",
+    year: 2019,
+    kms: 88400,
+    caja: "Automática",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenamarokv6comfortlie3_0ltdi4x42019/volkswagenamarokv6comfortlie3_0ltdi4x420191.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenamarokv6comfortlie3_0ltdi4x42019/volkswagenamarokv6comfortlie3_0ltdi4x420192.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenamarokv6comfortlie3_0ltdi4x42019/volkswagenamarokv6comfortlie3_0ltdi4x420193.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenamarokv6comfortlie3_0ltdi4x42019/volkswagenamarokv6comfortlie3_0ltdi4x420194.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenamarokv6comfortlie3_0ltdi4x42019/volkswagenamarokv6comfortlie3_0ltdi4x420195.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenamarokv6comfortlie3_0ltdi4x42019/volkswagenamarokv6comfortlie3_0ltdi4x420196.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenamarokv6comfortlie3_0ltdi4x42019/volkswagenamarokv6comfortlie3_0ltdi4x420197.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenamarokv6comfortlie3_0ltdi4x42019/volkswagenamarokv6comfortlie3_0ltdi4x420198.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65a6243511e91b9jfla351e9d",
     name: "CRONOS ATTRACTIVE",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",

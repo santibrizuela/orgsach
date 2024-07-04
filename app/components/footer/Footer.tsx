@@ -31,7 +31,7 @@ const Footer = () => {
                             target="_blank"
                             rel="noreferrer"
                         >
-                            &copy; {new Date().getFullYear()} Brizuela Sideravicius.
+                            {new Date().getFullYear()} &copy; Todos los derechos reservados Organización Sach.
                         </a>
                     </div>
                     <FooterList>

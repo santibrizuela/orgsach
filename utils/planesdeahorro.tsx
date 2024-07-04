@@ -1,9 +1,9 @@
 export const planesdeahorro = [
   {
     id: "65a654593eg73a351e9c",
-    name: "TRACKER 1.2 MTAT",
+    name: "TRACKER 1.2 MT",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 208433,
+    price: 235613,
     brand: "Chevrolet",
     category: "Plan de ahorro",
     year: 2024,
@@ -33,9 +33,9 @@ export const planesdeahorro = [
   },
   {
     id: "65a654593eg73a462e9c",
-    name: "TRACKER 1.2 LTAT",
+    name: "TRACKER 1.2 AT",
     description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 259144,
+    price: 275931,
     brand: "Chevrolet",
     category: "Plan de ahorro",
     year: 2024,
@@ -89,9 +89,9 @@ export const planesdeahorro = [
   },
   {
     id: "65a654593e92b8e73a351e9c",
-    name: "ONIX 1.2",
+    name: "ONIX 1.0 LT MT",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 221343,
+    price: 211160,
     brand: "Chevrolet",
     category: "Plan de ahorro",
     year: 2024,
@@ -127,9 +127,9 @@ export const planesdeahorro = [
   },
   {
     id: "65a654593e9a73a351e9c",
-    name: "S10 CD 4X2 LS MT",
+    name: "S10 CD 2.8 4x2 LS MT",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 47600000,
+    price: 276645,
     brand: "Chevrolet",
     category: "0km",
     year: 2024,
