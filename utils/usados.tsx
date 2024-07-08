@@ -1,13 +1,13 @@
 export const usados = [
   {
-    id: "65a8uti766qqme13jfla351e9d",
-    name: "FIESTA TITANIUM ",
+    id: "65a83087av69f113jfla351e9d",
+    name: "308 ALLURE",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 11000000,
-    brand: "FORD",
+    price: 9900000,
+    brand: "PEUGEOT",
     category: "Usado",
-    year: 2013,
-    kms: 112000,
+    year: 2012,
+    kms: 89000,
     caja: "Manual",
     combustible: "Nafta",
     inStock: true,
@@ -16,43 +16,245 @@ export const usados = [
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/fordfiestatitanium1_62013sedan4p/fordfiestatitanium1_62013sedan4p1.png",
+          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20121.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/fordfiestatitanium1_62013sedan4p/fordfiestatitanium1_62013sedan4p2.png",
+          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20122.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/fordfiestatitanium1_62013sedan4p/fordfiestatitanium1_62013sedan4p3.png",
+          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20123.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/fordfiestatitanium1_62013sedan4p/fordfiestatitanium1_62013sedan4p4.png",
+          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20124.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/fordfiestatitanium1_62013sedan4p/fordfiestatitanium1_62013sedan4p5.png",
+          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20125.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a8CRU7av69f113jfla351e9d",
+    name: "CRUZE LT",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 14000000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2015,
+    kms: 89000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcruzelt1_82015/chevroletcruzelt1_820151.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/fordfiestatitanium1_62013sedan4p/fordfiestatitanium1_62013sedan4p6.png",
+          "/products/orgsachimages/chevroletcruzelt1_82015/chevroletcruzelt1_820152.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/fordfiestatitanium1_62013sedan4p/fordfiestatitanium1_62013sedan4p7.png",
+          "/products/orgsachimages/chevroletcruzelt1_82015/chevroletcruzelt1_820153.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcruzelt1_82015/chevroletcruzelt1_820154.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcruzelt1_82015/chevroletcruzelt1_820155.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcruzelt1_82015/chevroletcruzelt1_820156.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a8ave7av69f113jfla351e9d",
+    name: "AVEO G3",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 9900000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2013,
+    kms: 61200,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletaveog3ls1_6nmtsedan4p2013/chevroletaveog3ls1_6nmtsedan4p20131.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletaveog3ls1_6nmtsedan4p2013/chevroletaveog3ls1_6nmtsedan4p20132.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletaveog3ls1_6nmtsedan4p2013/chevroletaveog3ls1_6nmtsedan4p20133.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletaveog3ls1_6nmtsedan4p2013/chevroletaveog3ls1_6nmtsedan4p20134.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletaveog3ls1_6nmtsedan4p2013/chevroletaveog3ls1_6nmtsedan4p20135.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletaveog3ls1_6nmtsedan4p2013/chevroletaveog3ls1_6nmtsedan4p20136.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a8cor7av69f113jfla351e9d",
+    name: "CORSA CLASSIC",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado",
+    price: 9400000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2015,
+    kms: 75540,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevolecorsaclassicls1_42015/chevolecorsaclassicls1_420151.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevolecorsaclassicls1_42015/chevolecorsaclassicls1_420152.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevolecorsaclassicls1_42015/chevolecorsaclassicls1_420153.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevolecorsaclassicls1_42015/chevolecorsaclassicls1_420154.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevolecorsaclassicls1_42015/chevolecorsaclassicls1_420155.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevolecorsaclassicls1_42015/chevolecorsaclassicls1_420156.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevolecorsaclassicls1_42015/chevolecorsaclassicls1_420157.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a8pal7av69f113jfla351e9d",
+    name: "PALIO",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado",
+    price: 4500000,
+    brand: "FIAT",
+    category: "Usado",
+    year: 2000,
+    kms: 179970,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatpalio2000/fiatpalio20001.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatpalio2000/fiatpalio20002.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatpalio2000/fiatpalio20003.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatpalio2000/fiatpalio20004.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatpalio2000/fiatpalio20005.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fiatpalio2000/fiatpalio20006.png",
       },
     ],
     reviews: [],
@@ -621,64 +823,6 @@ export const usados = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/gilerasmx200/gilerasmx2009.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "64a654593e91b8453a351e9b",
-    name: "308 FELINE",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 12600000,
-    brand: "PEUGEOT",
-    category: "Usado",
-    year: 2012,
-    kms: 159300,
-    caja: "Manual",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/peugeotls308feline202012/peugeotls308feline2020121.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/peugeotls308feline202012/peugeotls308feline2020122.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/peugeotls308feline202012/peugeotls308feline2020123.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/peugeotls308feline202012/peugeotls308feline2020124.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/peugeotls308feline202012/peugeotls308feline2020125.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/peugeotls308feline202012/peugeotls308feline2020126.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/peugeotls308feline202012/peugeotls308feline2020127.png",
       },
     ],
     reviews: [],
