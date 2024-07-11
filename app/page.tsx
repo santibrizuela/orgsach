@@ -17,26 +17,30 @@ export default function Home() {
       
       <div className="p-8">
         <Container>
+          
           <div>
             <Categories/>
           </div>
-          <div>
-            <HomeBanner/>
-          </div>
-          <div className="grid sm:grid-cols-3 lg:grid-cols-4 2xl:grid-cols-6 gap-8">
+          
+          <div className="my-8 grid sm:grid-cols-3 lg:grid-cols-4 2xl:grid-cols-6 gap-8">
             {planesdeahorro.map((product: any) => {
               // eslint-disable-next-line react/jsx-key
               return <ProductCard data={product} />
             })}
           </div>
+
+          <div>
+            <HomeBanner/>
+          </div>
         </Container>
       </div>
       
-            
-      <VehicleForm/>
       <div>
         <BannerChevrolet/>
       </div>
+            
+      <VehicleForm/>
+      
     </div>
     
   );

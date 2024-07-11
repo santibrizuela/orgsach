@@ -1,5 +1,75 @@
 export const usados = [
   {
+    id: "65a83087aglh1503jfla351e9d",
+    name: "GLH 150",
+    description: "-Nafta<br/>-Manual",
+    price: 2500000,
+    brand: "HONDA",
+    category: "Usado",
+    year: 2014,
+    kms: 43657,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/hondaglh1502014/hondaglh15020141.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/hondaglh1502014/hondaglh15020142.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/hondaglh1502014/hondaglh15020143.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/hondaglh1502014/hondaglh15020144.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/hondaglh1502014/hondaglh15020145.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/hondaglh1502014/hondaglh15020146.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/hondaglh1502014/hondaglh15020147.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/hondaglh1502014/hondaglh15020148.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/hondaglh1502014/hondaglh15020149.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65a83087av69f113jfla351e9d",
     name: "308 ALLURE",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
@@ -7,7 +77,7 @@ export const usados = [
     brand: "PEUGEOT",
     category: "Usado",
     year: 2012,
-    kms: 89000,
+    kms: 161000,
     caja: "Manual",
     combustible: "Nafta",
     inStock: true,
@@ -467,7 +537,7 @@ export const usados = [
     id: "65a654593e91b8e73a351e9c",
     name: "A5 2.0 TURBO",
     description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 24800000,
+    price: 19000,
     brand: "AUDI",
     category: "Usado Premium",
     year: 2012,
@@ -505,7 +575,7 @@ export const usados = [
     id: "65a8jki766a4f113jfla351e9d",
     name: "MOVE UP",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado",
-    price: 12900000,
+    price: 10000,
     brand: "VOLKSWAGEN",
     category: "Usado",
     year: 2016,
@@ -627,7 +697,7 @@ export const usados = [
     id: "65a8uti711e91b9qlos351e9d",
     name: "1500 LARAMIE",
     description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 46000,
+    price: 49000,
     brand: "RAM",
     category: "Usado",
     year: 2020,
@@ -823,56 +893,6 @@ export const usados = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/gilerasmx200/gilerasmx2009.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65a654593e91b8aa351e9c",
-    name: "ECO SPORT SE",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 11900000,
-    brand: "Ford",
-    category: "Usado",
-    year: 2013,
-    kms: 148000,
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordecosportse162013/fordecosportse1620131.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordecosportse162013/fordecosportse1620132.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordecosportse162013/fordecosportse1620133.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordecosportse162013/fordecosportse1620134.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordecosportse162013/fordecosportse1620135.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordecosportse162013/fordecosportse1620136.png",
       },
     ],
     reviews: [],

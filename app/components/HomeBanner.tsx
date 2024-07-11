@@ -5,7 +5,7 @@ import { FaArrowRight } from "react-icons/fa";
 
 const HomeBanner = () => {
     return ( 
-        <div className="relative bg-gradient-to-t from-yellow-300 to-yellow-600 mb-8 rounded-md">
+        <div className="relative bg-gradient-to-t from-yellow-300 to-yellow-600 my-8 rounded-md">
             <div className="mx-auto px-8 py-12 flex flex-col gap-2 md:flex-row items-center justify-evenly">
                 <div className="mb-8 md:mb-0 text-center ease-in duration-300">
                     <h1 className="text-4xl md:text-6xl font-bold text-yellow-50 mb-4">Plan de Ahorro</h1>
@@ -19,7 +19,7 @@ const HomeBanner = () => {
                 </div>
                 <div className="w-1/2 lg:w-1/3 relative aspect-video">
                     <Image
-                        src="/sachLogoBad.png"
+                        src="/sachLogoR.png"
                         fill
                         alt="Banner Image"
                         className="object-contain"

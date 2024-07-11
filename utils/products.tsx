@@ -14,19 +14,19 @@ export const products = [
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/tracker12mtat/tracker12mtat1.png",
+          "/products/orgsachimages/chevrolettracker12mt/tracker12mt1.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/tracker12mtat/tracker12mtat2.png",
+          "/products/orgsachimages/chevrolettracker12mt/tracker12mt2.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/tracker12mtat/tracker12mtat3.png",
+          "/products/orgsachimages/chevrolettracker12mt/tracker12mt3.png",
       },
     ],
     reviews: [],
@@ -131,7 +131,7 @@ export const products = [
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
     price: 276645,
     brand: "Chevrolet",
-    category: "0km",
+    category: "Plan de ahorro",
     year: 2024,
     kms: 0,
     inStock: true,
@@ -140,13 +140,13 @@ export const products = [
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/s10cd4x2lsmt/s10cd4x2lsmt1.png",
+          "/products/orgsachimages/s10cd4x2lsmt/s10cd4x2lsmt1.jpg",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/s10cd4x2lsmt/s10cd4x2lsmt2.png",
+          "/products/orgsachimages/s10cd4x2lsmt/s10cd4x2lsmt2.jpg",
       },
       {
         color: "White",
@@ -203,6 +203,76 @@ export const products = [
         colorCode: "#808080",
         image:
           "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20246.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a83087aglh1503jfla351e9d",
+    name: "GLH 150",
+    description: "-Nafta<br/>-Manual",
+    price: 2500000,
+    brand: "HONDA",
+    category: "Usado",
+    year: 2014,
+    kms: 43657,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/hondaglh1502014/hondaglh15020141.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/hondaglh1502014/hondaglh15020142.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/hondaglh1502014/hondaglh15020143.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/hondaglh1502014/hondaglh15020144.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/hondaglh1502014/hondaglh15020145.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/hondaglh1502014/hondaglh15020146.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/hondaglh1502014/hondaglh15020147.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/hondaglh1502014/hondaglh15020148.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/hondaglh1502014/hondaglh15020149.png",
       },
     ],
     reviews: [],

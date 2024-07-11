@@ -27,7 +27,7 @@ const Footer = () => {
                         <h3 className="text-base font-bold mb-2">Acerca De</h3>
                         <p className="mb-2">En Organización Sach, tenemos planes a tu medida con la flexibilidad para financiar tu 0km. De forma accesible y transparente, con cuotas en pesos y sin interés, en hasta 120 cuotas. </p>
                         <a 
-                            href="https://brizuelasideravicius.vercel.app/"
+                            href="https://organizacionsach.com/"
                             target="_blank"
                             rel="noreferrer"
                         >

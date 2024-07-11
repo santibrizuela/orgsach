@@ -14,19 +14,19 @@ export const planesdeahorro = [
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/tracker12mtat/tracker12mtat1.png",
+          "/products/orgsachimages/chevrolettracker12mt/tracker12mt1.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/tracker12mtat/tracker12mtat2.png",
+          "/products/orgsachimages/chevrolettracker12mt/tracker12mt2.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/tracker12mtat/tracker12mtat3.png",
+          "/products/orgsachimages/chevrolettracker12mt/tracker12mt3.png",
       },
     ],
     reviews: [],
@@ -131,7 +131,7 @@ export const planesdeahorro = [
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
     price: 276645,
     brand: "Chevrolet",
-    category: "0km",
+    category: "Plan de ahorro",
     year: 2024,
     kms: 0,
     inStock: true,
@@ -140,13 +140,13 @@ export const planesdeahorro = [
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/s10cd4x2lsmt/s10cd4x2lsmt1.png",
+          "/products/orgsachimages/s10cd4x2lsmt/s10cd4x2lsmt1.jpg",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/s10cd4x2lsmt/s10cd4x2lsmt2.png",
+          "/products/orgsachimages/s10cd4x2lsmt/s10cd4x2lsmt2.jpg",
       },
       {
         color: "White",

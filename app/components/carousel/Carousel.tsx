@@ -3,14 +3,14 @@ import Image from "next/image";
 import Link from "next/link";
 import { AiOutlineFacebook, AiOutlineInstagram, AiOutlineWhatsApp } from "react-icons/ai";
 import { ImLocation } from 'react-icons/im'
-import BannerBrand from '@/public/sachLogo.png';
+import BannerBrand from '@/public/sachLogoR.png';
 import { FaFacebookSquare } from "react-icons/fa";
 
 const roboto = Roboto({ subsets: ["latin"], weight: ["400"] });
 
 const Carousel = () => {
     return ( 
-        <div className="h-96 bg-cover bg-center md:bg-fixed" style={{ backgroundImage: "url('../../../categoriesplanesdeahorro.png')"}}>
+        <div className="h-[30rem] bg-cover bg-center md:bg-fixed" style={{ backgroundImage: "url('../../../166009321810323.png')"}}>
             <div className='max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center'>
                 <div 
                     className='justify-center text-center'
