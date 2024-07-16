@@ -1333,7 +1333,7 @@ export const products = [
     id: "65a654593e91b18e73q51e9c",
     name: "PARTNER CONFORT 1.6",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Bluetooth",
-    price: 17900000,
+    price: 21000000,
     brand: "Peugeot",
     category: "Usado",
     year: 2022,
