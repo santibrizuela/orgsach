@@ -459,7 +459,7 @@ export const usados = [
     brand: "AUDI",
     category: "Usado Premium",
     year: 2012,
-    kms: 84500,
+    kms: 66000,
     inStock: true,
     images: [
       {
@@ -695,7 +695,7 @@ export const usados = [
     brand: "Peugeot",
     category: "Usado",
     year: 2022,
-    kms: 126000,
+    kms: 60000,
     inStock: true,
     images: [
       {

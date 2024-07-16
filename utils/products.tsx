@@ -343,7 +343,7 @@ export const products = [
     brand: "PEUGEOT",
     category: "Usado",
     year: 2012,
-    kms: 89000,
+    kms: 161000,
     caja: "Manual",
     combustible: "Nafta",
     inStock: true,
@@ -865,7 +865,7 @@ export const products = [
     brand: "AUDI",
     category: "Usado Premium",
     year: 2012,
-    kms: 84500,
+    kms: 66000,
     inStock: true,
     images: [
       {
@@ -1337,7 +1337,7 @@ export const products = [
     brand: "Peugeot",
     category: "Usado",
     year: 2022,
-    kms: 126000,
+    kms: 60000,
     inStock: true,
     images: [
       {
