@@ -211,7 +211,7 @@ export const products = [
     id: "65ac2012av69f113jfla351e9d",
     name: "CORSA CLASSIC",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Alarma",
-    price: 9900000,
+    price: 7500000,
     brand: "CHEVROLET",
     category: "Usado",
     year: 2012,
