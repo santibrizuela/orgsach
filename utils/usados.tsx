@@ -1,5 +1,63 @@
 export const usados = [
   {
+    id: "65ac2012av69f113jfla351e9d",
+    name: "CORSA CLASSIC",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Alarma",
+    price: 9900000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2012,
+    kms: 138000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20121.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20122.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20123.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20124.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20125.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20126.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20127.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65a83087aglh1503jfla351e9d",
     name: "GLH 150",
     description: "-Nafta<br/>-Manual",
@@ -567,70 +625,6 @@ export const usados = [
         colorCode: "#808080",
         image:
           "/products/orgsachimages/audia520turbo2012/audia520turbo20124.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65a8jki766a4f113jfla351e9d",
-    name: "MOVE UP",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado",
-    price: 10000,
-    brand: "VOLKSWAGEN",
-    category: "Usado",
-    year: 2016,
-    kms: 56400,
-    caja: "Manual",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20161.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20162.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20163.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20164.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20165.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20166.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20167.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/volkswagenmoveup10mpi2016/volkswagenmoveup10mpi20168.jpeg",
       },
     ],
     reviews: [],

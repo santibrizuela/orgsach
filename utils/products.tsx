@@ -208,6 +208,64 @@ export const products = [
     reviews: [],
   },
   {
+    id: "65ac2012av69f113jfla351e9d",
+    name: "CORSA CLASSIC",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Alarma",
+    price: 9900000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2012,
+    kms: 138000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20121.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20122.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20123.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20124.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20125.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20126.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20127.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65a83087aglh1503jfla351e9d",
     name: "GLH 150",
     description: "-Nafta<br/>-Manual",
