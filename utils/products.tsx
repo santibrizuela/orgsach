@@ -161,7 +161,7 @@ export const products = [
     id: "65a654593e91b8e73a351e9p",
     name: "CRUZE PREMIER",
     description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 32600000,
+    price: 36900000,
     brand: "Chevrolet",
     category: "0km",
     year: 2024,
@@ -203,6 +203,64 @@ export const products = [
         colorCode: "#808080",
         image:
           "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20246.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a82087aglh1503jfla351e9d",
+    name: "208 ALLURE",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 19400,
+    brand: "PEUGEOT",
+    category: "Usado",
+    year: 2021,
+    kms: 32300,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620211.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620212.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620213.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620214.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620215.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620216.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620217.png",
       },
     ],
     reviews: [],
@@ -272,7 +330,7 @@ export const products = [
     price: 2500000,
     brand: "HONDA",
     category: "Usado",
-    year: 2014,
+    year: 2022,
     kms: 43657,
     caja: "Manual",
     combustible: "Nafta",
@@ -1333,7 +1391,7 @@ export const products = [
     id: "65a654593e91b18e73q51e9c",
     name: "PARTNER CONFORT 1.6",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Bluetooth",
-    price: 21000000,
+    price: 14500,
     brand: "Peugeot",
     category: "Usado",
     year: 2022,

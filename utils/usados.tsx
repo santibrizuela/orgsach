@@ -1,13 +1,13 @@
 export const usados = [
   {
-    id: "65ac2012av69f113jfla351e9d",
-    name: "CORSA CLASSIC",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Alarma",
-    price: 7500000,
-    brand: "CHEVROLET",
+    id: "65a82087aglh1503jfla351e9d",
+    name: "208 ALLURE",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 19400,
+    brand: "PEUGEOT",
     category: "Usado",
-    year: 2012,
-    kms: 138000,
+    year: 2021,
+    kms: 32300,
     caja: "Manual",
     combustible: "Nafta",
     inStock: true,
@@ -16,43 +16,43 @@ export const usados = [
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20121.png",
+          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620211.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20122.png",
+          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620212.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20123.png",
+          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620213.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20124.png",
+          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620214.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20125.png",
+          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620215.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20126.png",
+          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620216.png",
       },
       {
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20127.png",
+          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620217.png",
       },
     ],
     reviews: [],
@@ -64,7 +64,7 @@ export const usados = [
     price: 2500000,
     brand: "HONDA",
     category: "Usado",
-    year: 2014,
+    year: 2022,
     kms: 43657,
     caja: "Manual",
     combustible: "Nafta",
@@ -691,7 +691,7 @@ export const usados = [
     id: "65a654593e91b18e73q51e9c",
     name: "PARTNER CONFORT 1.6",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Bluetooth",
-    price: 21000000,
+    price: 14500,
     brand: "Peugeot",
     category: "Usado",
     year: 2022,
