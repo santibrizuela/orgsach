@@ -20,37 +20,37 @@ export const usados = [
       },
       {
         color: "White",
-        colorCode: "#FFFFFF",
+        colorCode: "#FFFFF0",
         image:
           "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620212.png",
       },
       {
         color: "White",
-        colorCode: "#FFFFFF",
+        colorCode: "#FFFFF1",
         image:
           "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620213.png",
       },
       {
         color: "White",
-        colorCode: "#FFFFFF",
+        colorCode: "#FFFFF2",
         image:
           "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620214.png",
       },
       {
         color: "White",
-        colorCode: "#FFFFFF",
+        colorCode: "#FFFFF3",
         image:
           "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620215.png",
       },
       {
         color: "White",
-        colorCode: "#FFFFFF",
+        colorCode: "#FFFFF4",
         image:
           "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620216.png",
       },
       {
         color: "White",
-        colorCode: "#FFFFFF",
+        colorCode: "#FFFFF5",
         image:
           "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620217.jpeg",
       },
