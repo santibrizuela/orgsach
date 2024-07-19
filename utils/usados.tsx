@@ -452,44 +452,6 @@ export const usados = [
     reviews: [],
   },
   {
-    id: "65a654593e91b8e73a351e9c",
-    name: "A5 2.0 TURBO",
-    description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 19000,
-    brand: "AUDI",
-    category: "Usado Premium",
-    year: 2012,
-    kms: 66000,
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/audia520turbo2012/audia520turbo20121.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/audia520turbo2012/audia520turbo20122.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/audia520turbo2012/audia520turbo20123.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/audia520turbo2012/audia520turbo20124.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
     id: "65a8uti597y4f113jeuw351e9d",
     name: "SIENA FIRE",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado",
