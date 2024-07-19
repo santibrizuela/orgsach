@@ -2,13 +2,13 @@ export const usados = [
   {
     id: "65a82087aglh1503jfla351e9d",
     name: "208 ALLURE",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    description: "-Nafta<br/>-Atuomática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
     price: 19400,
     brand: "PEUGEOT",
     category: "Usado",
     year: 2021,
     kms: 32300,
-    caja: "Manual",
+    caja: "Atuomática",
     combustible: "Nafta",
     inStock: true,
     images: [
@@ -52,7 +52,7 @@ export const usados = [
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620217.png",
+          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620217.jpeg",
       },
     ],
     reviews: [],
