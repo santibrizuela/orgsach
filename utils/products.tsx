@@ -208,6 +208,58 @@ export const products = [
     reviews: [],
   },
   {
+    id: "65acru77aglh1503jfla351e9d",
+    name: "CRUZE LT",
+    description: "-Nafta<br/>-Atuomática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 18500000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2017,
+    kms: 96103,
+    caja: "Atuomática",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20171.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20172.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20173.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20174.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20175.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20176.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65a82087aglh1503jfla351e9d",
     name: "208 ALLURE",
     description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
