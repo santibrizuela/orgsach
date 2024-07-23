@@ -256,6 +256,24 @@ export const products = [
         image:
           "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20176.png",
       },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20177.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20178.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20179.png",
+      },
     ],
     reviews: [],
   },
