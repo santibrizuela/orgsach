@@ -208,6 +208,208 @@ export const products = [
     reviews: [],
   },
   {
+    id: "65aTRK22aglh1503jfla351e9d",
+    name: "TRACKER PREMIER",
+    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 34000000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2022,
+    kms: 75300,
+    caja: "Automática",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerpremierturboat2022/chevrolettrackerpremierturboat20221.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerpremierturboat2022/chevrolettrackerpremierturboat20222.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerpremierturboat2022/chevrolettrackerpremierturboat20223.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerpremierturboat2022/chevrolettrackerpremierturboat20224.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerpremierturboat2022/chevrolettrackerpremierturboat20225.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65aren17aglh1503jfla351e9d",
+    name: "RENEGATE SPORT",
+    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 22000000,
+    brand: "JEEP",
+    category: "Usado",
+    year: 2017,
+    kms: 61815,
+    caja: "Automática",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/jeeprenegadesportat2017/jeeprenegadesportat20171.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/jeeprenegadesportat2017/jeeprenegadesportat20172.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/jeeprenegadesportat2017/jeeprenegadesportat20173.jpg",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/jeeprenegadesportat2017/jeeprenegadesportat20174.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/jeeprenegadesportat2017/jeeprenegadesportat20175.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/jeeprenegadesportat2017/jeeprenegadesportat20176.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65aoni18aglh1503jfla351e9d",
+    name: "ONIX LTZ",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 20000000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2018,
+    kms: 100593,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixltz2018/chevroletonixltz20181.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixltz2018/chevroletonixltz20182.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixltz2018/chevroletonixltz20183.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixltz2018/chevroletonixltz20184.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixltz2018/chevroletonixltz20185.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixltz2018/chevroletonixltz20186.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65aTRK21aglh1503jfla351e9d",
+    name: "TRACKER LTZ",
+    description: "-Nafta<br/>-Atuomática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 31000000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2021,
+    kms: 37700,
+    caja: "Atuomática",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerltz1_2turbo2021/chevrolettrackerltz1_2turbo20211.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerltz1_2turbo2021/chevrolettrackerltz1_2turbo20212.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerltz1_2turbo2021/chevrolettrackerltz1_2turbo20213.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerltz1_2turbo2021/chevrolettrackerltz1_2turbo20214.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerltz1_2turbo2021/chevrolettrackerltz1_2turbo20215.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerltz1_2turbo2021/chevrolettrackerltz1_2turbo20216.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65acru77aglh1503jfla351e9d",
     name: "CRUZE LT",
     description: "-Nafta<br/>-Atuomática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",

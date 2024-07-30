@@ -1,5 +1,207 @@
 export const usados = [
   {
+    id: "65aTRK22aglh1503jfla351e9d",
+    name: "TRACKER PREMIER",
+    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 34000000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2022,
+    kms: 75300,
+    caja: "Automática",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerpremierturboat2022/chevrolettrackerpremierturboat20221.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerpremierturboat2022/chevrolettrackerpremierturboat20222.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerpremierturboat2022/chevrolettrackerpremierturboat20223.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerpremierturboat2022/chevrolettrackerpremierturboat20224.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerpremierturboat2022/chevrolettrackerpremierturboat20225.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65aren17aglh1503jfla351e9d",
+    name: "RENEGATE SPORT",
+    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 22000000,
+    brand: "JEEP",
+    category: "Usado",
+    year: 2017,
+    kms: 61815,
+    caja: "Automática",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/jeeprenegadesportat2017/jeeprenegadesportat20171.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/jeeprenegadesportat2017/jeeprenegadesportat20172.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/jeeprenegadesportat2017/jeeprenegadesportat20173.jpg",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/jeeprenegadesportat2017/jeeprenegadesportat20174.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/jeeprenegadesportat2017/jeeprenegadesportat20175.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/jeeprenegadesportat2017/jeeprenegadesportat20176.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65aoni18aglh1503jfla351e9d",
+    name: "ONIX LTZ",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 20000000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2018,
+    kms: 100593,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixltz2018/chevroletonixltz20181.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixltz2018/chevroletonixltz20182.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixltz2018/chevroletonixltz20183.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixltz2018/chevroletonixltz20184.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixltz2018/chevroletonixltz20185.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletonixltz2018/chevroletonixltz20186.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65aTRK21aglh1503jfla351e9d",
+    name: "TRACKER LTZ",
+    description: "-Nafta<br/>-Atuomática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 31000000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2021,
+    kms: 37700,
+    caja: "Atuomática",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerltz1_2turbo2021/chevrolettrackerltz1_2turbo20211.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerltz1_2turbo2021/chevrolettrackerltz1_2turbo20212.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerltz1_2turbo2021/chevrolettrackerltz1_2turbo20213.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerltz1_2turbo2021/chevrolettrackerltz1_2turbo20214.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerltz1_2turbo2021/chevrolettrackerltz1_2turbo20215.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerltz1_2turbo2021/chevrolettrackerltz1_2turbo20216.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65acru77aglh1503jfla351e9d",
     name: "CRUZE LT",
     description: "-Nafta<br/>-Atuomática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
@@ -175,52 +377,6 @@ export const usados = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/hondaglh1502014/hondaglh15020149.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65a83087av69f113jfla351e9d",
-    name: "308 ALLURE",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 9900000,
-    brand: "PEUGEOT",
-    category: "Usado",
-    year: 2012,
-    kms: 161000,
-    caja: "Manual",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20121.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20122.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20123.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20124.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20125.png",
       },
     ],
     reviews: [],
@@ -569,76 +725,6 @@ export const usados = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20208.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65a6545911ak4b9e73a351e9d",
-    name: "SMX 200",
-    description: "-Nafta<br/>-Manual",
-    price: 1900000,
-    brand: "GILERA",
-    category: "Usado",
-    year: 2023,
-    kms: 8994,
-    caja: "Manual",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/gilerasmx200/gilerasmx2001.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/gilerasmx200/gilerasmx2002.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/gilerasmx200/gilerasmx2003.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/gilerasmx200/gilerasmx2004.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/gilerasmx200/gilerasmx2005.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/gilerasmx200/gilerasmx2006.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/gilerasmx200/gilerasmx2007.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/gilerasmx200/gilerasmx2008.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/gilerasmx200/gilerasmx2009.png",
       },
     ],
     reviews: [],
