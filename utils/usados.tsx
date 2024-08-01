@@ -114,7 +114,7 @@ export const usados = [
         color: "White",
         colorCode: "#FFFFFF",
         image:
-          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620161.png",
+          "https://drive.google.com/uc?id=1k2VvxnQoTKmEeGjxg0TvmtOc6_4whjtS",
       },
       {
         color: "White",
