@@ -1,5 +1,207 @@
 export const usados = [
   {
+    id: "65a8rou2466a4f113jfla351e9d",
+    name: "ROUSER NS 200",
+    description: "-Nafta<br/>-Manual",
+    price: 3500,
+    brand: "BAJAJ",
+    category: "Usado",
+    year: 2024,
+    kms: 1274,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/bajajrouserns2002024/bajajrouserns20020241.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/bajajrouserns2002024/bajajrouserns20020242.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/bajajrouserns2002024/bajajrouserns20020243.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/bajajrouserns2002024/bajajrouserns20020244.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/bajajrouserns2002024/bajajrouserns20020245.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a8ven15766a4f113jfla351e9d",
+    name: "VENTO HIGHLINE",
+    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 17500,
+    brand: "VOLKSWAGEN",
+    category: "Usado",
+    year: 2015,
+    kms: 59000,
+    caja: "Automática",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenvento2_5highlinesedan4p2015/volkswagenvento2_5highlinesedan4p20151.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenvento2_5highlinesedan4p2015/volkswagenvento2_5highlinesedan4p20152.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenvento2_5highlinesedan4p2015/volkswagenvento2_5highlinesedan4p20153.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenvento2_5highlinesedan4p2015/volkswagenvento2_5highlinesedan4p20154.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenvento2_5highlinesedan4p2015/volkswagenvento2_5highlinesedan4p20155.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenvento2_5highlinesedan4p2015/volkswagenvento2_5highlinesedan4p20156.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a8FIE20166a4f113jfla351e9d",
+    name: "FIESTA SE",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 12800,
+    brand: "FORD",
+    category: "Usado",
+    year: 2016,
+    kms: 1,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620161.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620162.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620163.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620164.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620165.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a8uti766a4f113jfla351e9d",
+    name: "SPIN ACTIVE",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 14400000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2015,
+    kms: 102000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20151.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20152.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20153.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20154.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20155.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20156.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20157.jpeg",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65aTRK22aglh1503jfla351e9d",
     name: "TRACKER PREMIER",
     description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
@@ -47,9 +249,9 @@ export const usados = [
   },
   {
     id: "65aren17aglh1503jfla351e9d",
-    name: "RENEGATE SPORT",
+    name: "RENEGADE SPORT",
     description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 22000000,
+    price: 23000000,
     brand: "JEEP",
     category: "Usado",
     year: 2017,
@@ -100,13 +302,13 @@ export const usados = [
   {
     id: "65aoni18aglh1503jfla351e9d",
     name: "ONIX LTZ",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
     price: 20000000,
     brand: "CHEVROLET",
     category: "Usado",
     year: 2018,
     kms: 100593,
-    caja: "Manual",
+    caja: "Automática",
     combustible: "Nafta",
     inStock: true,
     images: [
@@ -197,116 +399,6 @@ export const usados = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/chevrolettrackerltz1_2turbo2021/chevrolettrackerltz1_2turbo20216.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65acru77aglh1503jfla351e9d",
-    name: "CRUZE LT",
-    description: "-Nafta<br/>-Atuomática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 18500000,
-    brand: "CHEVROLET",
-    category: "Usado",
-    year: 2017,
-    kms: 96103,
-    caja: "Atuomática",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20171.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20172.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20173.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20174.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20175.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20176.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65a82087aglh1503jfla351e9d",
-    name: "208 ALLURE",
-    description: "-Nafta<br/>-Atuomática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 19400,
-    brand: "PEUGEOT",
-    category: "Usado",
-    year: 2021,
-    kms: 32300,
-    caja: "Atuomática",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620211.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFF0",
-        image:
-          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620212.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFF1",
-        image:
-          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620213.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFF2",
-        image:
-          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620214.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFF3",
-        image:
-          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620215.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFF4",
-        image:
-          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620216.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFF5",
-        image:
-          "/products/orgsachimages/peugeot208allure1_62021/peugeot208allure1_620217.jpeg",
       },
     ],
     reviews: [],
@@ -481,58 +573,6 @@ export const usados = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/chevroletaveog3ls1_6nmtsedan4p2013/chevroletaveog3ls1_6nmtsedan4p20136.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65a8pal7av69f113jfla351e9d",
-    name: "PALIO",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado",
-    price: 4500000,
-    brand: "FIAT",
-    category: "Usado",
-    year: 2000,
-    kms: 179970,
-    caja: "Manual",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fiatpalio2000/fiatpalio20001.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fiatpalio2000/fiatpalio20002.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fiatpalio2000/fiatpalio20003.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fiatpalio2000/fiatpalio20004.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fiatpalio2000/fiatpalio20005.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fiatpalio2000/fiatpalio20006.png",
       },
     ],
     reviews: [],

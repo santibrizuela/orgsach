@@ -208,6 +208,150 @@ export const products = [
     reviews: [],
   },
   {
+    id: "65a8rou2466a4f113jfla351e9d",
+    name: "ROUSER NS 200",
+    description: "-Nafta<br/>-Manual",
+    price: 3500,
+    brand: "BAJAJ",
+    category: "Usado",
+    year: 2024,
+    kms: 1274,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/bajajrouserns2002024/bajajrouserns20020241.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/bajajrouserns2002024/bajajrouserns20020242.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/bajajrouserns2002024/bajajrouserns20020243.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/bajajrouserns2002024/bajajrouserns20020244.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/bajajrouserns2002024/bajajrouserns20020245.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a8ven15766a4f113jfla351e9d",
+    name: "VENTO HIGHLINE",
+    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 17500,
+    brand: "VOLKSWAGEN",
+    category: "Usado",
+    year: 2015,
+    kms: 59000,
+    caja: "Automática",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenvento2_5highlinesedan4p2015/volkswagenvento2_5highlinesedan4p20151.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenvento2_5highlinesedan4p2015/volkswagenvento2_5highlinesedan4p20152.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenvento2_5highlinesedan4p2015/volkswagenvento2_5highlinesedan4p20153.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenvento2_5highlinesedan4p2015/volkswagenvento2_5highlinesedan4p20154.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenvento2_5highlinesedan4p2015/volkswagenvento2_5highlinesedan4p20155.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenvento2_5highlinesedan4p2015/volkswagenvento2_5highlinesedan4p20156.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a8FIE20166a4f113jfla351e9d",
+    name: "FIESTA SE",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 12800,
+    brand: "FORD",
+    category: "Usado",
+    year: 2016,
+    kms: 1,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620161.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620162.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620163.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620164.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620165.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65aTRK22aglh1503jfla351e9d",
     name: "TRACKER PREMIER",
     description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
@@ -255,9 +399,9 @@ export const products = [
   },
   {
     id: "65aren17aglh1503jfla351e9d",
-    name: "RENEGATE SPORT",
+    name: "RENEGADE SPORT",
     description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 22000000,
+    price: 23000000,
     brand: "JEEP",
     category: "Usado",
     year: 2017,
@@ -308,13 +452,13 @@ export const products = [
   {
     id: "65aoni18aglh1503jfla351e9d",
     name: "ONIX LTZ",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
     price: 20000000,
     brand: "CHEVROLET",
     category: "Usado",
     year: 2018,
     kms: 100593,
-    caja: "Manual",
+    caja: "Automática",
     combustible: "Nafta",
     inStock: true,
     images: [
@@ -1133,7 +1277,7 @@ export const products = [
     id: "65a8uti766a4f113jfla351e9d",
     name: "SPIN ACTIVE",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 13900000,
+    price: 14400000,
     brand: "CHEVROLET",
     category: "Usado",
     year: 2015,
