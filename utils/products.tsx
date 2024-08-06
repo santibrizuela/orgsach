@@ -158,6 +158,26 @@ export const products = [
     reviews: [],
   },
   {
+    id: "65ama243e91b8e73a351e9p",
+    name: "AMAROK V6",
+    description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
+    price: 78000000,
+    brand: "VOLKSWAGEN",
+    category: "0km",
+    year: 2024,
+    kms: 0,
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenamarokv62024/volkswagenamarokv620241.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65a654593e91b8e73a351e9p",
     name: "CRUZE PREMIER",
     description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
@@ -203,6 +223,52 @@ export const products = [
         colorCode: "#808080",
         image:
           "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20246.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65su012v69f113jfla351e9d",
+    name: "SURAN 1.6 TRENDLINE",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 9800,
+    brand: "VOLKSWAGEN",
+    category: "Usado",
+    year: 2012,
+    kms: 114000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagensuran1_6trendline2012/volkswagensuran1_6trendline20121.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagensuran1_6trendline2012/volkswagensuran1_6trendline20122.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagensuran1_6trendline2012/volkswagensuran1_6trendline20123.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagensuran1_6trendline2012/volkswagensuran1_6trendline20124.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagensuran1_6trendline2012/volkswagensuran1_6trendline20125.jpg",
       },
     ],
     reviews: [],

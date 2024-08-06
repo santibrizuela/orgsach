@@ -1,5 +1,51 @@
 export const usados = [
   {
+    id: "65su012v69f113jfla351e9d",
+    name: "SURAN 1.6 TRENDLINE",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 9800,
+    brand: "VOLKSWAGEN",
+    category: "Usado",
+    year: 2012,
+    kms: 114000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagensuran1_6trendline2012/volkswagensuran1_6trendline20121.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagensuran1_6trendline2012/volkswagensuran1_6trendline20122.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagensuran1_6trendline2012/volkswagensuran1_6trendline20123.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagensuran1_6trendline2012/volkswagensuran1_6trendline20124.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagensuran1_6trendline2012/volkswagensuran1_6trendline20125.jpg",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65cit169v69f113jfla351e9d",
     name: "AIRCROSS LIVE 1.5N",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",

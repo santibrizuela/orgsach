@@ -207,4 +207,24 @@ export const planesdeahorro = [
     ],
     reviews: [],
   },
+  {
+    id: "65ama243e91b8e73a351e9p",
+    name: "AMAROK V6",
+    description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
+    price: 78000000,
+    brand: "VOLKSWAGEN",
+    category: "0km",
+    year: 2024,
+    kms: 0,
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenamarokv62024/volkswagenamarokv620241.png",
+      },
+    ],
+    reviews: [],
+  },
 ];
