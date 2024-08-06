@@ -1,5 +1,119 @@
 export const usados = [
   {
+    id: "65cit169v69f113jfla351e9d",
+    name: "AIRCROSS LIVE 1.5N",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 18400000,
+    brand: "CITROËN",
+    category: "Usado",
+    year: 2016,
+    kms: 115000,
+    caja: "Manual",
+    combustible: "Nafta/GNC",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroenaircrosslive1_5n90cv20161/citroenaircrosslive1_5n90cv20161.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroenaircrosslive1_5n90cv20161/citroenaircrosslive1_5n90cv20162.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroenaircrosslive1_5n90cv20161/citroenaircrosslive1_5n90cv20163.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroenaircrosslive1_5n90cv20161/citroenaircrosslive1_5n90cv20164.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroenaircrosslive1_5n90cv20161/citroenaircrosslive1_5n90cv20165.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65aSSDR19v69f113jfla351e9d",
+    name: "SANDERO STEPWAY PRIVILEGE",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 19900,
+    brand: "RENAULT",
+    category: "Usado",
+    year: 2019,
+    kms: 56200,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/renaultsanderostepwayprivilege2019/renaultsanderostepwayprivilege20191.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65a83087av69f113jfla351e9d",
+    name: "308 ALLURE",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 9900000,
+    brand: "PEUGEOT",
+    category: "Usado",
+    year: 2012,
+    kms: 161000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20121.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20122.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20123.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20124.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20125.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65a8rou2466a4f113jfla351e9d",
     name: "ROUSER NS 200",
     description: "-Nafta<br/>-Manual",
@@ -197,6 +311,18 @@ export const usados = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20157.jpeg",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20158.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletspinactive18nmtn5p2015/chevroletspinactive18nmtn5p20159.png",
       },
     ],
     reviews: [],
