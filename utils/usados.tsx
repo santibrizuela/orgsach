@@ -1,5 +1,103 @@
 export const usados = [
   {
+    id: "65RAP202v69f113jfla351e9d",
+    name: "RAPTOR 4X4 2.0 BITURBO",
+    description: "-Diesel<br/>-Automática <br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 45000,
+    brand: "FORD",
+    category: "Usado",
+    year: 2020,
+    kms: 94000,
+    caja: "Automática ",
+    combustible: "Diesel",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordraptor4x42_0biturbo2020/fordraptor4x42_0biturbo20201.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordraptor4x42_0biturbo2020/fordraptor4x42_0biturbo20202.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordraptor4x42_0biturbo2020/fordraptor4x42_0biturbo20203.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordraptor4x42_0biturbo2020/fordraptor4x42_0biturbo20204.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordraptor4x42_0biturbo2020/fordraptor4x42_0biturbo20205.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/fordraptor4x42_0biturbo2020/fordraptor4x42_0biturbo20206.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65scor12v69f113jfla351e9d",
+    name: "CORSA CLASSIC 1.4 LT SEDAN 4P",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 7500,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2012,
+    kms: 141000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassic1_4ltsedan4p2012/chevroletcorsaclassic1_4ltsedan4p20121.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassic1_4ltsedan4p2012/chevroletcorsaclassic1_4ltsedan4p20122.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassic1_4ltsedan4p2012/chevroletcorsaclassic1_4ltsedan4p20123.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassic1_4ltsedan4p2012/chevroletcorsaclassic1_4ltsedan4p20124.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassic1_4ltsedan4p2012/chevroletcorsaclassic1_4ltsedan4p20125.jpg",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65su012v69f113jfla351e9d",
     name: "SURAN 1.6 TRENDLINE",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
@@ -945,7 +1043,7 @@ export const usados = [
     id: "65a654593e91b18e73q51e9c",
     name: "PARTNER CONFORT 1.6",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Bluetooth",
-    price: 14500,
+    price: 13800,
     brand: "Peugeot",
     category: "Usado",
     year: 2022,
