@@ -1,5 +1,63 @@
 export const usados = [
   {
+    id: "65ac2012av69f113jfla351e9d",
+    name: "CORSA CLASSIC LT SPIRIT 1.4N",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Alarma",
+    price: 7000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2012,
+    kms: 138000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20121.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20122.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20123.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20124.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20125.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20126.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcorsaclassicltspirit1_4n2012/chevroletcorsaclassicltspirit1_4n20127.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65RAP202v69f113jfla351e9d",
     name: "RAPTOR 4X4 2.0 BITURBO",
     description: "-Diesel<br/>-Automática <br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
@@ -513,58 +571,6 @@ export const usados = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/chevrolettrackerpremierturboat2022/chevrolettrackerpremierturboat20225.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65aren17aglh1503jfla351e9d",
-    name: "RENEGADE SPORT",
-    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 23000000,
-    brand: "JEEP",
-    category: "Usado",
-    year: 2017,
-    kms: 61815,
-    caja: "Automática",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/jeeprenegadesportat2017/jeeprenegadesportat20171.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/jeeprenegadesportat2017/jeeprenegadesportat20172.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/jeeprenegadesportat2017/jeeprenegadesportat20173.jpg",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/jeeprenegadesportat2017/jeeprenegadesportat20174.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/jeeprenegadesportat2017/jeeprenegadesportat20175.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/jeeprenegadesportat2017/jeeprenegadesportat20176.png",
       },
     ],
     reviews: [],

@@ -945,9 +945,9 @@ export const products = [
   },
   {
     id: "65ac2012av69f113jfla351e9d",
-    name: "CORSA CLASSIC",
+    name: "CORSA CLASSIC LT SPIRIT 1.4N",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Alarma",
-    price: 7500000,
+    price: 7000,
     brand: "CHEVROLET",
     category: "Usado",
     year: 2012,
