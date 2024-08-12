@@ -161,7 +161,7 @@ export const products = [
     id: "65RAP202v69f113jfla351e9d",
     name: "RAPTOR 4X4 2.0 BITURBO",
     description: "-Diesel<br/>-Automática <br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 45000,
+    price: 46800,
     brand: "FORD",
     category: "Usado",
     year: 2020,

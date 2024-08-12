@@ -61,7 +61,7 @@ export const usados = [
     id: "65RAP202v69f113jfla351e9d",
     name: "RAPTOR 4X4 2.0 BITURBO",
     description: "-Diesel<br/>-Automática <br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 45000,
+    price: 46800,
     brand: "FORD",
     category: "Usado",
     year: 2020,
@@ -414,52 +414,6 @@ export const usados = [
     reviews: [],
   },
   {
-    id: "65a8FIE20166a4f113jfla351e9d",
-    name: "FIESTA SE",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 12800,
-    brand: "FORD",
-    category: "Usado",
-    year: 2016,
-    kms: 1,
-    caja: "Manual",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?id=1k2VvxnQoTKmEeGjxg0TvmtOc6_4whjtS",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620162.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620163.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620164.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620165.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
     id: "65a8uti766a4f113jfla351e9d",
     name: "SPIN ACTIVE",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
@@ -802,58 +756,6 @@ export const usados = [
     reviews: [],
   },
   {
-    id: "65a8ave7av69f113jfla351e9d",
-    name: "AVEO G3",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 9900000,
-    brand: "CHEVROLET",
-    category: "Usado",
-    year: 2013,
-    kms: 61200,
-    caja: "Manual",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletaveog3ls1_6nmtsedan4p2013/chevroletaveog3ls1_6nmtsedan4p20131.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletaveog3ls1_6nmtsedan4p2013/chevroletaveog3ls1_6nmtsedan4p20132.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletaveog3ls1_6nmtsedan4p2013/chevroletaveog3ls1_6nmtsedan4p20133.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletaveog3ls1_6nmtsedan4p2013/chevroletaveog3ls1_6nmtsedan4p20134.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletaveog3ls1_6nmtsedan4p2013/chevroletaveog3ls1_6nmtsedan4p20135.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletaveog3ls1_6nmtsedan4p2013/chevroletaveog3ls1_6nmtsedan4p20136.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
     id: "65a8uti7av69f113jfla351e9d",
     name: "AMAROK V6",
     description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
@@ -971,76 +873,6 @@ export const usados = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/fiatsienafire148v2014/fiatsienafire148v20147.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65a8uti711e91b9qlos351e9d",
-    name: "1500 LARAMIE",
-    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 49000,
-    brand: "RAM",
-    category: "Usado",
-    year: 2020,
-    kms: 67219,
-    caja: "Automática",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20201.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20202.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20201.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20203.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20204.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20205.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20206.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20207.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/ram150057laramie4x4pickupcd2020/ram150057laramie4x4pickupcd20208.png",
       },
     ],
     reviews: [],
