@@ -158,6 +158,162 @@ export const products = [
     reviews: [],
   },
   {
+    id: "65a654593e91b8e73a351e9p",
+    name: "CRUZE PREMIER",
+    description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
+    price: 36900000,
+    brand: "Chevrolet",
+    category: "0km",
+    year: 2024,
+    kms: 0,
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20241.png",
+      },
+      {
+        color: "Gray",
+        colorCode: "#808080",
+        image:
+          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20242.png",
+      },
+      {
+        color: "Gray",
+        colorCode: "#808080",
+        image:
+          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20243.png",
+      },
+      {
+        color: "Gray",
+        colorCode: "#808080",
+        image:
+          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20244.png",
+      },
+      {
+        color: "Gray",
+        colorCode: "#808080",
+        image:
+          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20245.png",
+      },
+      {
+        color: "Gray",
+        colorCode: "#808080",
+        image:
+          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20246.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "65ama243e91b8e73a351e9p",
+    name: "AMAROK V6",
+    description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
+    price: 78000000,
+    brand: "VOLKSWAGEN",
+    category: "0km",
+    year: 2024,
+    kms: 0,
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/volkswagenamarokv62024/volkswagenamarokv620241.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "6ogtiseaav69f113jfla351e9d",
+    name: "DOO GTI 130 4TEC MOD",
+    description: "120hs con servicio en 50hs y 115hs <br/> Contamos con el trailer marca mactrail",
+    price: 13500,
+    brand: "SEA",
+    category: "Usado",
+    year: 2010,
+    kms: 1,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/reseadoogti1304tecmod2010/reseadoogti1304tecmod20101.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/reseadoogti1304tecmod2010/reseadoogti1304tecmod20102.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/reseadoogti1304tecmod2010/reseadoogti1304tecmod20103.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/reseadoogti1304tecmod2010/reseadoogti1304tecmod20104.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "fordfiestase1_62016",
+    name: "FIESTA SE",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 12800,
+    brand: "FORD",
+    category: "Usado",
+    year: 2016,
+    kms: 1,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?id=138QeBVmpLOk-ApzdNIdtgwgZLhnFc1Mo",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?id=1mYdCCfcXTqP1Bp0DaTWd6LHZCzVEM6lr",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?id=1s8LgX8bAR0lFepBvS0iCFSXgSb5el6N-",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?id=1JvrG2XlD5BFI2KoNXauXBQXQkIfl88Ug",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?id=1t-OuiSZcnVGvituCtzv7ZKcBlTIudBya",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65RAP202v69f113jfla351e9d",
     name: "RAPTOR 4X4 2.0 BITURBO",
     description: "-Diesel<br/>-Automática <br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
@@ -251,76 +407,6 @@ export const products = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/chevroletcorsaclassic1_4ltsedan4p2012/chevroletcorsaclassic1_4ltsedan4p20125.jpg",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65ama243e91b8e73a351e9p",
-    name: "AMAROK V6",
-    description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 78000000,
-    brand: "VOLKSWAGEN",
-    category: "0km",
-    year: 2024,
-    kms: 0,
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/volkswagenamarokv62024/volkswagenamarokv620241.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65a654593e91b8e73a351e9p",
-    name: "CRUZE PREMIER",
-    description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 36900000,
-    brand: "Chevrolet",
-    category: "0km",
-    year: 2024,
-    kms: 0,
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20241.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20242.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20243.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20244.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20245.png",
-      },
-      {
-        color: "Gray",
-        colorCode: "#808080",
-        image:
-          "/products/orgsachimages/chevroletcruzepremier2024/chevroletcruzepremier20246.png",
       },
     ],
     reviews: [],
@@ -563,52 +649,6 @@ export const products = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/volkswagenvento2_5highlinesedan4p2015/volkswagenvento2_5highlinesedan4p20156.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65a8FIE20166a4f113jfla351e9d",
-    name: "FIESTA SE",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 12800,
-    brand: "FORD",
-    category: "Usado",
-    year: 2016,
-    kms: 1,
-    caja: "Manual",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620161.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620162.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620163.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620164.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/fordfiestase1_62016/fordfiestase1_620165.png",
       },
     ],
     reviews: [],

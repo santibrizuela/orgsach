@@ -1,5 +1,45 @@
 export const usados = [
   {
+    id: "6ogtiseaav69f113jfla351e9d",
+    name: "DOO GTI 130 4TEC MOD",
+    description: "120hs con servicio en 50hs y 115hs <br/> Contamos con el trailer marca mactrail",
+    price: 13500,
+    brand: "SEA",
+    category: "Usado",
+    year: 2010,
+    kms: 1,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/reseadoogti1304tecmod2010/reseadoogti1304tecmod20101.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/reseadoogti1304tecmod2010/reseadoogti1304tecmod20102.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/reseadoogti1304tecmod2010/reseadoogti1304tecmod20103.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/reseadoogti1304tecmod2010/reseadoogti1304tecmod20104.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65ac2012av69f113jfla351e9d",
     name: "CORSA CLASSIC LT SPIRIT 1.4N",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Alarma",
@@ -265,52 +305,6 @@ export const usados = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/renaultsanderostepwayprivilege2019/renaultsanderostepwayprivilege20191.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65a83087av69f113jfla351e9d",
-    name: "308 ALLURE",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 9900000,
-    brand: "PEUGEOT",
-    category: "Usado",
-    year: 2012,
-    kms: 161000,
-    caja: "Manual",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20121.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20122.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20123.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20124.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/peugeot308allure2012/peugeot308allure20125.png",
       },
     ],
     reviews: [],
@@ -699,58 +693,6 @@ export const usados = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/hondaglh1502014/hondaglh15020149.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65a8CRU7av69f113jfla351e9d",
-    name: "CRUZE LT",
-    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 14000000,
-    brand: "CHEVROLET",
-    category: "Usado",
-    year: 2015,
-    kms: 89000,
-    caja: "Manual",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_82015/chevroletcruzelt1_820151.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_82015/chevroletcruzelt1_820152.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_82015/chevroletcruzelt1_820153.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_82015/chevroletcruzelt1_820154.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_82015/chevroletcruzelt1_820155.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_82015/chevroletcruzelt1_820156.png",
       },
     ],
     reviews: [],
