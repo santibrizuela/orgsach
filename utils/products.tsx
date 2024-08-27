@@ -3,7 +3,7 @@ export const products = [
     id: "65a654593eg73a351e9c",
     name: "TRACKER 1.2 MT",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 235613,
+    price: 245133,
     brand: "Chevrolet",
     category: "Plan de ahorro",
     year: 2024,
@@ -35,7 +35,7 @@ export const products = [
     id: "65a654593eg73a462e9c",
     name: "TRACKER 1.2 AT",
     description: "-Nafta<br/>-Automático<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 275931,
+    price: 287032,
     brand: "Chevrolet",
     category: "Plan de ahorro",
     year: 2024,
@@ -91,7 +91,7 @@ export const products = [
     id: "65a654593e92b8e73a351e9c",
     name: "ONIX 1.0 LT MT",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 211160,
+    price: 218618,
     brand: "Chevrolet",
     category: "Plan de ahorro",
     year: 2024,
@@ -129,7 +129,7 @@ export const products = [
     id: "65a654593e9a73a351e9c",
     name: "S10 CD 2.8 4x2 LS MT",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma<br/>-Bluetooth",
-    price: 276645,
+    price: 282180,
     brand: "Chevrolet",
     category: "Plan de ahorro",
     year: 2024,
@@ -228,6 +228,216 @@ export const products = [
     reviews: [],
   },
   {
+    id: "65a83087av69f113jfla351e9d",
+    name: "PRISMA LTZ 1.4",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 16800000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2016,
+    kms: 108400,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1POH6L-JVjiCKfKnqHK4cesmlr7dOBnyR",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=17T1ilmKvTtrr5xREzKHKBVXNw-iNrKqj",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1Kg9VllAbvt-gziJ6TflFJfxLuvApSJcB",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1MAdy16V7a43pnZsTZQOqcBvSk7ib1gI4",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1Dj1-U5gNdtJQApNQ15BSPf51OBdFxAl5",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1_0cSrjtSW1W7g1cDB96_uabrHBPjdpUL",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1R_jJr-Iqc6A4rgviPTww20wAY_Ipo5yP",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1AUha5ZelxVMHVSMxRynC4iOAHl9VMxQR",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1JPnKbn2wY0Dua3vdlpMDypDxu8S9Sl5w",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "renaultcliomioconfortpacksat1_25p2016",
+    name: "CLIO MIO CONFORT PACK SAT 1.2 5P",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 11400000,
+    brand: "RENAULT",
+    category: "Usado",
+    year: 2016,
+    kms: 92000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=179d7A3m0LkuAYSo-KTKlYoIWrek-Mu93",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1S4c_wHvMoTsb_EnyKNWsvCQ5jJV6Dcbi",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=17Um7G7MC31IYXAblt0njIYrjzcvI6s0j",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=17vsIBN0EGEQ1BhxPoJw8_tFIi0s2IudJ",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1Y7QOWvX3Iq3NOet3xtxAKql2HqS5mCF3",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1bSt3EjaPIjLHHlLZr2aHkOAsCV5-RRk3",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1SjYrGclSlqIf2NwSmXslKb2pSEltY7tu",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1zc1xIObnK1TJAzI407_F9avgkQ5K-tbA",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1kqiwq6rJ7kqqEJcbYHHVOYaPnWYS2fsz",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "fordfiestatitanium1_62012",
+    name: "FIESTA TITANIUM 1.6",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 11500,
+    brand: "FORD",
+    category: "Usado",
+    year: 2012,
+    kms: 113000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1UL7keOeHHsjYPEPdJI6XbL8-neYEIJDx",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1CtxsulsPXWq9KNN34IXI_bks1A9Qs1XK",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1PdxG7FSSr02OJJ0hVe9CRORqM-fuDwxm",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1Na4Y7XODDTPT_s_ubhkp5o2fKyXVM3gj",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1oPCRjAKLljm-t-x51ubr6VMIPm2_CFxw",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1o3bySz2oJgEZpFRLyjyZO7Aoj1gs0lXG",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1tGZjTS6NLJsdnnenv3iNWO7-vEUoGhZq",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1b6BNb85XkHWjNRXafW0_aE98AW1DlrQT",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1n_5ngLzibELePLB506gpjLWhhEl-54wh",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "6ogtiseaav69f113jfla351e9d",
     name: "DOO GTI 130 4TEC MOD",
     description: "120hs con servicio en 50hs y 115hs <br/> Contamos con el trailer marca mactrail",
@@ -317,7 +527,7 @@ export const products = [
     id: "65RAP202v69f113jfla351e9d",
     name: "RAPTOR 4X4 2.0 BITURBO",
     description: "-Diesel<br/>-Automática <br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 46800,
+    price: 43400,
     brand: "FORD",
     category: "Usado",
     year: 2020,
@@ -369,7 +579,7 @@ export const products = [
     id: "65scor12v69f113jfla351e9d",
     name: "CORSA CLASSIC 1.4 LT SEDAN 4P",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 7500,
+    price: 7000,
     brand: "CHEVROLET",
     category: "Usado",
     year: 2012,
@@ -507,7 +717,7 @@ export const products = [
     id: "65aSSDR19v69f113jfla351e9d",
     name: "SANDERO STEPWAY PRIVILEGE",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 19900,
+    price: 17500,
     brand: "RENAULT",
     category: "Usado",
     year: 2019,
@@ -605,7 +815,7 @@ export const products = [
     id: "65a8ven15766a4f113jfla351e9d",
     name: "VENTO HIGHLINE",
     description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 17500,
+    price: 16900,
     brand: "VOLKSWAGEN",
     category: "Usado",
     year: 2015,
@@ -987,7 +1197,7 @@ export const products = [
     id: "65ac2012av69f113jfla351e9d",
     name: "CORSA CLASSIC LT SPIRIT 1.4N",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Alarma",
-    price: 7000,
+    price: 7500,
     brand: "CHEVROLET",
     category: "Usado",
     year: 2012,
