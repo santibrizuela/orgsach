@@ -1,5 +1,51 @@
 export const usados = [
   {
+    id: "chevroletprismalt2016",
+    name: "PRISMA LT",
+    description: "-GNC<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Alarma",
+    price: 15000000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2016,
+    kms: 110000,
+    caja: "Manual",
+    combustible: "GNC",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1-e4pwI3cD9Eq3lws_3kDOVHjFTlQzllK",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1kIM164o05wZXehfQBqtj1WubbRnujNp0",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1hwt9-ZccGG24LR_jTVqpDt3hCMGXOX57",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1lBGDyxq4cIeBvCvRVwSmrYJxSYKH6ctA",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1mtS3CA-2M1YysX0SteVBXRSS4lubkrvh",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65a83087av69f113jfla351e9d",
     name: "PRISMA LTZ 1.4",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
@@ -621,7 +667,7 @@ export const usados = [
     id: "65aTRK22aglh1503jfla351e9d",
     name: "TRACKER PREMIER",
     description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 34000000,
+    price: 35000000,
     brand: "CHEVROLET",
     category: "Usado",
     year: 2022,
@@ -667,7 +713,7 @@ export const usados = [
     id: "65aoni18aglh1503jfla351e9d",
     name: "ONIX LTZ",
     description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 20000000,
+    price: 21000000,
     brand: "CHEVROLET",
     category: "Usado",
     year: 2018,
@@ -719,7 +765,7 @@ export const usados = [
     id: "65aTRK21aglh1503jfla351e9d",
     name: "TRACKER LTZ",
     description: "-Nafta<br/>-Atuomática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 31000000,
+    price: 32000000,
     brand: "CHEVROLET",
     category: "Usado",
     year: 2021,

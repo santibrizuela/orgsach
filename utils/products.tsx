@@ -228,6 +228,52 @@ export const products = [
     reviews: [],
   },
   {
+    id: "chevroletprismalt2016",
+    name: "PRISMA LT",
+    description: "-GNC<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Alarma",
+    price: 15000000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2016,
+    kms: 110000,
+    caja: "Manual",
+    combustible: "GNC",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1-e4pwI3cD9Eq3lws_3kDOVHjFTlQzllK",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1kIM164o05wZXehfQBqtj1WubbRnujNp0",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1hwt9-ZccGG24LR_jTVqpDt3hCMGXOX57",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1lBGDyxq4cIeBvCvRVwSmrYJxSYKH6ctA",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1mtS3CA-2M1YysX0SteVBXRSS4lubkrvh",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65a83087av69f113jfla351e9d",
     name: "PRISMA LTZ 1.4",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
@@ -962,10 +1008,56 @@ export const products = [
     reviews: [],
   },
   {
+    id: "65aTRK22aglh1503jfla351e9d",
+    name: "TRACKER PREMIER",
+    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 35000000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2022,
+    kms: 75300,
+    caja: "Automática",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerpremierturboat2022/chevrolettrackerpremierturboat20221.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerpremierturboat2022/chevrolettrackerpremierturboat20222.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerpremierturboat2022/chevrolettrackerpremierturboat20223.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerpremierturboat2022/chevrolettrackerpremierturboat20224.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/chevrolettrackerpremierturboat2022/chevrolettrackerpremierturboat20225.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "65aoni18aglh1503jfla351e9d",
     name: "ONIX LTZ",
     description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 20000000,
+    price: 21000000,
     brand: "CHEVROLET",
     category: "Usado",
     year: 2018,
@@ -1017,7 +1109,7 @@ export const products = [
     id: "65aTRK21aglh1503jfla351e9d",
     name: "TRACKER LTZ",
     description: "-Nafta<br/>-Atuomática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 31000000,
+    price: 32000000,
     brand: "CHEVROLET",
     category: "Usado",
     year: 2021,
@@ -1061,76 +1153,6 @@ export const products = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/chevrolettrackerltz1_2turbo2021/chevrolettrackerltz1_2turbo20216.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65acru77aglh1503jfla351e9d",
-    name: "CRUZE LT",
-    description: "-Nafta<br/>-Atuomática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 18500000,
-    brand: "CHEVROLET",
-    category: "Usado",
-    year: 2017,
-    kms: 96103,
-    caja: "Atuomática",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20171.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20172.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20173.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20174.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20175.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20176.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20177.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20178.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/chevroletcruzelt1_4turbo2017/chevroletcruzelt1_4turbo20179.png",
       },
     ],
     reviews: [],
