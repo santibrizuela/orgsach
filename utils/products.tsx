@@ -625,7 +625,7 @@ export const products = [
     id: "65scor12v69f113jfla351e9d",
     name: "CORSA CLASSIC 1.4 LT SEDAN 4P",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 7000,
+    price: 6500,
     brand: "CHEVROLET",
     category: "Usado",
     year: 2012,
