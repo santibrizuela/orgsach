@@ -274,10 +274,10 @@ export const products = [
     reviews: [],
   },
   {
-    id: "65a83087av69f113jfla351e9d",
+    id: "chevroletprismaltz1_42016",
     name: "PRISMA LTZ 1.4",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 16800000,
+    price: 15900000,
     brand: "CHEVROLET",
     category: "Usado",
     year: 2016,
@@ -417,7 +417,7 @@ export const products = [
     id: "fordfiestatitanium1_62012",
     name: "FIESTA TITANIUM 1.6",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 11500,
+    price: 14950000,
     brand: "FORD",
     category: "Usado",
     year: 2012,
@@ -714,10 +714,10 @@ export const products = [
     reviews: [],
   },
   {
-    id: "65cit169v69f113jfla351e9d",
+    id: "citroenaircrosslive1_5n90cv20161",
     name: "AIRCROSS LIVE 1.5N",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 18400000,
+    price: 16640000,
     brand: "CITROËN",
     category: "Usado",
     year: 2016,
@@ -858,10 +858,10 @@ export const products = [
     reviews: [],
   },
   {
-    id: "65a8ven15766a4f113jfla351e9d",
+    id: "volkswagenvento2_5highlinesedan4p2015",
     name: "VENTO HIGHLINE",
     description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 16900,
+    price: 19000000,
     brand: "VOLKSWAGEN",
     category: "Usado",
     year: 2015,
@@ -1277,11 +1277,11 @@ export const products = [
     id: "65a83087aglh1503jfla351e9d",
     name: "GLH 150",
     description: "-Nafta<br/>-Manual",
-    price: 2500000,
+    price: 2600000,
     brand: "HONDA",
     category: "Usado",
     year: 2022,
-    kms: 43657,
+    kms: 46000,
     caja: "Manual",
     combustible: "Nafta",
     inStock: true,
@@ -1662,7 +1662,7 @@ export const products = [
     reviews: [],
   },
   {
-    id: "65a8uti7av69f113jfla351e9d",
+    id: "volkswagenamarokv6comfortlie3_0ltdi4x42019",
     name: "AMAROK V6",
     description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
     price: 29000,
@@ -2401,6 +2401,266 @@ export const products = [
         colorCode: "#FFFFFF",
         image:
           "/products/orgsachimages/peugeotpartnerconfort162022/peugeotpartnerconfort1620227.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "BAJAJROUSER200RS2023",
+    name: "ROUSER 200 RS",
+    description: "-Nafta<br/>-Manual",
+    price: 3500000,
+    brand: "BAJAJ",
+    category: "Usado",
+    year: 2023,
+    kms: 6076,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1mrpzUQrX9adNX1soD-EZhFMSeA_7gsSE",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1zSp-dQlKs7OhrWDq9XCwXokhDvzOM38r",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=15lZ_Bk4v1wAka3_bNMlDjd9i3I3MOEdR",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1BJOpvFwqXFHUJw-x9gvhlqNnAK-LatbK",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1hJlM4sKubv-zZVZozyPubwd5P_IFVETL",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1-LN3vsSf-YEhZrwuBMaCJZGz5h197p7f",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "chevroletspin1_8lt5as2024",
+    name: "SPIN 1.8 LT 5 AS",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 13900000,
+    brand: "CHEVROLET",
+    category: "0km",
+    year: 2024,
+    kms: 0,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1D0v4JbKHt_MwWKs3gb2E34TnCapIUnH6",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1YuE5qJioBS0LdrJPI2bKd-xsCdFOsKEe",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1A0UXwSOF-Bmg19EOjURd3xN-b5OdiD7N",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1yWlnTuaF41P4v002u3TfRQKwLbZPtl7g",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1fhbuAbbGIck72l1agNCrGX-lgDYUc35k",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1aNDsZhijlRwgBVTAuIjKSgC8KkoZIpeH",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "CHEVROLETTRACKER1_8LTZ4X4ATPREMIER",
+    name: "TRACKER 1.8 LTZ 4X4 AT PREMIER",
+    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 24000000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2018,
+    kms: 93200,
+    caja: "Automática",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1uaWex_OgMHo7BXhtjiob3p3UpZKjeJag",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1AFwCbCEWRFL0yJB8kH28azyrsc16bRsJ",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1kfh9vqmxz9Qrt8LeyrYekF36Y4rgcBPL",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1eIH6fzZ9LZNtifVx24o-RUTSustx11jR",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1atGAcY6NWxhTKIwYE2iGxLPWXYSD71GW",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1kFCsVDaMIyh4EJpftK8CvWzVHCX5bIYn",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "renaultclio2f21_25ppackplus",
+    name: "CLIO 2 F2 1.2 5P PACK PLUS",
+    description: "-Nafta/GNC<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 5900000,
+    brand: "RENAULT",
+    category: "Usado",
+    year: 2007,
+    kms: 1,
+    caja: "Manual",
+    combustible: "Nafta/GNC",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1P-x_hZr3oVofFTDh1S1q1sIm3zGsuVDw",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1uEaQ0zMsPQkLLxDoFyIAvSOMer5-Wvlc",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1nF0xQEPdKWWa4DjWq5SfxRV6bS8JswJA",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1rN678XPMDc_7SnF0n6cy6GxKn8FqWnKB",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1vdoK4BnBWMpcwnNRVSbvyH15xi3NLdlX",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=13dTM2HZOsY_VgLzpo0x8Q3y58mY0sbTf",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "chevroletcruze1_45pltat",
+    name: "CRUZE 1.4 5P LT AT",
+    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 32900000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2024,
+    kms: 203,
+    caja: "Automática",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1XBlV9KfUjBHBdJJYFwZVXddZUmkm643n",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=17zXSZZLK92e5HJHecCBHd_MmIgOV2Xpx",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1mycAw2SjiZQQwY1Diy0OLn_BsYDmIkG3",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=16a7mBtCyJXPz4rPsorKZqEbTwuvUYsQb",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1ACk8S3ysRq8zw89-BY9hjC7lK-zqNFoz",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1giSGyyx8Pdack6zIQA-SkEX2cxgMJxiL",
       },
     ],
     reviews: [],
