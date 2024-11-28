@@ -1,5 +1,149 @@
 export const usados = [
   {
+    id: "audis43_0v6tfsiquattro",
+    name: "S4 3.0 V6 T. FSI QUATTRO",
+    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 42000,
+    brand: "AUDI",
+    category: "Usado",
+    year: 2012,
+    kms: 57000,
+    caja: "Automática",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1ja-SDTljj_52NwVmSaKxumA5MYgfGUu4",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1njE3SY675a-XdJfm-WiNTB19XPR1zBvw",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1SArdZx2m7y4rP2LHTpGB8p6n6riiUtpl",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1_1YO_1e-X8cgEm4Kw6j5KiRJqoKLtUVZ",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1J0Pv_qi9avPKs2uQ9eLF1_VZv1dd3Vbv",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=16utGGFItA6VdQsamZPYteB2arUkVUCsF",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "chevroletcruze1_44ppremierat",
+    name: "CRUZE 1.4 4 PTAS PREMIER AT",
+    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 36900000,
+    brand: "CHEVROLET",
+    category: "0km",
+    year: 2024,
+    kms: 0,
+    caja: "Automática",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1w1fLXqRDJ9fF1rQGmWl2Rp25IqyCdFGf",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=11VZvUkQaHWSfKun5dyY3i9lGNC1GklJu",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1hhLDUeMAyiz9F_FTMP9lUMNhKidR6Wsk",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1w1OrsMAWsS61ZRGby6ua71v95_MiQHJ9",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1F5YVQKNfgHglt2ZUIEXzdjwdpRYxAKaq",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1NGqMVC449HJGR_S6w8D0ZPz014ksa-N8",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "renaultsandero1_68vauthentiquepacki",
+    name: "SANDERO 1.6 8V AUTHENTIQUE PACK I	",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 0,
+    brand: "RENAULT",
+    category: "Usado",
+    year: 2014,
+    kms: 160000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=186B9DzeChc5LWjbNfyo1b5RyNH1nF9FI",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1wDqK_rAqSwKRcHA6d7LBu3rPwPnshhw1",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1WIZ8DOisp5n70Mo9kcLgnvj82igLdii3",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1w5p9NuRWhCDfTNH_a_Az5ovtRTYHCX_A",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "PEUGEOT3081_6THPSPORTTIPTRONIC2012",
     name: "308 1.6 THP SPORT TIPTRONIC",
     description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
