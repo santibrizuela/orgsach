@@ -1,5 +1,57 @@
 export const products = [
   {
+    id: "chevroletprisma1_4lsjoyL172019",
+    name: "PRISMA 1.4 LS JOY L/17",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 10000000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2019,
+    kms: 125000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1aTVSz1WYr4UX7xlqwN816geK3RTbFHxh",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1gQcSzay01j0LC5ldfqHm1c08-CLpPyk6",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1nIJ3zCpNTP36-O3zOKTudbRBAi1sra0K",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=16oOG0sCBHxg0wwCWtFAPs5nhpUJlnyWO",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1aWOQTJj4KgDdaBlz0b_upOMnnY0DQ_qt",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1Hp7HvMTK9lGj3oalvI0mV_V6aI-oKaVS",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "audis43_0v6tfsiquattro",
     name: "S4 3.0 V6 T. FSI QUATTRO",
     description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
@@ -107,7 +159,7 @@ export const products = [
     id: "renaultsandero1_68vauthentiquepacki",
     name: "SANDERO 1.6 8V AUTHENTIQUE PACK I	",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 0,
+    price: 11200000,
     brand: "RENAULT",
     category: "Usado",
     year: 2014,
