@@ -1,5 +1,103 @@
 export const usados = [
   {
+    id: "chevroletcruze1_85ptasltz2012",
+    name: "CRUZE 1.8 5 PTAS LTZ",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 13400000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2012,
+    kms: 130000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1acb9c71TEUAB0HBarKmYGo8qC_GmNrtp",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1YDVk48znTeL8Vr5Z8nzc76YJQJt8zLrK",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1CmPFnaevse1KeO14ElyTUEdiSbRuXbRa",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=11zHqsEFrhQug-YwcKoz269GP1tVd3Bxr",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1yfopd5dR1FH3K3DFoJKB7blbaOBRk1x8",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1OlqiL3t4dyceY2e1n89wwJdTW_QHH17l",
+      },
+    ],
+    reviews: [],
+  },
+  {
+    id: "citroenc3aircrosslive1_5n90cv20161",
+    name: "C 3 AIRCROSS LIVE 1.5N",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 16640000,
+    brand: "CITROËN",
+    category: "Usado",
+    year: 2016,
+    kms: 115000,
+    caja: "Manual",
+    combustible: "Nafta/GNC",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroenaircrosslive1_5n90cv20161/citroenaircrosslive1_5n90cv20161.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroenaircrosslive1_5n90cv20161/citroenaircrosslive1_5n90cv20162.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroenaircrosslive1_5n90cv20161/citroenaircrosslive1_5n90cv20163.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroenaircrosslive1_5n90cv20161/citroenaircrosslive1_5n90cv20164.png",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "/products/orgsachimages/citroenaircrosslive1_5n90cv20161/citroenaircrosslive1_5n90cv20165.png",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "chevroletprisma1_4lsjoyL172019",
     name: "PRISMA 1.4 LS JOY L/17",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
@@ -47,58 +145,6 @@ export const usados = [
         colorCode: "#FFFFFF",
         image:
           "https://drive.google.com/uc?export=view&id=1Hp7HvMTK9lGj3oalvI0mV_V6aI-oKaVS",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "audis43_0v6tfsiquattro",
-    name: "S4 3.0 V6 T. FSI QUATTRO",
-    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 42000,
-    brand: "AUDI",
-    category: "Usado",
-    year: 2012,
-    kms: 57000,
-    caja: "Automática",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=1ja-SDTljj_52NwVmSaKxumA5MYgfGUu4",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=1njE3SY675a-XdJfm-WiNTB19XPR1zBvw",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=1SArdZx2m7y4rP2LHTpGB8p6n6riiUtpl",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=1_1YO_1e-X8cgEm4Kw6j5KiRJqoKLtUVZ",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=1J0Pv_qi9avPKs2uQ9eLF1_VZv1dd3Vbv",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=16utGGFItA6VdQsamZPYteB2arUkVUCsF",
       },
     ],
     reviews: [],
@@ -191,52 +237,6 @@ export const usados = [
         colorCode: "#FFFFFF",
         image:
           "https://drive.google.com/uc?export=view&id=1w5p9NuRWhCDfTNH_a_Az5ovtRTYHCX_A",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "PEUGEOT3081_6THPSPORTTIPTRONIC2012",
-    name: "308 1.6 THP SPORT TIPTRONIC",
-    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 13900000,
-    brand: "PEUGEOT",
-    category: "Usado",
-    year: 2012,
-    kms: 157000,
-    caja: "Automática",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=1ia29s0FI9xy5YEodBYbCU7R4dTIqCnka",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=1cGkI33aqvSKUJnVVbeOyvDp_5I803qVf",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=159AwyoOb7KUULM3lMBVytKdxtCe2JNb0",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=1wzQcgxJMabf2qsvXeN6UV4xk8VZFnXNJ",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=1fqFSIB1zN2Exej49h5JPggrtxF1DI7I3",
       },
     ],
     reviews: [],
@@ -478,192 +478,6 @@ export const usados = [
     reviews: [],
   },
   {
-    id: "volkswagenamarokv6comfortlie3_0ltdi4x42019",
-    name: "AMAROK V6",
-    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 34900000,
-    brand: "VOLKSWAGEN",
-    category: "Usado",
-    year: 2019,
-    kms: 88400,
-    caja: "Automática",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/volkswagenamarokv6comfortlie3_0ltdi4x42019/volkswagenamarokv6comfortlie3_0ltdi4x420191.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/volkswagenamarokv6comfortlie3_0ltdi4x42019/volkswagenamarokv6comfortlie3_0ltdi4x420192.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/volkswagenamarokv6comfortlie3_0ltdi4x42019/volkswagenamarokv6comfortlie3_0ltdi4x420193.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/volkswagenamarokv6comfortlie3_0ltdi4x42019/volkswagenamarokv6comfortlie3_0ltdi4x420194.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/volkswagenamarokv6comfortlie3_0ltdi4x42019/volkswagenamarokv6comfortlie3_0ltdi4x420195.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/volkswagenamarokv6comfortlie3_0ltdi4x42019/volkswagenamarokv6comfortlie3_0ltdi4x420196.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/volkswagenamarokv6comfortlie3_0ltdi4x42019/volkswagenamarokv6comfortlie3_0ltdi4x420197.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/volkswagenamarokv6comfortlie3_0ltdi4x42019/volkswagenamarokv6comfortlie3_0ltdi4x420198.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "65a83087aglh1503jfla351e9d",
-    name: "GLH 150",
-    description: "-Nafta<br/>-Manual",
-    price: 2600000,
-    brand: "HONDA",
-    category: "Usado",
-    year: 2022,
-    kms: 46000,
-    caja: "Manual",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/hondaglh1502014/hondaglh15020141.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/hondaglh1502014/hondaglh15020142.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/hondaglh1502014/hondaglh15020143.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/hondaglh1502014/hondaglh15020144.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/hondaglh1502014/hondaglh15020145.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/hondaglh1502014/hondaglh15020146.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/hondaglh1502014/hondaglh15020147.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/hondaglh1502014/hondaglh15020148.png",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "/products/orgsachimages/hondaglh1502014/hondaglh15020149.png",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "BAJAJROUSER200RS2023",
-    name: "ROUSER 200 RS",
-    description: "-Nafta<br/>-Manual",
-    price: 3500000,
-    brand: "BAJAJ",
-    category: "Usado",
-    year: 2023,
-    kms: 6076,
-    caja: "Manual",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=1mrpzUQrX9adNX1soD-EZhFMSeA_7gsSE",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=1zSp-dQlKs7OhrWDq9XCwXokhDvzOM38r",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=15lZ_Bk4v1wAka3_bNMlDjd9i3I3MOEdR",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=1BJOpvFwqXFHUJw-x9gvhlqNnAK-LatbK",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=1hJlM4sKubv-zZVZozyPubwd5P_IFVETL",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=1-LN3vsSf-YEhZrwuBMaCJZGz5h197p7f",
-      },
-    ],
-    reviews: [],
-  },
-  {
     id: "renaultclio2f21_25ppackplus",
     name: "CLIO 2 F2 1.2 5P PACK PLUS",
     description: "-Nafta/GNC<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
@@ -711,58 +525,6 @@ export const usados = [
         colorCode: "#FFFFFF",
         image:
           "https://drive.google.com/uc?export=view&id=13dTM2HZOsY_VgLzpo0x8Q3y58mY0sbTf",
-      },
-    ],
-    reviews: [],
-  },
-  {
-    id: "chevroletcruze1_45pltat",
-    name: "CRUZE 1.4 5P LT AT",
-    description: "-Nafta<br/>-Automática<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
-    price: 32900000,
-    brand: "CHEVROLET",
-    category: "Usado",
-    year: 2024,
-    kms: 203,
-    caja: "Automática",
-    combustible: "Nafta",
-    inStock: true,
-    images: [
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=1XBlV9KfUjBHBdJJYFwZVXddZUmkm643n",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=17zXSZZLK92e5HJHecCBHd_MmIgOV2Xpx",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=1mycAw2SjiZQQwY1Diy0OLn_BsYDmIkG3",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=16a7mBtCyJXPz4rPsorKZqEbTwuvUYsQb",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=1ACk8S3ysRq8zw89-BY9hjC7lK-zqNFoz",
-      },
-      {
-        color: "White",
-        colorCode: "#FFFFFF",
-        image:
-          "https://drive.google.com/uc?export=view&id=1giSGyyx8Pdack6zIQA-SkEX2cxgMJxiL",
       },
     ],
     reviews: [],

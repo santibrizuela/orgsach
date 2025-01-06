@@ -1,5 +1,57 @@
 export const products = [
   {
+    id: "chevroletcruze1_85ptasltz2012",
+    name: "CRUZE 1.8 5 PTAS LTZ",
+    description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
+    price: 13400000,
+    brand: "CHEVROLET",
+    category: "Usado",
+    year: 2012,
+    kms: 130000,
+    caja: "Manual",
+    combustible: "Nafta",
+    inStock: true,
+    images: [
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1acb9c71TEUAB0HBarKmYGo8qC_GmNrtp",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1YDVk48znTeL8Vr5Z8nzc76YJQJt8zLrK",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1CmPFnaevse1KeO14ElyTUEdiSbRuXbRa",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=11zHqsEFrhQug-YwcKoz269GP1tVd3Bxr",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1yfopd5dR1FH3K3DFoJKB7blbaOBRk1x8",
+      },
+      {
+        color: "White",
+        colorCode: "#FFFFFF",
+        image:
+          "https://drive.google.com/uc?export=view&id=1OlqiL3t4dyceY2e1n89wwJdTW_QHH17l",
+      },
+    ],
+    reviews: [],
+  },
+  {
     id: "chevroletprisma1_4lsjoyL172019",
     name: "PRISMA 1.4 LS JOY L/17",
     description: "-Nafta<br/>-Manual<br/>-Aire acondicionado<br/>-Cierre centralizado<br/>-Cristales eléctricos<br/>-Alarma",
